@@ -2,7 +2,7 @@
   {
     "id": "Shadow-L1-001",
     "level": 1,
-    "title": "Làm quen công nghệ và lợi ích lâu dài",
+    "title": "In the long run · Lợi ích lâu dài",
     "sourceTitle": "English in a Minute: In the Long Run",
     "channel": "VOA Learning English",
     "topic": "Công nghệ trong học tập và công việc",
@@ -10,8 +10,8 @@
     "videoId": "iSTlFeW-Z9M",
     "durationSeconds": 60,
     "transcriptUrl": "https://www.youtube.com/watch?v=iSTlFeW-Z9M",
-    "transcriptInstructions": "Mở video, mở rộng phần mô tả bằng nút Thêm/Show more. Lời thoại nằm ở đầu mô tả, từ phần chào mở đầu đến lời kết chương trình; dừng trước phần giới thiệu chung về kênh.",
-    "submissionScope": "Đọc trọn lời thoại từ đầu đến cuối video, gồm lời dẫn, phần hội thoại, phần giải thích và lời kết.",
+    "transcriptInstructions": "Mở video trên YouTube, bấm Thêm/Show more để mở rộng phần mô tả. Đọc phần lời thoại ở đầu mô tả, từ lời chào mở đầu đến câu kết chương trình; dừng trước phần giới thiệu kênh và các đường dẫn. Khi quay, dừng video gốc rồi cuộn phần lời thoại để đọc.",
+    "submissionScope": "Đọc trọn lời dẫn, hội thoại, phần giải thích và lời kết của tập. Bỏ tên người nói, tiêu đề, đường dẫn và phần giới thiệu chung về kênh.",
     "goals": [
       "Hiểu sự khác nhau giữa mong muốn có kết quả ngay và lợi ích nhận được sau một thời gian.",
       "Giữ nhịp khi chuyển từ lời dẫn sang các lượt đối thoại ngắn.",
@@ -46,37 +46,37 @@
   {
     "id": "Shadow-L1-002",
     "level": 1,
-    "title": "Chào hỏi và giới thiệu tên",
-    "sourceTitle": "How to introduce yourself: Easy English Conversations — Episode 1",
-    "channel": "BBC Learning English",
-    "topic": "Thông tin cá nhân và giao tiếp khi gặp lần đầu",
-    "description": "Hỏi và trả lời tên một cách tự nhiên khi gặp người mới.",
-    "videoId": "I_tRSrPru94",
-    "durationSeconds": 157,
-    "transcriptUrl": "https://www.youtube.com/watch?v=I_tRSrPru94",
-    "transcriptInstructions": "Mở video trên trình duyệt, mở rộng mô tả và chọn Hiện bản chép lời/Show transcript. Chọn English (United Kingdom) nếu có lựa chọn ngôn ngữ. Dùng toàn bộ các dòng lời thoại theo thứ tự từ đầu đến cuối.",
-    "submissionScope": "Đọc toàn bộ lời thoại và các lượt lặp lại trong video theo transcript, không chỉ chọn một cuộc hội thoại.",
+    "title": "A Clean Slate · Bắt đầu lại và thay đổi thói quen",
+    "sourceTitle": "English in a Minute: A Clean Slate",
+    "channel": "VOA Learning English",
+    "topic": "Thói quen và mục tiêu cá nhân",
+    "description": "Theo được cuộc trao đổi về một khởi đầu mới và việc bỏ thói quen xấu.",
+    "videoId": "iVk7Ft6gl5w",
+    "durationSeconds": 60,
+    "transcriptUrl": "https://www.youtube.com/watch?v=iVk7Ft6gl5w",
+    "transcriptInstructions": "Mở video trên YouTube, chọn Thêm/Show more để mở rộng mô tả. Lời thoại nằm ở đầu mô tả, gồm lời dẫn, hội thoại về năm mới và phần giải thích. Dừng trước đoạn giới thiệu chung về kênh. Chuẩn bị lời thoại trong ghi chú riêng trước khi đóng video để ghi hình.",
+    "submissionScope": "Luyện và đọc trọn lời thoại của video, gồm lời dẫn, hội thoại, giải thích và lời kết. Khi quay bài nộp, tắt hẳn video gốc, hiển thị transcript và chỉ thu giọng đọc qua micro.",
     "goals": [
-      "Hỏi và trả lời tên một cách tự nhiên khi gặp người mới.",
-      "Phân biệt cách giới thiệu bản thân với cách giới thiệu một người khác.",
-      "Đọc trọn các lượt hỏi–đáp và câu lặp lại trong video, giữ nhịp đều đến cuối bài."
+      "Theo được cuộc trao đổi về một khởi đầu mới và việc bỏ thói quen xấu.",
+      "Ngắt câu theo cụm ý khi người nói vừa nêu kế hoạch vừa đưa ví dụ.",
+      "Đọc trọn bài với trọng âm rõ ở mục tiêu và thói quen cần thay đổi."
     ],
     "phrases": [
       {
-        "en": "What's your name?",
-        "vi": "Bạn tên là gì?"
+        "en": "a clean slate",
+        "vi": "một khởi đầu mới, không bị ràng buộc bởi chuyện cũ"
       },
       {
-        "en": "My name's ...",
-        "vi": "Tên tôi là ...; thay phần chấm bằng tên của bạn"
+        "en": "start fresh",
+        "vi": "bắt đầu lại"
       },
       {
-        "en": "Lovely to meet you.",
-        "vi": "Rất vui được gặp bạn."
+        "en": "give up bad habits",
+        "vi": "từ bỏ thói quen xấu"
       }
     ],
-    "pronunciation": "Đọc gọn các dạng rút gọn; giữ âm cuối ở từ chỉ tên và xuống giọng tự nhiên ở câu hỏi lấy thông tin.",
-    "extraPractice": "Tell me your full name, where you live, and what you study.",
+    "pronunciation": "Nối phụ âm cuối sang nguyên âm đầu ở cụm động từ. Giữ trọng âm ở hành động chính; phân biệt giọng hào hứng khi nói về kế hoạch và giọng phản hồi hài hước.",
+    "extraPractice": "Tự nói thêm 2–3 câu về một thói quen em muốn thay đổi và cách bắt đầu. Phần này để tự luyện, không phải bài nộp thêm.",
     "courses": [
       "Fighter",
       "IELTS"
@@ -86,41 +86,37 @@
   {
     "id": "Shadow-L1-003",
     "level": 1,
-    "title": "Nói về thời tiết và nơi đang ở",
-    "sourceTitle": "Describing the weather where you are: Easy English Conversations — Episode 8",
-    "channel": "BBC Learning English",
-    "topic": "Thời tiết và cuộc sống hằng ngày",
-    "description": "Hỏi và mô tả thời tiết bằng những câu ngắn, rõ nghĩa.",
-    "videoId": "sMg4vj6ugSs",
-    "durationSeconds": 198,
-    "transcriptUrl": "https://www.youtube.com/watch?v=sMg4vj6ugSs",
-    "transcriptInstructions": "Mở video trên trình duyệt, mở rộng mô tả và chọn Hiện bản chép lời/Show transcript. Chọn English (United Kingdom) nếu có lựa chọn ngôn ngữ. Dùng toàn bộ các dòng lời thoại theo thứ tự từ đầu đến cuối.",
-    "submissionScope": "Đọc toàn bộ lời thoại từ đầu đến cuối video, gồm tất cả địa điểm và các lượt hỏi–đáp.",
+    "title": "On the Ball · Làm việc nhanh và hiệu quả",
+    "sourceTitle": "English in a Minute: On the Ball",
+    "channel": "VOA Learning English",
+    "topic": "Học tập và hiệu suất công việc",
+    "description": "Theo được cuộc trao đổi về những việc đã hoàn thành trong ngày.",
+    "videoId": "DLi2txV9IVc",
+    "durationSeconds": 60,
+    "transcriptUrl": "https://www.youtube.com/watch?v=DLi2txV9IVc",
+    "transcriptInstructions": "Mở video trên YouTube và chọn Thêm/Show more. Đọc phần lời thoại từ lời chào mở đầu đến lời kết chương trình, trước đường phân cách và đoạn giới thiệu kênh. Chuẩn bị lời thoại trong ghi chú riêng trước khi đóng video để ghi hình.",
+    "submissionScope": "Luyện và đọc trọn lời thoại của video, gồm lời dẫn, các lượt đối thoại về công việc, phần giải thích và lời kết. Khi quay bài nộp, tắt hẳn video gốc, hiển thị transcript và chỉ thu giọng đọc qua micro.",
     "goals": [
-      "Hỏi và mô tả thời tiết bằng những câu ngắn, rõ nghĩa.",
-      "Liên kết câu nói về nơi đang ở, hoạt động đang làm và thời tiết.",
-      "Giữ nhịp khi cùng một mẫu câu xuất hiện ở nhiều địa điểm và người nói khác nhau."
+      "Theo được cuộc trao đổi về những việc đã hoàn thành trong ngày.",
+      "Giữ nhịp ở các câu trả lời nối tiếp và phân biệt lời khen với câu hỏi tiếp.",
+      "Đọc hết bài rõ ràng, giữ âm cuối và tránh nuốt từ khi gặp đoạn nói hào hứng."
     ],
     "phrases": [
       {
-        "en": "How's the weather?",
-        "vi": "Thời tiết thế nào?"
+        "en": "on the ball",
+        "vi": "nhanh nhạy và xử lý công việc hiệu quả"
       },
       {
-        "en": "hot and sunny",
-        "vi": "nóng và có nắng"
+        "en": "ahead of time",
+        "vi": "trước thời hạn"
       },
       {
-        "en": "cloudy and cold",
-        "vi": "nhiều mây và lạnh"
-      },
-      {
-        "en": "It's raining.",
-        "vi": "Trời đang mưa."
+        "en": "get on the ball",
+        "vi": "bắt tay làm việc nhanh nhẹn, hiệu quả hơn"
       }
     ],
-    "pronunciation": "Nhấn các tính từ mô tả thời tiết và đọc nhẹ từ nối giữa chúng; giữ âm cuối của tính từ, ngắt cụm ở ranh giới ý thay vì sau từng từ.",
-    "extraPractice": "What kind of weather do you like, and why?",
+    "pronunciation": "Giữ nhịp các lượt hỏi–đáp và nhấn từ thể hiện kết quả. Luyện đọc gọn dạng rút gọn, nghe kỹ ngữ điệu hứng khởi và ngữ điệu dè dặt ở hai người nói.",
+    "extraPractice": "Tự kể 2–3 câu về một ngày em làm việc hoặc học tập hiệu quả. Phần này để tự luyện, không phải bài nộp thêm.",
     "courses": [
       "Fighter",
       "IELTS"
@@ -130,37 +126,37 @@
   {
     "id": "Shadow-L1-004",
     "level": 1,
-    "title": "Sở thích và tần suất thực hiện",
-    "sourceTitle": "How to talk about personal interests in English",
-    "channel": "British Council | LearnEnglish",
-    "topic": "Sở thích, thời gian rảnh và thói quen",
-    "description": "Nói về một sở thích và tần suất thực hiện trong tuần.",
-    "videoId": "l1herjZq-4M",
-    "durationSeconds": 254,
-    "transcriptUrl": "https://learnenglish.britishcouncil.org/free-resources/speaking/a2/talking-about-personal-interests",
-    "transcriptInstructions": "Mở trang British Council và tìm mục Transcript bên dưới video. Đọc từ lời chào mở đầu của người dẫn đến lời chào kết, gồm hội thoại và phần luyện các câu hữu ích.",
-    "submissionScope": "Đọc toàn bộ lời trong transcript: lời dẫn, hội thoại, các câu ở phần luyện nhắc lại và lời kết.",
+    "title": "Stuck in a Rut · Thoát khỏi thói quen nhàm chán",
+    "sourceTitle": "English in a Minute: Stuck in a Rut",
+    "channel": "VOA Learning English",
+    "topic": "Thói quen, cảm xúc và sự sáng tạo",
+    "description": "Hiểu lý do nhân vật muốn làm điều khác với thói quen hằng ngày.",
+    "videoId": "tyN89pAw_JU",
+    "durationSeconds": 60,
+    "transcriptUrl": "https://www.youtube.com/watch?v=tyN89pAw_JU",
+    "transcriptInstructions": "Mở video trên YouTube và chọn Thêm/Show more. Dùng toàn bộ phần lời thoại ở đầu mô tả: lời dẫn, hội thoại về việc thay đổi bản thân và đoạn giải thích cuối. Bỏ tiêu đề, tên người nói và phần giới thiệu chung về kênh. Chuẩn bị lời thoại trong ghi chú riêng trước khi đóng video để ghi hình.",
+    "submissionScope": "Luyện và đọc toàn bộ lời thoại của video từ đầu đến cuối, gồm lời dẫn, hội thoại và phần giải thích. Khi quay bài nộp, tắt hẳn video gốc, hiển thị transcript và chỉ thu giọng đọc qua micro.",
     "goals": [
-      "Nói về một sở thích và tần suất thực hiện trong tuần.",
-      "Hỏi tiếp để duy trì cuộc trò chuyện và phản hồi khi có sở thích chung.",
-      "Giữ trọng âm ở ý chính khi đọc cả câu hỏi ngắn lẫn câu giải thích dài hơn."
+      "Hiểu lý do nhân vật muốn làm điều khác với thói quen hằng ngày.",
+      "Ngắt đúng cụm ở câu giải thích có nhiều ý và giữ mạch khi người nói nêu cảm xúc.",
+      "Đọc liền mạch toàn bài, phân biệt ngữ điệu tò mò, giải thích và phản hồi."
     ],
     "phrases": [
       {
-        "en": "I do too!",
-        "vi": "Tôi cũng vậy!"
+        "en": "stuck in a rut",
+        "vi": "mắc kẹt trong một nếp sống hoặc công việc nhàm chán"
       },
       {
-        "en": "How often do you practise?",
-        "vi": "Bạn luyện tập thường xuyên thế nào?"
+        "en": "change things up",
+        "vi": "làm mới cách làm hoặc thay đổi thói quen"
       },
       {
-        "en": "once or twice a week",
-        "vi": "một hoặc hai lần mỗi tuần"
+        "en": "over and over",
+        "vi": "lặp đi lặp lại"
       }
     ],
-    "pronunciation": "Nhấn từ chỉ tần suất và hoạt động; đọc nhẹ các từ nối trong cụm chỉ số lần. Bắt chước nhịp thân thiện của câu hỏi tiếp và câu phản hồi ngắn.",
-    "extraPractice": "What do you do in your free time, and how often do you do it?",
+    "pronunciation": "Đọc liền các cụm nói về cảm xúc và sự thay đổi. Chia hơi trước phần bổ sung ý; giữ phụ âm cuối rõ để câu dài không biến thành một chuỗi âm mơ hồ.",
+    "extraPractice": "Tự nói 2–3 câu về một điều em có thể làm khác đi để việc học bớt nhàm chán. Phần này để tự luyện, không phải bài nộp thêm.",
     "courses": [
       "Fighter",
       "IELTS"
@@ -170,45 +166,681 @@
   {
     "id": "Shadow-L1-005",
     "level": 1,
-    "title": "Ăn ngoài và gọi món lịch sự",
-    "sourceTitle": "Talking about restaurants — Real Easy English",
-    "channel": "BBC Learning English",
-    "topic": "Nhà hàng, món ăn và thói quen ăn uống",
-    "description": "Nói về tần suất đi nhà hàng, món ăn yêu thích và lý do thích ăn ngoài.",
-    "videoId": "bVRIpmjTSxM",
-    "durationSeconds": 294,
-    "transcriptUrl": "https://downloads.bbc.co.uk/learningenglish/realeasyenglish/RealEasyEnglish_s3e2__restaurants.pdf",
-    "transcriptInstructions": "Mở PDF và đọc lần lượt cả 4 trang. Chỉ đọc lời nói của hai người dẫn; bỏ tên người nói, số trang, tiêu đề trang và dòng bản quyền.",
-    "submissionScope": "Đọc toàn bộ lời thoại trong PDF từ lời chào mở đầu đến lời kết trên trang 4.",
+    "title": "No Brainer · Một kết luận quá rõ ràng",
+    "sourceTitle": "English in a Minute: No Brainer",
+    "channel": "VOA Learning English",
+    "topic": "Phim ảnh và cách đưa ra nhận định",
+    "description": "Theo được cách hai người đưa ra và phản bác một giả thuyết về bộ phim.",
+    "videoId": "b_ka3-253h0",
+    "durationSeconds": 60,
+    "transcriptUrl": "https://www.youtube.com/watch?v=b_ka3-253h0",
+    "transcriptInstructions": "Mở video trên YouTube và chọn Thêm/Show more. Đọc phần lời thoại ở đầu mô tả từ lời dẫn, cuộc tranh luận về phim đến phần giải thích và lời kết. Dừng trước đoạn giới thiệu chung về kênh. Chuẩn bị lời thoại trong ghi chú riêng trước khi đóng video để ghi hình.",
+    "submissionScope": "Luyện và đọc trọn lời thoại của video, gồm lời dẫn, cả sáu lượt đối thoại, phần giải thích và lời kết. Khi quay bài nộp, tắt hẳn video gốc, hiển thị transcript và chỉ thu giọng đọc qua micro.",
     "goals": [
-      "Nói về tần suất đi nhà hàng, món ăn yêu thích và lý do thích ăn ngoài.",
-      "Nhận diện và sử dụng những cách gọi món lịch sự trong tình huống quen thuộc.",
-      "Đọc trọn một cuộc trò chuyện dài hơn, giữ cụm ý khi câu có phần giải thích và ví dụ."
+      "Theo được cách hai người đưa ra và phản bác một giả thuyết về bộ phim.",
+      "Giữ mạch khi câu hỏi giả định nối với câu trả lời có điều kiện.",
+      "Đọc toàn bài với ngữ điệu thể hiện sự nghi ngờ, chắc chắn và phản hồi hài hước."
     ],
     "phrases": [
       {
-        "en": "eat out",
-        "vi": "ăn ở ngoài, thường là tại nhà hàng"
+        "en": "no-brainer",
+        "vi": "điều quá rõ hoặc lựa chọn dễ đến mức không cần suy nghĩ nhiều"
       },
       {
-        "en": "special occasion",
-        "vi": "dịp đặc biệt"
+        "en": "what if",
+        "vi": "nếu như… thì sao?"
       },
       {
-        "en": "I'll have the ...",
-        "vi": "Tôi sẽ dùng món ...; thay phần chấm bằng món ăn"
+        "en": "twin brother",
+        "vi": "anh hoặc em trai sinh đôi"
       },
       {
-        "en": "Can I get the ...?",
-        "vi": "Cho tôi món ... được không?"
-      },
-      {
-        "en": "Are you ready to order?",
-        "vi": "Bạn đã sẵn sàng gọi món chưa?"
+        "en": "make the right choice",
+        "vi": "đưa ra lựa chọn đúng"
       }
     ],
-    "pronunciation": "Nhấn món ăn và từ chỉ sở thích; đọc nhẹ từ nối, ngắt theo cụm khi câu có nhiều ý. Giữ ngữ điệu lịch sự ở câu gọi món và tránh đọc đều từng từ.",
-    "extraPractice": "Do you enjoy eating at restaurants? Explain your answer with one example.",
+    "pronunciation": "Nhấn thông tin mới trong câu giả định và phản bác. Giữ sự khác nhau giữa câu hỏi thăm dò và câu kết luận chắc chắn; đọc nhẹ các từ nối để không bị ngắt vụn.",
+    "extraPractice": "Tự nói 2–3 câu về một bộ phim em thấy dễ đoán hoặc một lựa chọn rất dễ quyết định. Phần này để tự luyện, không phải bài nộp thêm.",
+    "courses": [
+      "Fighter",
+      "IELTS"
+    ],
+    "kind": "Shadowing"
+  },
+  {
+    "id": "Shadow-L1-006",
+    "level": 1,
+    "title": "Go Viral · Một video lan truyền trên mạng",
+    "sourceTitle": "English in a Minute Go Viral",
+    "channel": "VOA Learning English",
+    "topic": "Mạng xã hội và nội dung trực tuyến",
+    "description": "Theo được cuộc trao đổi về cách thu hút người xem cho một video.",
+    "videoId": "IjFnVCZ-MWU",
+    "durationSeconds": 60,
+    "transcriptUrl": "https://www.youtube.com/watch?v=IjFnVCZ-MWU",
+    "transcriptInstructions": "Mở video trên YouTube, chọn Thêm/Show more. Lời thoại ở đầu mô tả, từ lời dẫn đến câu thoại cuối sau phần giải thích. Không đọc các chỉ dẫn âm thanh trong ngoặc vuông hoặc phần giới thiệu kênh. Chuẩn bị lời thoại trong ghi chú riêng trước khi đóng video để ghi hình.",
+    "submissionScope": "Đọc trọn lời thoại của video, gồm lời dẫn, hội thoại, phần giải thích và câu thoại cuối. Khi quay bài nộp, tắt hẳn video gốc, hiển thị transcript và chỉ thu giọng đọc qua micro.",
+    "goals": [
+      "Theo được cuộc trao đổi về cách thu hút người xem cho một video.",
+      "Giữ nhịp ở các lượt hỏi–đáp nối tiếp, kể cả lượt chỉ có một từ.",
+      "Đọc trọn bài, nhấn đúng số lượng và ý muốn tăng lượt xem."
+    ],
+    "phrases": [
+      {
+        "en": "go viral",
+        "vi": "lan truyền nhanh và rộng trên mạng"
+      },
+      {
+        "en": "more views",
+        "vi": "nhiều lượt xem hơn"
+      },
+      {
+        "en": "social media",
+        "vi": "mạng xã hội"
+      }
+    ],
+    "pronunciation": "Bắt chước cách chuyển giọng giữa lời đề xuất, câu hỏi và câu phản hồi ngắn. Đọc rõ đuôi số nhiều và ngắt cụm ở các con số thay vì đọc đều từng từ.",
+    "extraPractice": "Tự nói 2–3 câu về một loại video em thường xem hoặc chia sẻ. Phần này để tự luyện, không phải bài nộp thêm.",
+    "courses": [
+      "Fighter",
+      "IELTS"
+    ],
+    "kind": "Shadowing"
+  },
+  {
+    "id": "Shadow-L1-007",
+    "level": 1,
+    "title": "Two Peas in a Pod · Hai người bạn rất hợp nhau",
+    "sourceTitle": "English in a Minute: Two Peas in a Pod",
+    "channel": "VOA Learning English",
+    "topic": "Bạn bè và quan hệ đồng nghiệp",
+    "description": "Theo được cuộc trao đổi về mối quan hệ giữa hai đồng nghiệp.",
+    "videoId": "oE2IZvpOlGk",
+    "durationSeconds": 60,
+    "transcriptUrl": "https://www.youtube.com/watch?v=oE2IZvpOlGk",
+    "transcriptInstructions": "Mở video trên YouTube, chọn Thêm/Show more. Dùng phần lời thoại ở đầu mô tả: lời dẫn, hội thoại về lời mời gặp mặt và lời giải thích cuối. Bỏ tên người nói và phần giới thiệu chung về kênh. Chuẩn bị lời thoại trong ghi chú riêng trước khi đóng video để ghi hình.",
+    "submissionScope": "Đọc toàn bộ lời thoại từ mở đầu đến cuối, gồm cả lời giải thích vì sao một người không được mời. Khi quay bài nộp, tắt hẳn video gốc, hiển thị transcript và chỉ thu giọng đọc qua micro.",
+    "goals": [
+      "Theo được cuộc trao đổi về mối quan hệ giữa hai đồng nghiệp.",
+      "Phân biệt câu nêu sự thật với câu thể hiện suy đoán và lo lắng.",
+      "Giữ cụm ý khi đọc câu dài mô tả hai người giống nhau và thân thiết."
+    ],
+    "phrases": [
+      {
+        "en": "two peas in a pod",
+        "vi": "hai người rất giống và rất hợp nhau"
+      },
+      {
+        "en": "get along",
+        "vi": "hòa hợp, có quan hệ tốt"
+      },
+      {
+        "en": "in the past",
+        "vi": "trong quá khứ"
+      }
+    ],
+    "pronunciation": "Giữ ngữ điệu tò mò ở câu hỏi và hạ giọng khi giải thích. Nối các từ chức năng nhẹ, chú ý âm cuối khi chuyển sang một từ bắt đầu bằng nguyên âm.",
+    "extraPractice": "Tự nói 2–3 câu về một người bạn hợp tính với em và một điểm hai người khác nhau. Phần này để tự luyện, không phải bài nộp thêm.",
+    "courses": [
+      "Fighter",
+      "IELTS"
+    ],
+    "kind": "Shadowing"
+  },
+  {
+    "id": "Shadow-L1-008",
+    "level": 1,
+    "title": "Break the News · Thông báo một tin không vui",
+    "sourceTitle": "English in a Minute: Break the News",
+    "channel": "VOA Learning English",
+    "topic": "Giao tiếp công việc và thay đổi kế hoạch",
+    "description": "Hiểu cách người nói mở đầu một thông báo khiến người nghe thất vọng.",
+    "videoId": "BKNJxpdNAtY",
+    "durationSeconds": 60,
+    "transcriptUrl": "https://www.youtube.com/watch?v=BKNJxpdNAtY",
+    "transcriptInstructions": "Mở video trên YouTube và chọn Thêm/Show more. Bỏ dòng quảng bá đầu tiên, bắt đầu ở lời chào mở đầu chương trình và đọc đến hết đoạn giải thích sau hội thoại. Dừng trước phần giới thiệu chung về kênh. Chuẩn bị lời thoại trong ghi chú riêng trước khi đóng video để ghi hình.",
+    "submissionScope": "Đọc trọn lời thoại của video, gồm lời dẫn, đoạn đối thoại về chuyến công tác và phần giải thích cuối. Khi quay bài nộp, tắt hẳn video gốc, hiển thị transcript và chỉ thu giọng đọc qua micro.",
+    "goals": [
+      "Hiểu cách người nói mở đầu một thông báo khiến người nghe thất vọng.",
+      "Đọc liền mạch câu có phần liệt kê đồ chuẩn bị cho chuyến đi.",
+      "Thể hiện sự khác nhau giữa giọng hào hứng, ngập ngừng và thông báo."
+    ],
+    "phrases": [
+      {
+        "en": "break the news",
+        "vi": "thông báo một tin, trong tình huống này là tin không vui"
+      },
+      {
+        "en": "budget cuts",
+        "vi": "việc cắt giảm ngân sách"
+      },
+      {
+        "en": "not enough money",
+        "vi": "không đủ tiền"
+      }
+    ],
+    "pronunciation": "Ngắt nhẹ trước thông tin bất ngờ và giữ trọng âm ở từ phủ định. Đọc các mục liệt kê theo cùng nhịp, tránh lấy hơi sau từng từ.",
+    "extraPractice": "Tự nói 2–3 câu để báo với bạn rằng một kế hoạch chung phải đổi và nêu lý do. Phần này để tự luyện, không phải bài nộp thêm.",
+    "courses": [
+      "Fighter",
+      "IELTS"
+    ],
+    "kind": "Shadowing"
+  },
+  {
+    "id": "Shadow-L1-009",
+    "level": 1,
+    "title": "Strike a Chord · Một câu chuyện khiến mình đồng cảm",
+    "sourceTitle": "English in a Minute: Strike a Chord",
+    "channel": "VOA Learning English",
+    "topic": "Con người, sở thích và sự đồng cảm",
+    "description": "Hiểu lý do một chi tiết trong cuộc đời người khác tạo cảm giác gần gũi.",
+    "videoId": "oeIUhjCyNDM",
+    "durationSeconds": 60,
+    "transcriptUrl": "https://www.youtube.com/watch?v=oeIUhjCyNDM",
+    "transcriptInstructions": "Mở video trên YouTube và chọn Thêm/Show more. Dùng toàn bộ phần lời thoại ở đầu mô tả, từ lời dẫn về âm nhạc đến phần giải nghĩa sau hội thoại. Bỏ tên người nói và phần giới thiệu kênh. Chuẩn bị lời thoại trong ghi chú riêng trước khi đóng video để ghi hình.",
+    "submissionScope": "Đọc toàn bộ lời thoại của video, gồm lời dẫn, hội thoại và phần giải thích về sự đồng cảm. Khi quay bài nộp, tắt hẳn video gốc, hiển thị transcript và chỉ thu giọng đọc qua micro.",
+    "goals": [
+      "Hiểu lý do một chi tiết trong cuộc đời người khác tạo cảm giác gần gũi.",
+      "Nhận ra sự hiểu nhầm và cách người nói sửa lại ý của mình.",
+      "Đọc câu giải thích dài theo cụm nghĩa, giữ trọng âm ở điểm tương đồng."
+    ],
+    "phrases": [
+      {
+        "en": "strike a chord",
+        "vi": "gợi sự đồng cảm hoặc phản ứng cảm xúc mạnh"
+      },
+      {
+        "en": "afraid of flying",
+        "vi": "sợ đi máy bay"
+      },
+      {
+        "en": "identify with",
+        "vi": "cảm thấy đồng cảm hoặc có điểm giống với"
+      }
+    ],
+    "pronunciation": "Giữ ngữ điệu ngạc nhiên ở câu hỏi lại, nhấn điểm đối lập khi sửa ý. Chia hơi hợp lý trước phần nêu nguyên nhân trong lời giải nghĩa.",
+    "extraPractice": "Tự nói 2–3 câu về một nhân vật hoặc câu chuyện khiến em cảm thấy đồng cảm. Phần này để tự luyện, không phải bài nộp thêm.",
+    "courses": [
+      "Fighter",
+      "IELTS"
+    ],
+    "kind": "Shadowing"
+  },
+  {
+    "id": "Shadow-L1-010",
+    "level": 1,
+    "title": "Make Waves · Nêu ý tưởng mới trong một nhóm",
+    "sourceTitle": "English in a Minute:  Make Waves",
+    "channel": "VOA Learning English",
+    "topic": "Làm việc nhóm và đóng góp ý tưởng",
+    "description": "Theo được cuộc trao đổi giữa người ngại thay đổi và người khuyến khích ý tưởng mới.",
+    "videoId": "VLkZ1vuMfNw",
+    "durationSeconds": 60,
+    "transcriptUrl": "https://www.youtube.com/watch?v=VLkZ1vuMfNw",
+    "transcriptInstructions": "Mở video trên YouTube và chọn Thêm/Show more. Dùng lời thoại từ lời chào mở đầu đến lời kết, trước phần giới thiệu chung về kênh. Bỏ ký hiệu người nói và dấu ngoặc thừa ở đầu câu thoại thứ nhất. Chuẩn bị lời thoại trong ghi chú riêng trước khi đóng video để ghi hình.",
+    "submissionScope": "Đọc toàn bộ lời thoại của video, gồm lời dẫn, cuộc trao đổi về nhóm nhạc, phần giải thích và lời kết. Khi quay bài nộp, tắt hẳn video gốc, hiển thị transcript và chỉ thu giọng đọc qua micro.",
+    "goals": [
+      "Theo được cuộc trao đổi giữa người ngại thay đổi và người khuyến khích ý tưởng mới.",
+      "Phân biệt lời động viên, đề nghị và từ chối qua trọng âm, ngữ điệu.",
+      "Đọc rõ cả câu dài giải thích tác động tích cực lẫn khó khăn do thay đổi tạo ra."
+    ],
+    "phrases": [
+      {
+        "en": "make waves",
+        "vi": "gây chú ý bằng cách làm khác lệ thường, đôi khi tạo xáo trộn"
+      },
+      {
+        "en": "follow along",
+        "vi": "làm theo những người khác"
+      },
+      {
+        "en": "bring about",
+        "vi": "mang lại, tạo ra một thay đổi"
+      }
+    ],
+    "pronunciation": "Nhấn từ thể hiện sự tương phản giữa làm theo và thay đổi. Giữ ngữ điệu khích lệ ở lời đề nghị, sau đó đọc chậm hơn ở đoạn giải nghĩa có nhiều cụm ý.",
+    "extraPractice": "Tự nói 2–3 câu về một ý tưởng em muốn đề xuất khi làm việc nhóm. Phần này để tự luyện, không phải bài nộp thêm.",
+    "courses": [
+      "Fighter",
+      "IELTS"
+    ],
+    "kind": "Shadowing"
+  },
+  {
+    "id": "Shadow-L1-011",
+    "level": 1,
+    "title": "Hold your horses · Chờ một chút",
+    "sourceTitle": "English in a Minute: Hold Your Horses",
+    "channel": "VOA Learning English",
+    "topic": "Nhờ giúp đỡ / Kiên nhẫn",
+    "description": "Giữ nhịp khi chuyển nhanh giữa lời nhờ giúp và câu trả lời.",
+    "videoId": "mqPgWweY1vA",
+    "durationSeconds": 60,
+    "transcriptUrl": "https://www.youtube.com/watch?v=mqPgWweY1vA",
+    "transcriptInstructions": "Mở YouTube, nhấn Xem thêm ở phần mô tả. Luyện toàn bộ lời dẫn, hội thoại và giải thích; dừng trước phần giới thiệu kênh bắt đầu bằng Learning English is Voice of America. Đọc cả đoạn kết nếu có trong video.",
+    "submissionScope": "Đọc trọn lời dẫn, hội thoại, phần giải thích và lời kết của tập. Bỏ tên người nói, tiêu đề, đường dẫn và phần giới thiệu chung về kênh.",
+    "goals": [
+      "Giữ nhịp khi chuyển nhanh giữa lời nhờ giúp và câu trả lời.",
+      "Phân biệt ngữ điệu của lời hỏi với lời yêu cầu chờ.",
+      "Nói liền mạch cả phần giải thích sau hội thoại."
+    ],
+    "phrases": [
+      {
+        "en": "hold your horses",
+        "vi": "chờ đã; bình tĩnh một chút — thân mật"
+      },
+      {
+        "en": "just a second",
+        "vi": "chờ một giây nhé"
+      },
+      {
+        "en": "I'm almost done",
+        "vi": "tôi gần xong rồi"
+      },
+      {
+        "en": "depending on how you say it",
+        "vi": "tùy cách bạn nói"
+      }
+    ],
+    "pronunciation": "Giữ rõ âm /h/ ở cụm chính, nối âm ở câu đáp ngắn và hạ giọng phù hợp khi yêu cầu người khác chờ.",
+    "extraPractice": "Sau khi luyện đủ video, thử nói một lời nhờ giúp và một lời đáp yêu cầu chờ với giọng nhẹ nhàng.",
+    "courses": [
+      "Fighter",
+      "IELTS"
+    ],
+    "kind": "Shadowing"
+  },
+  {
+    "id": "Shadow-L1-012",
+    "level": 1,
+    "title": "The bottom line · Điều quan trọng nhất",
+    "sourceTitle": "English in a Minute: The Bottom Line",
+    "channel": "VOA Learning English",
+    "topic": "Thể thao / Nêu quan điểm",
+    "description": "Luyện câu hỏi về một sự việc đã xảy ra.",
+    "videoId": "K9sRWHidjDk",
+    "durationSeconds": 60,
+    "transcriptUrl": "https://www.youtube.com/watch?v=K9sRWHidjDk",
+    "transcriptInstructions": "Mở YouTube, nhấn Xem thêm ở phần mô tả. Luyện toàn bộ lời dẫn, hội thoại và giải thích đến câu kết của chương trình; bỏ phần giới thiệu kênh phía dưới đường gạch ngang.",
+    "submissionScope": "Đọc trọn lời dẫn, hội thoại, phần giải thích và lời kết của tập. Bỏ tên người nói, tiêu đề, đường dẫn và phần giới thiệu chung về kênh.",
+    "goals": [
+      "Luyện câu hỏi về một sự việc đã xảy ra.",
+      "Nhấn đúng từ khi đồng ý một phần rồi nêu ý khác.",
+      "Giữ nhịp câu dài khi giải thích điều cần ưu tiên."
+    ],
+    "phrases": [
+      {
+        "en": "the bottom line",
+        "vi": "điều cốt yếu; kết quả cuối cùng"
+      },
+      {
+        "en": "they're getting better",
+        "vi": "họ đang tiến bộ"
+      },
+      {
+        "en": "they tried really hard",
+        "vi": "họ đã rất cố gắng"
+      },
+      {
+        "en": "you have to",
+        "vi": "bạn cần phải"
+      }
+    ],
+    "pronunciation": "Luyện dạng rút gọn, đuôi quá khứ và nhấn từ mang ý đối chiếu giữa nỗ lực với kết quả.",
+    "extraPractice": "Nói một câu về điều quan trọng nhất khi bạn học một kỹ năng mới.",
+    "courses": [
+      "Fighter",
+      "IELTS"
+    ],
+    "kind": "Shadowing"
+  },
+  {
+    "id": "Shadow-L1-013",
+    "level": 1,
+    "title": "Clear the decks · Xong việc cũ, bắt đầu việc mới",
+    "sourceTitle": "English in a Minute: Clear the Decks",
+    "channel": "VOA Learning English",
+    "topic": "Sắp xếp công việc / Quản lý thời gian",
+    "description": "Đọc một danh sách công việc trong cùng một câu mà không ngắt vụn.",
+    "videoId": "nIxrq48jgMA",
+    "durationSeconds": 60,
+    "transcriptUrl": "https://www.youtube.com/watch?v=nIxrq48jgMA",
+    "transcriptInstructions": "Mở YouTube, nhấn Xem thêm ở phần mô tả. Luyện toàn bộ lời dẫn, hội thoại và giải thích đến câu kết của chương trình; bỏ phần giới thiệu kênh phía dưới đường gạch ngang.",
+    "submissionScope": "Đọc trọn lời dẫn, hội thoại, phần giải thích và lời kết của tập. Bỏ tên người nói, tiêu đề, đường dẫn và phần giới thiệu chung về kênh.",
+    "goals": [
+      "Đọc một danh sách công việc trong cùng một câu mà không ngắt vụn.",
+      "Luyện ngữ điệu khi hỏi thăm, kể việc và đưa lời khuyên.",
+      "Nối được ý hoàn thành việc hiện tại với bước tiếp theo."
+    ],
+    "phrases": [
+      {
+        "en": "clear the decks",
+        "vi": "giải quyết việc đang có để sẵn sàng cho việc mới"
+      },
+      {
+        "en": "finish up",
+        "vi": "hoàn tất"
+      },
+      {
+        "en": "before starting something new",
+        "vi": "trước khi bắt đầu một việc mới"
+      },
+      {
+        "en": "I agree with",
+        "vi": "tôi đồng ý với"
+      }
+    ],
+    "pronunciation": "Chia câu liệt kê thành cụm ý, nhấn từng đầu việc và giữ âm cuối rõ khi chuyển sang từ tiếp theo.",
+    "extraPractice": "Nêu hai việc bạn cần hoàn thành trước khi bắt đầu kế hoạch cuối tuần.",
+    "courses": [
+      "Fighter",
+      "IELTS"
+    ],
+    "kind": "Shadowing"
+  },
+  {
+    "id": "Shadow-L1-014",
+    "level": 1,
+    "title": "Split the difference · Tìm mức thỏa hiệp",
+    "sourceTitle": "English in a Minute: Split the Difference",
+    "channel": "VOA Learning English",
+    "topic": "Giải quyết bất đồng / Chi phí",
+    "description": "Giữ rõ âm cuối khi kể lại sự việc ở quá khứ.",
+    "videoId": "F7UYmA6A0Ns",
+    "durationSeconds": 60,
+    "transcriptUrl": "https://www.youtube.com/watch?v=F7UYmA6A0Ns",
+    "transcriptInstructions": "Mở YouTube, nhấn Xem thêm ở phần mô tả. Luyện toàn bộ lời dẫn, hội thoại và giải thích đến câu kết của chương trình; bỏ phần giới thiệu kênh phía dưới đường gạch ngang.",
+    "submissionScope": "Đọc trọn lời dẫn, hội thoại, phần giải thích và lời kết của tập. Bỏ tên người nói, tiêu đề, đường dẫn và phần giới thiệu chung về kênh.",
+    "goals": [
+      "Giữ rõ âm cuối khi kể lại sự việc ở quá khứ.",
+      "Dùng ngữ điệu để thể hiện phản đối rồi nhượng bộ.",
+      "Đọc liền phần đề xuất giải pháp và lời giải thích."
+    ],
+    "phrases": [
+      {
+        "en": "split the difference",
+        "vi": "thỏa hiệp ở mức giữa hai đề nghị"
+      },
+      {
+        "en": "it was your fault",
+        "vi": "đó là lỗi của bạn"
+      },
+      {
+        "en": "in that case",
+        "vi": "nếu vậy thì"
+      },
+      {
+        "en": "we both were to blame",
+        "vi": "cả hai chúng tôi đều có lỗi"
+      }
+    ],
+    "pronunciation": "Nhấn từ phủ định và từ chỉ trách nhiệm; nối âm trong cụm chuyển sang giải pháp, giữ nhịp tự nhiên ở câu kể dài.",
+    "extraPractice": "Tưởng tượng hai người muốn hai mức giá khác nhau; nêu một mức ở giữa để cả hai thỏa thuận.",
+    "courses": [
+      "Fighter",
+      "IELTS"
+    ],
+    "kind": "Shadowing"
+  },
+  {
+    "id": "Shadow-L1-015",
+    "level": 1,
+    "title": "Pie in the sky · Kế hoạch khó thành hiện thực",
+    "sourceTitle": "English in a Minute: Pie in the Sky",
+    "channel": "VOA Learning English",
+    "topic": "Ước mơ / Đánh giá kế hoạch",
+    "description": "Theo được câu kể về một dự định và quá trình kéo dài.",
+    "videoId": "gBYnewP1MmY",
+    "durationSeconds": 60,
+    "transcriptUrl": "https://www.youtube.com/watch?v=gBYnewP1MmY",
+    "transcriptInstructions": "Mở YouTube, nhấn Xem thêm ở phần mô tả. Luyện toàn bộ lời dẫn, hội thoại và giải thích; bỏ phần giới thiệu kênh bắt đầu bằng Learning English is Voice of America. Dòng mở đầu trong mô tả bị thiếu chữ W; đọc theo lời chào trong video.",
+    "submissionScope": "Đọc trọn lời dẫn, hội thoại, phần giải thích và lời kết của tập. Bỏ tên người nói, tiêu đề, đường dẫn và phần giới thiệu chung về kênh.",
+    "goals": [
+      "Theo được câu kể về một dự định và quá trình kéo dài.",
+      "Thể hiện ngữ điệu hoài nghi rồi ngạc nhiên khi có thông tin mới.",
+      "Nói liền mạch câu giải thích về ước mơ, mục tiêu và kế hoạch."
+    ],
+    "phrases": [
+      {
+        "en": "pie in the sky",
+        "vi": "điều hấp dẫn nhưng khó thành hiện thực"
+      },
+      {
+        "en": "follow his acting dream",
+        "vi": "theo đuổi ước mơ diễn xuất"
+      },
+      {
+        "en": "for years",
+        "vi": "suốt nhiều năm"
+      },
+      {
+        "en": "unlikely to become reality",
+        "vi": "khó trở thành hiện thực"
+      }
+    ],
+    "pronunciation": "Giữ nhịp ở câu có dạng rút gọn và cụm thời gian; nhấn con số cùng từ diễn tả mức độ khả thi.",
+    "extraPractice": "Nêu một kế hoạch của bạn và một lý do khiến nó khả thi.",
+    "courses": [
+      "Fighter",
+      "IELTS"
+    ],
+    "kind": "Shadowing"
+  },
+  {
+    "id": "Shadow-L1-016",
+    "level": 1,
+    "title": "Mixed Feelings · Cảm xúc đan xen",
+    "sourceTitle": "English in a Minute: Mixed Feelings",
+    "channel": "VOA Learning English",
+    "topic": "Cảm xúc & thay đổi",
+    "description": "Diễn đạt cảm xúc trái chiều trước một thay đổi.",
+    "videoId": "Ab2BBDr0ttw",
+    "durationSeconds": 60,
+    "transcriptUrl": "https://www.youtube.com/watch?v=Ab2BBDr0ttw",
+    "transcriptInstructions": "Mở phần mô tả YouTube bằng nút Thêm/…more. Đọc phần lời dẫn, hội thoại và giải thích; không đọc thông tin kênh hoặc liên kết. Đối chiếu thêm lời chào kết trên video nếu có.",
+    "submissionScope": "Đọc toàn bộ phần lời nói trong video: lời dẫn, cả hai vai, giải thích và lời chào kết nếu có.",
+    "goals": [
+      "Diễn đạt cảm xúc trái chiều trước một thay đổi.",
+      "Ngắt câu rõ khi nêu mặt thuận lợi rồi mặt bất tiện.",
+      "Luyện ngữ điệu ngạc nhiên và phản hồi trong hội thoại."
+    ],
+    "phrases": [
+      {
+        "en": "mixed feelings",
+        "vi": "cảm xúc đan xen, trái chiều"
+      },
+      {
+        "en": "closer to my home",
+        "vi": "gần nhà tôi hơn"
+      },
+      {
+        "en": "on my lunch break",
+        "vi": "trong giờ nghỉ trưa"
+      },
+      {
+        "en": "figure out something",
+        "vi": "nghĩ ra một cách hoặc việc gì đó"
+      }
+    ],
+    "pronunciation": "Giữ rõ phụ âm cuối trong cụm tên bài và nhấn hai ý đối lập của câu.",
+    "extraPractice": "Tự nói hai câu về một thay đổi khiến bạn vừa vui vừa lo.",
+    "courses": [
+      "Fighter",
+      "IELTS"
+    ],
+    "kind": "Shadowing"
+  },
+  {
+    "id": "Shadow-L1-017",
+    "level": 1,
+    "title": "Let Off Steam · Giải tỏa cảm xúc",
+    "sourceTitle": "English in a Minute: Let Off Steam",
+    "channel": "VOA Learning English",
+    "topic": "Căng thẳng & thư giãn",
+    "description": "Hiểu cách nói về giải tỏa bực bội hoặc năng lượng.",
+    "videoId": "l58BI6YXxBE",
+    "durationSeconds": 60,
+    "transcriptUrl": "https://www.youtube.com/watch?v=l58BI6YXxBE",
+    "transcriptInstructions": "Mở phần mô tả YouTube bằng nút Thêm/…more. Đọc phần lời dẫn, hội thoại và giải thích; không đọc dòng liên kết nguồn. Đối chiếu thêm lời chào kết trên video nếu có.",
+    "submissionScope": "Đọc toàn bộ phần lời nói trong video: lời dẫn, cả hai vai, giải thích và lời chào kết nếu có.",
+    "goals": [
+      "Hiểu cách nói về giải tỏa bực bội hoặc năng lượng.",
+      "Theo được câu hỏi và câu phản hồi ngắn nối tiếp nhau.",
+      "Luyện ngữ điệu tò mò, giải thích và phản đối nhẹ."
+    ],
+    "phrases": [
+      {
+        "en": "let off steam",
+        "vi": "giải tỏa cảm xúc hoặc năng lượng"
+      },
+      {
+        "en": "let out frustrations",
+        "vi": "bộc lộ sự bực bội"
+      },
+      {
+        "en": "Why do you ask?",
+        "vi": "Sao bạn lại hỏi vậy?"
+      },
+      {
+        "en": "a good way to",
+        "vi": "một cách tốt để"
+      }
+    ],
+    "pronunciation": "Nối âm trong cụm tên bài và nhấn từ khóa trong câu hỏi; không đọc đều mọi từ.",
+    "extraPractice": "Tự nói hai câu về hoạt động giúp bạn giải tỏa căng thẳng.",
+    "courses": [
+      "Fighter",
+      "IELTS"
+    ],
+    "kind": "Shadowing"
+  },
+  {
+    "id": "Shadow-L1-018",
+    "level": 1,
+    "title": "What Makes Someone Tick · Điều thúc đẩy một người",
+    "sourceTitle": "English in a Minute: What Makes Someone Tick",
+    "channel": "VOA Learning English",
+    "topic": "Tính cách & sở thích",
+    "description": "Hiểu cách hỏi về sở thích, động lực và tính cách.",
+    "videoId": "Rh-9S_z7_yQ",
+    "durationSeconds": 60,
+    "transcriptUrl": "https://www.youtube.com/watch?v=Rh-9S_z7_yQ",
+    "transcriptInstructions": "Mở phần mô tả YouTube bằng nút Thêm/…more. Đọc đến hết lời chào kết của chương trình; bỏ các nhãn vai HOST/A/B và phần giới thiệu kênh, danh sách phát ở dưới.",
+    "submissionScope": "Đọc toàn bộ phần lời nói trong video: lời dẫn, cả hai vai, phần giải thích và lời chào kết.",
+    "goals": [
+      "Hiểu cách hỏi về sở thích, động lực và tính cách.",
+      "Giữ nhịp khi một loạt câu hỏi xuất hiện liên tiếp.",
+      "Ngắt nhóm từ hợp lý trong câu giải thích có liệt kê."
+    ],
+    "phrases": [
+      {
+        "en": "what makes someone tick",
+        "vi": "điều chi phối hoặc thúc đẩy một người"
+      },
+      {
+        "en": "for a while",
+        "vi": "một thời gian"
+      },
+      {
+        "en": "talk about myself",
+        "vi": "nói về bản thân"
+      },
+      {
+        "en": "care about",
+        "vi": "quan tâm đến"
+      }
+    ],
+    "pronunciation": "Nhấn từ hỏi và từ mang ý chính; giữ rõ phụ âm cuối khi liệt kê cảm xúc, mong muốn và quan điểm.",
+    "extraPractice": "Tự nói hai câu về điều khiến bạn thích học hoặc theo đuổi một sở thích.",
+    "courses": [
+      "Fighter",
+      "IELTS"
+    ],
+    "kind": "Shadowing"
+  },
+  {
+    "id": "Shadow-L1-019",
+    "level": 1,
+    "title": "Get Your Act Together · Làm việc có tổ chức hơn",
+    "sourceTitle": "English in a Minute: Get Your Act Together",
+    "channel": "VOA Learning English",
+    "topic": "Học tập & sự chuẩn bị",
+    "description": "Hiểu cách nói về việc sắp xếp và kiểm soát công việc.",
+    "videoId": "gjnz5SWlofg",
+    "durationSeconds": 60,
+    "transcriptUrl": "https://www.youtube.com/watch?v=gjnz5SWlofg",
+    "transcriptInstructions": "Mở phần mô tả YouTube bằng nút Thêm/…more. Đọc lời dẫn, hội thoại và phần giải thích trước dấu phân cách; bỏ nhãn vai A/D và phần thông tin kênh. Đối chiếu thêm lời chào kết trên video nếu có.",
+    "submissionScope": "Đọc toàn bộ phần lời nói trong video: lời dẫn, cả hai vai, giải thích và lời chào kết nếu có.",
+    "goals": [
+      "Hiểu cách nói về việc sắp xếp và kiểm soát công việc.",
+      "Phân biệt ý tăng và giảm trong đoạn chuẩn bị thuyết trình.",
+      "Nhận ra cụm này có sắc thái trách móc khi nói thẳng với người khác."
+    ],
+    "phrases": [
+      {
+        "en": "get your act together",
+        "vi": "chấn chỉnh, làm việc có tổ chức hơn"
+      },
+      {
+        "en": "take control",
+        "vi": "nắm quyền kiểm soát"
+      },
+      {
+        "en": "went up",
+        "vi": "đã tăng"
+      },
+      {
+        "en": "were down five percent",
+        "vi": "đã giảm năm phần trăm"
+      }
+    ],
+    "pronunciation": "Nhấn rõ từ chỉ tăng hoặc giảm; giữ ngữ điệu đối đáp nhưng không đẩy tốc độ quá nhanh.",
+    "extraPractice": "Tự nói hai câu về việc bạn cần chuẩn bị tốt hơn trước một bài thuyết trình.",
+    "courses": [
+      "Fighter",
+      "IELTS"
+    ],
+    "kind": "Shadowing"
+  },
+  {
+    "id": "Shadow-L1-020",
+    "level": 1,
+    "title": "Goose Bumps · Nổi da gà",
+    "sourceTitle": "English in a Minute: Goose Bumps",
+    "channel": "VOA Learning English",
+    "topic": "Phim ảnh & cảm xúc",
+    "description": "Mô tả phản ứng khi lạnh hoặc sợ.",
+    "videoId": "S3z0Q8KMq-A",
+    "durationSeconds": 60,
+    "transcriptUrl": "https://www.youtube.com/watch?v=S3z0Q8KMq-A",
+    "transcriptInstructions": "Mở phần mô tả YouTube bằng nút Thêm/…more. Đọc lời dẫn, hội thoại và giải thích trước dòng liên kết nguồn; bỏ nhãn vai A/D. Đối chiếu thêm lời chào kết trên video nếu có.",
+    "submissionScope": "Đọc toàn bộ phần lời nói trong video: lời dẫn, cả hai vai, giải thích và lời chào kết nếu có.",
+    "goals": [
+      "Mô tả phản ứng khi lạnh hoặc sợ.",
+      "Theo cách kể lại một lần đi xem phim.",
+      "Luyện ngữ điệu câu hỏi và chi tiết tạo bất ngờ cuối đoạn."
+    ],
+    "phrases": [
+      {
+        "en": "goose bumps",
+        "vi": "da gà, những nốt nổi trên da khi lạnh hoặc sợ"
+      },
+      {
+        "en": "the entire time",
+        "vi": "suốt thời gian đó"
+      },
+      {
+        "en": "movie theater",
+        "vi": "rạp chiếu phim"
+      },
+      {
+        "en": "Put on a coat!",
+        "vi": "Mặc áo khoác vào!"
+      }
+    ],
+    "pronunciation": "Giữ rõ phụ âm cuối trong cụm tên bài; nhấn từ diễn tả cảm giác lạnh và sợ.",
+    "extraPractice": "Tự nói hai câu về một bộ phim khiến bạn hồi hộp hoặc sợ.",
     "courses": [
       "Fighter",
       "IELTS"
