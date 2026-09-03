@@ -65,6 +65,7 @@ p:last-child { margin-bottom: 0; }
   border-bottom: 1px solid var(--line);
 }
 .brand { display: flex; align-items: center; gap: 12px; color: var(--forest); text-decoration: none; flex-shrink: 0; }
+.brand-logo { width: 196px; height: 84px; object-fit: cover; object-position: center; border-radius: 8px; }
 .brand-mark { width: 43px; height: 43px; display: grid; place-items: center; background: var(--forest); color: var(--lime); border-radius: 13px; font-size: 24px; font-weight: 800; line-height: 1; }
 .brand-mark svg { width: 24px; height: 24px; }
 .brand-name { display: block; font-size: 1.12rem; font-weight: 800; letter-spacing: -.035em; line-height: 1.2; }
@@ -242,10 +243,13 @@ p:last-child { margin-bottom: 0; }
 @media (max-width: 600px) {
   .workspace-summary { display: none; }
   body { font-size: 15px; }
-  .site-header { min-height: 77px; padding: 15px 18px; gap: 12px; }
+  .site-header { min-height: 77px; padding: 15px 18px; gap: 12px; flex-wrap: wrap; }
   .brand { gap: 9px; }
   .brand-mark { width: 36px; height: 36px; border-radius: 10px; font-size: 20px; }
   .brand-name { font-size: 1rem; }
+  .brand-logo { width: 146px; height: 64px; }
+  .brand-name { max-width: 120px; }
+  .header-actions:not(:empty) { width: 100%; justify-content: space-between; }
   .brand-sub { font-size: .64rem; }
   .header-actions { gap: 7px; }
   .header-actions .button { min-height: 37px; padding: 8px 10px; font-size: .73rem; }
