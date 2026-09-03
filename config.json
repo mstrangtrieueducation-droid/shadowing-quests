@@ -1,0 +1,24 @@
+{
+  "classes": [
+    { "code": "IELTS 45", "course": "IELTS" },
+    { "code": "IELTS 46", "course": "IELTS" },
+    { "code": "IELTS 47", "course": "IELTS" },
+    { "code": "IELTS 48", "course": "IELTS" },
+    { "code": "IELTS 49", "course": "IELTS" },
+    { "code": "IELTS 50", "course": "IELTS" },
+    { "code": "IELTS 51", "course": "IELTS" },
+    { "code": "IELTS 52", "course": "IELTS" },
+    { "code": "IELTS 53", "course": "IELTS" },
+    { "code": "FIGHTER 5", "course": "Fighter" },
+    { "code": "FIGHTER 6", "course": "Fighter" },
+    { "code": "FIGHTER 7", "course": "Fighter" }
+  ],
+  "form": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSeSnHbq4jMm5uuO-VXpH422iMYeIZIJ9V63NJjNGw953ZuxwA/viewform",
+    "entries": {
+      "name": "entry.202392477",
+      "lessonCode": "entry.1971471452",
+      "classCode": "entry.68983747"
+    }
+  }
+}
