@@ -11,7 +11,10 @@
     { "code": "IELTS 53", "course": "IELTS" },
     { "code": "FIGHTER 5", "course": "Fighter" },
     { "code": "FIGHTER 6", "course": "Fighter" },
-    { "code": "FIGHTER 7", "course": "Fighter" }
+    { "code": "FIGHTER 7", "course": "Fighter" },
+    { "code": "FIGHTER 8", "course": "Fighter" },
+    { "code": "FIGHTER 9", "course": "Fighter" },
+    { "code": "FIGHTER 10", "course": "Fighter" }
   ],
   "form": {
     "url": "https://docs.google.com/forms/d/e/1FAIpQLSeSnHbq4jMm5uuO-VXpH422iMYeIZIJ9V63NJjNGw953ZuxwA/viewform",

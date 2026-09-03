@@ -184,7 +184,7 @@ p:last-child { margin-bottom: 0; }
 .instruction-list li { padding-left: 5px; }
 .instruction-list li::marker { color: var(--forest); font-weight: 800; }
 .instruction-list strong { color: var(--forest); }
-.lesson-sidebar { position: sticky; top: 24px; }
+.lesson-sidebar { position: static; }
 .lesson-sidebar .content-card { padding: 23px; }
 .submit-card { padding: 25px; color: var(--forest); background: #e8efcf; border: 1px solid #cbd8a7; border-radius: 15px; }
 .submit-card h2 { margin-bottom: 13px; font-size: 1.22rem; }
