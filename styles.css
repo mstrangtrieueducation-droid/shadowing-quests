@@ -194,6 +194,11 @@ p:last-child { margin-bottom: 0; }
 .source-links { display: flex; flex-wrap: wrap; align-items: center; gap: 10px 20px; margin: 16px 0 0; font-size: .84rem; }
 .source-links a { font-weight: 650; }
 .inline-notice { margin: 18px 0; padding: 13px 16px; color: #4c5b41; background: #eef2e2; border-left: 3px solid #9caf63; border-radius: 0 8px 8px 0; font-size: .83rem; line-height: 1.7; }
+.shadowing-requirements { margin: 22px 0 18px; padding: 20px 22px; border: 1px solid #d6dfbc; border-radius: 12px; background: #f4f7e9; }
+.shadowing-requirements h3 { margin-bottom: 9px; }
+.shadowing-requirements > p { margin-bottom: 13px; color: #4b594f; font-size: .84rem; line-height: 1.65; }
+.shadowing-requirements .instruction-list { margin-bottom: 0; }
+.record-rule { padding: 14px 16px; border-radius: 9px; color: #37483f; background: #f2f5e8; font-size: .86rem; line-height: 1.72; }
 .checklist { display: grid; gap: 11px; margin: 20px 0; }
 .checklist label { display: flex; align-items: flex-start; gap: 10px; color: #43523d; font-size: .83rem; line-height: 1.65; cursor: pointer; }
 .checklist input { width: 17px; height: 17px; flex: 0 0 17px; margin: 4px 0 0; accent-color: var(--forest); cursor: pointer; }
@@ -270,6 +275,7 @@ p:last-child { margin-bottom: 0; }
   .lesson-heading h1 { font-size: 1.9rem; }
   .breadcrumb { margin-bottom: 22px; font-size: .74rem; }
   .content-card { padding: 22px 20px; }
+  .shadowing-requirements { padding: 17px 18px; }
   .step-tabs { gap: 3px; padding: 4px; }
   .step-tabs button { padding: 8px 6px; font-size: .76rem; }
   .video-shell { border-radius: 10px; }
