@@ -27,12 +27,20 @@
         "vi": "phần mềm chỉnh sửa video"
       },
       {
+        "en": "so complicated",
+        "vi": "quá phức tạp"
+      },
+      {
+        "en": "no way",
+        "vi": "không đời nào"
+      },
+      {
         "en": "look awesome",
         "vi": "trông rất ấn tượng"
       },
       {
-        "en": "No way!",
-        "vi": "Không đời nào!; phản đối mạnh trong tình huống này"
+        "en": "some time has passed",
+        "vi": "một khoảng thời gian đã trôi qua"
       }
     ],
     "pronunciation": "Nhấn các từ mang ý đối lập giữa hiện tại và kết quả lâu dài; đọc nhẹ các từ chức năng và giữ ngữ điệu cảm xúc trong đối thoại.",
@@ -65,15 +73,27 @@
     "phrases": [
       {
         "en": "a clean slate",
-        "vi": "một khởi đầu mới, không bị ràng buộc bởi chuyện cũ"
+        "vi": "một khởi đầu mới"
       },
       {
         "en": "start fresh",
-        "vi": "bắt đầu lại"
+        "vi": "bắt đầu lại từ đầu"
       },
       {
         "en": "give up bad habits",
         "vi": "từ bỏ thói quen xấu"
+      },
+      {
+        "en": "drinking too much coffee",
+        "vi": "uống quá nhiều cà phê"
+      },
+      {
+        "en": "a great time to",
+        "vi": "thời điểm thích hợp để"
+      },
+      {
+        "en": "relate to teaching",
+        "vi": "liên quan đến việc dạy học"
       }
     ],
     "pronunciation": "Nối phụ âm cuối sang nguyên âm đầu ở cụm động từ. Giữ trọng âm ở hành động chính; phân biệt giọng hào hứng khi nói về kế hoạch và giọng phản hồi hài hước.",
@@ -106,15 +126,27 @@
     "phrases": [
       {
         "en": "on the ball",
-        "vi": "nhanh nhạy và xử lý công việc hiệu quả"
+        "vi": "nhanh nhạy, làm việc hiệu quả"
+      },
+      {
+        "en": "get on the ball",
+        "vi": "bắt tay làm việc hiệu quả hơn"
       },
       {
         "en": "ahead of time",
         "vi": "trước thời hạn"
       },
       {
-        "en": "get on the ball",
-        "vi": "bắt tay làm việc nhanh nhẹn, hiệu quả hơn"
+        "en": "productive",
+        "vi": "năng suất, hiệu quả"
+      },
+      {
+        "en": "finished three reports",
+        "vi": "đã hoàn thành ba báo cáo"
+      },
+      {
+        "en": "one more to do",
+        "vi": "còn một việc nữa phải làm"
       }
     ],
     "pronunciation": "Giữ nhịp các lượt hỏi–đáp và nhấn từ thể hiện kết quả. Luyện đọc gọn dạng rút gọn, nghe kỹ ngữ điệu hứng khởi và ngữ điệu dè dặt ở hai người nói.",
@@ -147,15 +179,27 @@
     "phrases": [
       {
         "en": "stuck in a rut",
-        "vi": "mắc kẹt trong một nếp sống hoặc công việc nhàm chán"
+        "vi": "mắc kẹt trong lối mòn"
       },
       {
         "en": "change things up",
-        "vi": "làm mới cách làm hoặc thay đổi thói quen"
+        "vi": "thay đổi để tạo sự mới mẻ"
       },
       {
         "en": "over and over",
         "vi": "lặp đi lặp lại"
+      },
+      {
+        "en": "feel more creative",
+        "vi": "cảm thấy sáng tạo hơn"
+      },
+      {
+        "en": "just trying to",
+        "vi": "chỉ đang cố gắng"
+      },
+      {
+        "en": "need a change",
+        "vi": "cần một sự thay đổi"
       }
     ],
     "pronunciation": "Đọc liền các cụm nói về cảm xúc và sự thay đổi. Chia hơi trước phần bổ sung ý; giữ phụ âm cuối rõ để câu dài không biến thành một chuỗi âm mơ hồ.",
@@ -188,15 +232,23 @@
     "phrases": [
       {
         "en": "no-brainer",
-        "vi": "điều quá rõ hoặc lựa chọn dễ đến mức không cần suy nghĩ nhiều"
+        "vi": "việc quá dễ quyết định"
       },
       {
         "en": "what if",
-        "vi": "nếu như… thì sao?"
+        "vi": "nếu... thì sao?"
       },
       {
         "en": "twin brother",
         "vi": "anh hoặc em trai sinh đôi"
+      },
+      {
+        "en": "bad at their jobs",
+        "vi": "làm việc kém"
+      },
+      {
+        "en": "requires little thought",
+        "vi": "hầu như không cần suy nghĩ"
       },
       {
         "en": "make the right choice",
@@ -233,15 +285,27 @@
     "phrases": [
       {
         "en": "go viral",
-        "vi": "lan truyền nhanh và rộng trên mạng"
+        "vi": "lan truyền mạnh trên mạng"
       },
       {
         "en": "more views",
         "vi": "nhiều lượt xem hơn"
       },
       {
+        "en": "spreads quickly",
+        "vi": "lan truyền nhanh"
+      },
+      {
         "en": "social media",
         "vi": "mạng xã hội"
+      },
+      {
+        "en": "allergic",
+        "vi": "bị dị ứng"
+      },
+      {
+        "en": "let cats in",
+        "vi": "cho mèo vào"
       }
     ],
     "pronunciation": "Bắt chước cách chuyển giọng giữa lời đề xuất, câu hỏi và câu phản hồi ngắn. Đọc rõ đuôi số nhiều và ngắt cụm ở các con số thay vì đọc đều từng từ.",
@@ -274,15 +338,31 @@
     "phrases": [
       {
         "en": "two peas in a pod",
-        "vi": "hai người rất giống và rất hợp nhau"
+        "vi": "hai người rất giống và hợp nhau"
       },
       {
-        "en": "get along",
-        "vi": "hòa hợp, có quan hệ tốt"
+        "en": "get along really well",
+        "vi": "rất hòa hợp"
       },
       {
-        "en": "in the past",
-        "vi": "trong quá khứ"
+        "en": "breakfast meeting",
+        "vi": "cuộc họp vào bữa sáng"
+      },
+      {
+        "en": "wonder if",
+        "vi": "tự hỏi liệu"
+      },
+      {
+        "en": "something's going on",
+        "vi": "có chuyện gì đó đang xảy ra"
+      },
+      {
+        "en": "have had disagreements",
+        "vi": "đã từng có bất đồng"
+      },
+      {
+        "en": "a bit too early",
+        "vi": "hơi quá sớm"
       }
     ],
     "pronunciation": "Giữ ngữ điệu tò mò ở câu hỏi và hạ giọng khi giải thích. Nối các từ chức năng nhẹ, chú ý âm cuối khi chuyển sang một từ bắt đầu bằng nguyên âm.",
@@ -315,15 +395,27 @@
     "phrases": [
       {
         "en": "break the news",
-        "vi": "thông báo một tin, trong tình huống này là tin không vui"
+        "vi": "báo một tin không vui"
+      },
+      {
+        "en": "hate to break the news",
+        "vi": "rất tiếc phải báo tin"
       },
       {
         "en": "budget cuts",
         "vi": "việc cắt giảm ngân sách"
       },
       {
-        "en": "not enough money",
-        "vi": "không đủ tiền"
+        "en": "make them upset or sad",
+        "vi": "khiến họ buồn hoặc thất vọng"
+      },
+      {
+        "en": "travel guidebook",
+        "vi": "sách hướng dẫn du lịch"
+      },
+      {
+        "en": "work trip",
+        "vi": "chuyến công tác"
       }
     ],
     "pronunciation": "Ngắt nhẹ trước thông tin bất ngờ và giữ trọng âm ở từ phủ định. Đọc các mục liệt kê theo cùng nhịp, tránh lấy hơi sau từng từ.",
@@ -356,15 +448,31 @@
     "phrases": [
       {
         "en": "strike a chord",
-        "vi": "gợi sự đồng cảm hoặc phản ứng cảm xúc mạnh"
+        "vi": "gợi sự đồng cảm mạnh"
       },
       {
         "en": "afraid of flying",
         "vi": "sợ đi máy bay"
       },
       {
+        "en": "so do I",
+        "vi": "tôi cũng vậy"
+      },
+      {
+        "en": "strong reaction",
+        "vi": "phản ứng mạnh"
+      },
+      {
         "en": "identify with",
-        "vi": "cảm thấy đồng cảm hoặc có điểm giống với"
+        "vi": "đồng cảm với"
+      },
+      {
+        "en": "reminded of something familiar",
+        "vi": "được gợi nhớ về điều quen thuộc"
+      },
+      {
+        "en": "flying career",
+        "vi": "sự nghiệp hàng không"
       }
     ],
     "pronunciation": "Giữ ngữ điệu ngạc nhiên ở câu hỏi lại, nhấn điểm đối lập khi sửa ý. Chia hơi hợp lý trước phần nêu nguyên nhân trong lời giải nghĩa.",
@@ -397,15 +505,31 @@
     "phrases": [
       {
         "en": "make waves",
-        "vi": "gây chú ý bằng cách làm khác lệ thường, đôi khi tạo xáo trộn"
+        "vi": "gây chú ý và tạo thay đổi"
+      },
+      {
+        "en": "playing for the first time",
+        "vi": "chơi lần đầu tiên"
+      },
+      {
+        "en": "been together for years",
+        "vi": "đã gắn bó nhiều năm"
+      },
+      {
+        "en": "bring new ideas",
+        "vi": "đưa ra ý tưởng mới"
       },
       {
         "en": "follow along",
-        "vi": "làm theo những người khác"
+        "vi": "làm theo"
       },
       {
-        "en": "bring about",
-        "vi": "mang lại, tạo ra một thay đổi"
+        "en": "draw attention to yourself",
+        "vi": "thu hút sự chú ý về mình"
+      },
+      {
+        "en": "new ways of thinking",
+        "vi": "những cách suy nghĩ mới"
       }
     ],
     "pronunciation": "Nhấn từ thể hiện sự tương phản giữa làm theo và thay đổi. Giữ ngữ điệu khích lệ ở lời đề nghị, sau đó đọc chậm hơn ở đoạn giải nghĩa có nhiều cụm ý.",
@@ -438,19 +562,27 @@
     "phrases": [
       {
         "en": "hold your horses",
-        "vi": "chờ đã; bình tĩnh một chút — thân mật"
+        "vi": "chờ đã; bình tĩnh nào"
       },
       {
-        "en": "just a second",
-        "vi": "chờ một giây nhé"
+        "en": "Just a second",
+        "vi": "chờ một chút"
       },
       {
-        "en": "I'm almost done",
-        "vi": "tôi gần xong rồi"
+        "en": "almost done",
+        "vi": "gần xong"
+      },
+      {
+        "en": "be patient",
+        "vi": "hãy kiên nhẫn"
+      },
+      {
+        "en": "sound rude",
+        "vi": "nghe có vẻ thô lỗ"
       },
       {
         "en": "depending on how you say it",
-        "vi": "tùy cách bạn nói"
+        "vi": "tùy vào cách bạn nói"
       }
     ],
     "pronunciation": "Giữ rõ âm /h/ ở cụm chính, nối âm ở câu đáp ngắn và hạ giọng phù hợp khi yêu cầu người khác chờ.",
@@ -483,19 +615,27 @@
     "phrases": [
       {
         "en": "the bottom line",
-        "vi": "điều cốt yếu; kết quả cuối cùng"
+        "vi": "điều cốt yếu"
       },
       {
-        "en": "they're getting better",
-        "vi": "họ đang tiến bộ"
+        "en": "try hard",
+        "vi": "cố gắng hết sức"
       },
       {
-        "en": "they tried really hard",
-        "vi": "họ đã rất cố gắng"
+        "en": "hit the ball to win",
+        "vi": "đánh trúng bóng để thắng"
       },
       {
-        "en": "you have to",
-        "vi": "bạn cần phải"
+        "en": "outcome",
+        "vi": "kết quả cuối cùng"
+      },
+      {
+        "en": "important thing to consider",
+        "vi": "điều quan trọng cần cân nhắc"
+      },
+      {
+        "en": "saw us lose",
+        "vi": "đã chứng kiến đội mình thua"
       }
     ],
     "pronunciation": "Luyện dạng rút gọn, đuôi quá khứ và nhấn từ mang ý đối chiếu giữa nỗ lực với kết quả.",
@@ -528,19 +668,27 @@
     "phrases": [
       {
         "en": "clear the decks",
-        "vi": "giải quyết việc đang có để sẵn sàng cho việc mới"
+        "vi": "dọn việc cũ để sẵn sàng việc mới"
       },
       {
-        "en": "finish up",
-        "vi": "hoàn tất"
+        "en": "write four stories",
+        "vi": "viết bốn câu chuyện"
+      },
+      {
+        "en": "finish up other tasks",
+        "vi": "hoàn tất các việc khác"
       },
       {
         "en": "before starting something new",
-        "vi": "trước khi bắt đầu một việc mới"
+        "vi": "trước khi bắt đầu việc mới"
       },
       {
-        "en": "I agree with",
-        "vi": "tôi đồng ý với"
+        "en": "work on that song",
+        "vi": "tiếp tục làm bài hát đó"
+      },
+      {
+        "en": "agree with",
+        "vi": "đồng ý với"
       }
     ],
     "pronunciation": "Chia câu liệt kê thành cụm ý, nhấn từng đầu việc và giữ âm cuối rõ khi chuyển sang từ tiếp theo.",
@@ -573,19 +721,31 @@
     "phrases": [
       {
         "en": "split the difference",
-        "vi": "thỏa hiệp ở mức giữa hai đề nghị"
-      },
-      {
-        "en": "it was your fault",
-        "vi": "đó là lỗi của bạn"
+        "vi": "thỏa hiệp ở mức giữa"
       },
       {
         "en": "in that case",
         "vi": "nếu vậy thì"
       },
       {
-        "en": "we both were to blame",
-        "vi": "cả hai chúng tôi đều có lỗi"
+        "en": "pay half",
+        "vi": "trả một nửa"
+      },
+      {
+        "en": "to blame",
+        "vi": "có lỗi, đáng trách"
+      },
+      {
+        "en": "broke her expensive vase",
+        "vi": "làm vỡ chiếc bình đắt tiền của cô ấy"
+      },
+      {
+        "en": "agree to pay",
+        "vi": "đồng ý trả tiền"
+      },
+      {
+        "en": "proposed amounts",
+        "vi": "các mức tiền được đề xuất"
       }
     ],
     "pronunciation": "Nhấn từ phủ định và từ chỉ trách nhiệm; nối âm trong cụm chuyển sang giải pháp, giữ nhịp tự nhiên ở câu kể dài.",
@@ -629,8 +789,16 @@
         "vi": "suốt nhiều năm"
       },
       {
+        "en": "four million subscribers",
+        "vi": "bốn triệu người đăng ký"
+      },
+      {
         "en": "unlikely to become reality",
         "vi": "khó trở thành hiện thực"
+      },
+      {
+        "en": "moving to Hollywood",
+        "vi": "chuyển đến Hollywood"
       }
     ],
     "pronunciation": "Giữ nhịp ở câu có dạng rút gọn và cụm thời gian; nhấn con số cùng từ diễn tả mức độ khả thi.",
@@ -663,7 +831,7 @@
     "phrases": [
       {
         "en": "mixed feelings",
-        "vi": "cảm xúc đan xen, trái chiều"
+        "vi": "cảm xúc trái chiều"
       },
       {
         "en": "closer to my home",
@@ -674,8 +842,16 @@
         "vi": "trong giờ nghỉ trưa"
       },
       {
+        "en": "supposed to",
+        "vi": "được cho là phải"
+      },
+      {
         "en": "figure out something",
-        "vi": "nghĩ ra một cách hoặc việc gì đó"
+        "vi": "nghĩ ra cách giải quyết"
+      },
+      {
+        "en": "excited but also scared",
+        "vi": "háo hức nhưng cũng sợ"
       }
     ],
     "pronunciation": "Giữ rõ phụ âm cuối trong cụm tên bài và nhấn hai ý đối lập của câu.",
@@ -708,19 +884,27 @@
     "phrases": [
       {
         "en": "let off steam",
-        "vi": "giải tỏa cảm xúc hoặc năng lượng"
+        "vi": "giải tỏa căng thẳng"
+      },
+      {
+        "en": "what is wrong with",
+        "vi": "có chuyện gì với"
       },
       {
         "en": "let out frustrations",
-        "vi": "bộc lộ sự bực bội"
+        "vi": "trút bớt sự bực bội"
       },
       {
-        "en": "Why do you ask?",
-        "vi": "Sao bạn lại hỏi vậy?"
+        "en": "take it out on",
+        "vi": "trút giận lên"
       },
       {
-        "en": "a good way to",
-        "vi": "một cách tốt để"
+        "en": "strong emotions or energy",
+        "vi": "cảm xúc mạnh hoặc năng lượng"
+      },
+      {
+        "en": "seems to work",
+        "vi": "có vẻ hiệu quả"
       }
     ],
     "pronunciation": "Nối âm trong cụm tên bài và nhấn từ khóa trong câu hỏi; không đọc đều mọi từ.",
@@ -752,12 +936,12 @@
     ],
     "phrases": [
       {
-        "en": "what makes someone tick",
-        "vi": "điều chi phối hoặc thúc đẩy một người"
+        "en": "makes a person tick",
+        "vi": "điều thôi thúc một người"
       },
       {
-        "en": "for a while",
-        "vi": "một thời gian"
+        "en": "working together",
+        "vi": "làm việc cùng nhau"
       },
       {
         "en": "talk about myself",
@@ -766,6 +950,14 @@
       {
         "en": "care about",
         "vi": "quan tâm đến"
+      },
+      {
+        "en": "cause them to behave",
+        "vi": "khiến họ cư xử"
+      },
+      {
+        "en": "in a certain way",
+        "vi": "theo một cách nhất định"
       }
     ],
     "pronunciation": "Nhấn từ hỏi và từ mang ý chính; giữ rõ phụ âm cuối khi liệt kê cảm xúc, mong muốn và quan điểm.",
@@ -798,19 +990,35 @@
     "phrases": [
       {
         "en": "get your act together",
-        "vi": "chấn chỉnh, làm việc có tổ chức hơn"
+        "vi": "chấn chỉnh và làm việc có tổ chức hơn"
+      },
+      {
+        "en": "get this right",
+        "vi": "làm cho đúng việc này"
+      },
+      {
+        "en": "quarter earnings",
+        "vi": "lợi nhuận theo quý"
+      },
+      {
+        "en": "went up five percent",
+        "vi": "đã tăng năm phần trăm"
+      },
+      {
+        "en": "were down five percent",
+        "vi": "đã giảm năm phần trăm"
       },
       {
         "en": "take control",
         "vi": "nắm quyền kiểm soát"
       },
       {
-        "en": "went up",
-        "vi": "đã tăng"
+        "en": "deal with something",
+        "vi": "xử lý một việc"
       },
       {
-        "en": "were down five percent",
-        "vi": "đã giảm năm phần trăm"
+        "en": "numbers are all wrong",
+        "vi": "các số liệu đều sai"
       }
     ],
     "pronunciation": "Nhấn rõ từ chỉ tăng hoặc giảm; giữ ngữ điệu đối đáp nhưng không đẩy tốc độ quá nhanh.",
@@ -843,19 +1051,27 @@
     "phrases": [
       {
         "en": "goose bumps",
-        "vi": "da gà, những nốt nổi trên da khi lạnh hoặc sợ"
+        "vi": "nổi da gà"
       },
       {
         "en": "the entire time",
         "vi": "suốt thời gian đó"
       },
       {
-        "en": "movie theater",
-        "vi": "rạp chiếu phim"
+        "en": "raised area",
+        "vi": "vùng nhô lên"
       },
       {
-        "en": "Put on a coat!",
-        "vi": "Mặc áo khoác vào!"
+        "en": "water bird",
+        "vi": "chim sống gần nước"
+      },
+      {
+        "en": "without feathers",
+        "vi": "không có lông vũ"
+      },
+      {
+        "en": "body's way of saying",
+        "vi": "cách cơ thể báo hiệu"
       }
     ],
     "pronunciation": "Giữ rõ phụ âm cuối trong cụm tên bài; nhấn từ diễn tả cảm giác lạnh và sợ.",
@@ -887,11 +1103,27 @@
     "phrases": [
       {
         "en": "call it a day",
-        "vi": "kết thúc công việc vào lúc này"
+        "vi": "dừng công việc tại đây"
+      },
+      {
+        "en": "working on this project",
+        "vi": "đang thực hiện dự án này"
+      },
+      {
+        "en": "for the past 15 hours",
+        "vi": "suốt 15 giờ qua"
       },
       {
         "en": "get this done",
         "vi": "hoàn thành việc này"
+      },
+      {
+        "en": "isn't due until next month",
+        "vi": "đến tháng sau mới tới hạn"
+      },
+      {
+        "en": "for real",
+        "vi": "thật vậy sao"
       }
     ],
     "pronunciation": "Nhấn số giờ đã làm và thời hạn thật; giữ ngữ điệu ngắn gọn của câu hỏi xác nhận.",
@@ -926,12 +1158,24 @@
         "vi": "còn phân vân"
       },
       {
-        "en": "pros and cons",
-        "vi": "ưu và nhược điểm"
+        "en": "the pros and the cons",
+        "vi": "ưu điểm và nhược điểm"
       },
       {
-        "en": "make a decision",
-        "vi": "đưa ra quyết định"
+        "en": "sit on the fence",
+        "vi": "do dự, chưa chọn bên nào"
+      },
+      {
+        "en": "be undecided",
+        "vi": "chưa quyết định"
+      },
+      {
+        "en": "fence-sitter",
+        "vi": "người hay do dự"
+      },
+      {
+        "en": "picked a side",
+        "vi": "đã chọn một bên"
       }
     ],
     "pronunciation": "Nhấn hai lựa chọn đối lập; lên giọng khi do dự rồi hạ giọng ở câu cần quyết định.",
@@ -963,11 +1207,27 @@
     "phrases": [
       {
         "en": "get cracking",
-        "vi": "bắt đầu làm ngay"
+        "vi": "bắt tay làm ngay"
       },
       {
         "en": "due tonight",
-        "vi": "đến hạn vào tối nay"
+        "vi": "đến hạn tối nay"
+      },
+      {
+        "en": "proposal",
+        "vi": "bản đề xuất"
+      },
+      {
+        "en": "see what you've got",
+        "vi": "xem bạn đã làm được gì"
+      },
+      {
+        "en": "right away",
+        "vi": "ngay lập tức"
+      },
+      {
+        "en": "get crackin'",
+        "vi": "bắt tay làm ngay; cách nói lược âm"
       }
     ],
     "pronunciation": "Nhấn mốc thời gian và câu hỏi ngắn; nghe cách âm cuối được nói trong lối phát âm thân mật.",
@@ -1002,12 +1262,28 @@
         "vi": "điều nhỏ khiến mình rất khó chịu"
       },
       {
-        "en": "complete quiet",
-        "vi": "sự yên tĩnh hoàn toàn"
+        "en": "feel angry or annoyed",
+        "vi": "cảm thấy tức giận hoặc khó chịu"
+      },
+      {
+        "en": "a pet peeve of mine",
+        "vi": "một điều tôi rất khó chịu"
       },
       {
         "en": "Sure thing",
         "vi": "Được thôi"
+      },
+      {
+        "en": "complete quiet",
+        "vi": "sự yên tĩnh hoàn toàn"
+      },
+      {
+        "en": "odd and strangely specific",
+        "vi": "lạ và rất cụ thể"
+      },
+      {
+        "en": "want them to stop",
+        "vi": "muốn họ dừng lại"
       }
     ],
     "pronunciation": "Phân biệt ngữ điệu yêu cầu và ngữ điệu đáp lại; nối phụ âm cuối với nguyên âm ở từ tiếp theo.",
@@ -1039,11 +1315,27 @@
     "phrases": [
       {
         "en": "catch some zs",
-        "vi": "ngủ một chút"
+        "vi": "chợp mắt một chút"
       },
       {
-        "en": "all night",
-        "vi": "suốt đêm"
+        "en": "a lot of work to do",
+        "vi": "rất nhiều việc phải làm"
+      },
+      {
+        "en": "not a good idea",
+        "vi": "không phải ý hay"
+      },
+      {
+        "en": "recording studio",
+        "vi": "phòng thu âm"
+      },
+      {
+        "en": "buzzing sound of snoring",
+        "vi": "tiếng vo ve của tiếng ngáy"
+      },
+      {
+        "en": "represent sleep",
+        "vi": "biểu thị giấc ngủ"
       }
     ],
     "pronunciation": "Lên giọng ở câu hỏi; nhấn sự tương phản giữa nơi làm việc và nơi người nói muốn ngủ.",
@@ -1079,11 +1371,23 @@
       },
       {
         "en": "game night",
-        "vi": "buổi chơi trò chơi"
+        "vi": "buổi tối chơi trò chơi"
       },
       {
-        "en": "ready to play",
-        "vi": "sẵn sàng chơi"
+        "en": "come ready to play",
+        "vi": "đến và sẵn sàng chơi"
+      },
+      {
+        "en": "reach up to get it",
+        "vi": "vươn tay lên lấy nó"
+      },
+      {
+        "en": "need more than confidence",
+        "vi": "cần nhiều hơn sự tự tin"
+      },
+      {
+        "en": "available to any person",
+        "vi": "dành cho bất kỳ ai"
       }
     ],
     "pronunciation": "Nhấn từ chỉ giải thưởng và số lượng; giữ giọng tò mò ở câu hỏi rồi chuyển sang hào hứng.",
@@ -1115,11 +1419,27 @@
     "phrases": [
       {
         "en": "couch potato",
-        "vi": "người dành quá nhiều thời gian ngồi xem tivi"
+        "vi": "người ngồi lì xem tivi"
       },
       {
-        "en": "all night",
-        "vi": "suốt đêm"
+        "en": "new roommate",
+        "vi": "bạn cùng phòng mới"
+      },
+      {
+        "en": "could be worse",
+        "vi": "có thể còn tệ hơn"
+      },
+      {
+        "en": "very loud speakers",
+        "vi": "loa mở âm lượng rất lớn"
+      },
+      {
+        "en": "spends a lot of time",
+        "vi": "dành rất nhiều thời gian"
+      },
+      {
+        "en": "calling someone lazy",
+        "vi": "gọi ai đó là lười biếng"
       }
     ],
     "pronunciation": "Nhấn các thói quen gây khó chịu; bắt chước ngữ điệu của câu hỏi phản hồi ngắn.",
@@ -1151,15 +1471,27 @@
     "phrases": [
       {
         "en": "partners in crime",
-        "vi": "những người bạn cùng bày kế hoạch vui"
+        "vi": "những người bạn cùng bày trò"
+      },
+      {
+        "en": "serious matter",
+        "vi": "vấn đề nghiêm trọng"
       },
       {
         "en": "surprise birthday party",
         "vi": "tiệc sinh nhật bất ngờ"
       },
       {
-        "en": "close friends",
-        "vi": "bạn thân"
+        "en": "murder mystery party",
+        "vi": "bữa tiệc trinh thám án mạng"
+      },
+      {
+        "en": "work together to plan",
+        "vi": "cùng nhau lên kế hoạch"
+      },
+      {
+        "en": "a little unexpected",
+        "vi": "hơi bất ngờ"
       }
     ],
     "pronunciation": "Đọc nhẹ các từ chức năng, nhấn hoạt động được lên kế hoạch; giữ nhịp ở câu trả lời rất ngắn.",
@@ -1191,11 +1523,35 @@
     "phrases": [
       {
         "en": "green thumb",
-        "vi": "khả năng chăm cây tốt"
+        "vi": "mát tay trồng cây"
       },
       {
         "en": "taking care of",
         "vi": "chăm sóc"
+      },
+      {
+        "en": "while I was away",
+        "vi": "khi tôi đi vắng"
+      },
+      {
+        "en": "overwatered it",
+        "vi": "đã tưới quá nhiều nước"
+      },
+      {
+        "en": "never claimed to",
+        "vi": "chưa từng nhận là"
+      },
+      {
+        "en": "special ability",
+        "vi": "khả năng đặc biệt"
+      },
+      {
+        "en": "keep them healthy",
+        "vi": "giữ cho chúng khỏe mạnh"
+      },
+      {
+        "en": "especially good at",
+        "vi": "đặc biệt giỏi về"
       }
     ],
     "pronunciation": "Nhấn các phần đối lập ở từ nói về lượng nước; ngắt nhẹ ở lời thú nhận ngập ngừng.",
@@ -1234,8 +1590,24 @@
         "vi": "tổ chức tiệc bất ngờ"
       },
       {
-        "en": "get a text",
-        "vi": "nhận tin nhắn"
+        "en": "got a text",
+        "vi": "nhận được tin nhắn"
+      },
+      {
+        "en": "seems angry",
+        "vi": "có vẻ tức giận"
+      },
+      {
+        "en": "most definitely not",
+        "vi": "chắc chắn là không"
+      },
+      {
+        "en": "amused",
+        "vi": "cảm thấy thích thú"
+      },
+      {
+        "en": "turn pink",
+        "vi": "chuyển sang màu hồng"
       }
     ],
     "pronunciation": "Nhấn từ phủ định và đổi giọng khi đọc tin nhắn; phát âm rõ cụm phụ âm cuối trong tên bài.",
@@ -1267,11 +1639,27 @@
     "phrases": [
       {
         "en": "grow like a weed",
-        "vi": "lớn hoặc phát triển rất nhanh"
+        "vi": "lớn nhanh như thổi"
       },
       {
-        "en": "trip home",
-        "vi": "chuyến về nhà"
+        "en": "take over a garden",
+        "vi": "mọc tràn khắp khu vườn"
+      },
+      {
+        "en": "overnight",
+        "vi": "chỉ sau một đêm"
+      },
+      {
+        "en": "pictures from my trip home",
+        "vi": "ảnh từ chuyến về nhà của tôi"
+      },
+      {
+        "en": "would love to",
+        "vi": "rất muốn, rất sẵn lòng"
+      },
+      {
+        "en": "gardened",
+        "vi": "đã làm vườn"
       }
     ],
     "pronunciation": "Giữ ngữ điệu ngạc nhiên ở câu hỏi ngắn; nhấn tính từ so sánh và con số.",
@@ -1310,8 +1698,20 @@
         "vi": "thực tập sinh mới"
       },
       {
-        "en": "It starts with",
-        "vi": "Nó bắt đầu bằng"
+        "en": "starts with",
+        "vi": "bắt đầu bằng"
+      },
+      {
+        "en": "can't quite think of it",
+        "vi": "vẫn chưa thể nhớ ra"
+      },
+      {
+        "en": "trying to remember",
+        "vi": "đang cố nhớ lại"
+      },
+      {
+        "en": "close to remembering",
+        "vi": "sắp nhớ ra"
       }
     ],
     "pronunciation": "Bắt chước ngữ điệu khi đoán tên; nhấn từ khóa ở lời giải thích và giữ âm cuối của các động từ.",
@@ -1348,6 +1748,22 @@
       {
         "en": "elementary school teacher",
         "vi": "giáo viên tiểu học"
+      },
+      {
+        "en": "spend time thinking about",
+        "vi": "dành thời gian suy ngẫm"
+      },
+      {
+        "en": "less pleasant times",
+        "vi": "những khoảng thời gian kém vui"
+      },
+      {
+        "en": "make fun of",
+        "vi": "chế giễu"
+      },
+      {
+        "en": "talking about the past",
+        "vi": "kể về quá khứ"
       }
     ],
     "pronunciation": "Giữ ngữ điệu vui khi kể kỷ niệm; nhấn tên riêng nhưng không đọc ngắt từng từ trong câu dài.",
@@ -1382,12 +1798,24 @@
         "vi": "chào đón đặc biệt"
       },
       {
-        "en": "favorite meals",
-        "vi": "những món ăn yêu thích"
+        "en": "fixed up my old treehouse",
+        "vi": "sửa lại ngôi nhà cây cũ của tôi"
       },
       {
-        "en": "trip home",
-        "vi": "chuyến về nhà"
+        "en": "flew in from",
+        "vi": "bay đến từ"
+      },
+      {
+        "en": "give me a list of things",
+        "vi": "đưa tôi danh sách các việc"
+      },
+      {
+        "en": "important guests",
+        "vi": "những vị khách quan trọng"
+      },
+      {
+        "en": "special and memorable",
+        "vi": "đặc biệt và đáng nhớ"
       }
     ],
     "pronunciation": "Lên giọng nhẹ ở các mục chưa kết thúc trong câu liệt kê; hạ giọng ở chi tiết cuối.",
@@ -1422,8 +1850,32 @@
         "vi": "nơi mình gắn bó chính là nhà"
       },
       {
+        "en": "assigned to work overseas",
+        "vi": "được cử đi làm ở nước ngoài"
+      },
+      {
         "en": "get homesick",
         "vi": "cảm thấy nhớ nhà"
+      },
+      {
+        "en": "as long as",
+        "vi": "miễn là"
+      },
+      {
+        "en": "feel safe and loved",
+        "vi": "cảm thấy an toàn và được yêu thương"
+      },
+      {
+        "en": "feel connected to",
+        "vi": "cảm thấy gắn bó với"
+      },
+      {
+        "en": "emotionally",
+        "vi": "về mặt tình cảm"
+      },
+      {
+        "en": "call anywhere home",
+        "vi": "coi bất cứ đâu là nhà"
       }
     ],
     "pronunciation": "Đọc nhẹ từ chức năng trong câu dài; nhấn thời gian xa nhà và điều khiến nhân vật an tâm.",
@@ -1462,8 +1914,20 @@
         "vi": "đang thiếp đi"
       },
       {
+        "en": "turned up his music",
+        "vi": "vặn nhạc to lên"
+      },
+      {
         "en": "turn it down",
         "vi": "vặn nhỏ âm lượng"
+      },
+      {
+        "en": "too tired to get out of bed",
+        "vi": "quá mệt để ra khỏi giường"
+      },
+      {
+        "en": "at exactly the wrong time",
+        "vi": "đúng vào lúc tệ nhất"
       }
     ],
     "pronunciation": "Ngắt hơi ở ranh giới sự việc trong câu dài; nhấn thời điểm và âm lượng gây khó chịu.",
@@ -1495,11 +1959,27 @@
     "phrases": [
       {
         "en": "get out of town",
-        "vi": "thật không thể tin nổi; cảm thán trong ngữ cảnh này"
+        "vi": "thật không thể tin nổi"
       },
       {
         "en": "right down the street",
-        "vi": "ngay trên cùng con phố"
+        "vi": "ngay gần đó trên cùng con phố"
+      },
+      {
+        "en": "find it hard to believe",
+        "vi": "khó tin"
+      },
+      {
+        "en": "you're kidding",
+        "vi": "bạn đang đùa"
+      },
+      {
+        "en": "lived in apartments",
+        "vi": "đã sống trong các căn hộ"
+      },
+      {
+        "en": "finally bought a house",
+        "vi": "cuối cùng đã mua một căn nhà"
       }
     ],
     "pronunciation": "Giữ cảm xúc ngạc nhiên ở câu cảm thán; đọc liền cụm khi giải thích vị trí của ngôi nhà.",
@@ -1531,15 +2011,27 @@
     "phrases": [
       {
         "en": "talk is cheap",
-        "vi": "nói thì dễ, hành động mới khó"
+        "vi": "nói thì dễ, làm mới khó"
       },
       {
         "en": "organize my space",
         "vi": "sắp xếp chỗ của tôi"
       },
       {
-        "en": "for months",
-        "vi": "suốt nhiều tháng"
+        "en": "takes time",
+        "vi": "cần thời gian"
+      },
+      {
+        "en": "actually do it",
+        "vi": "thực sự làm việc đó"
+      },
+      {
+        "en": "speak louder than words",
+        "vi": "có sức nặng hơn lời nói"
+      },
+      {
+        "en": "a little more informal",
+        "vi": "thân mật hơn một chút"
       }
     ],
     "pronunciation": "Nhấn động từ hành động trong lời nhắc; giữ giọng hơi kéo dài khi nhân vật tìm lý do trì hoãn.",
@@ -1571,11 +2063,27 @@
     "phrases": [
       {
         "en": "around the corner",
-        "vi": "sắp đến, trong tương lai gần"
+        "vi": "sắp đến"
+      },
+      {
+        "en": "plan our party",
+        "vi": "lên kế hoạch cho bữa tiệc"
+      },
+      {
+        "en": "still weeks away",
+        "vi": "vẫn còn vài tuần nữa"
       },
       {
         "en": "at the last minute",
         "vi": "vào phút chót"
+      },
+      {
+        "en": "to-do list",
+        "vi": "danh sách việc cần làm"
+      },
+      {
+        "en": "not much time to plan",
+        "vi": "không còn nhiều thời gian để lên kế hoạch"
       }
     ],
     "pronunciation": "Nhấn từ chỉ thời gian; thể hiện sự ngạc nhiên ở câu hỏi lại và giọng quả quyết khi đưa danh sách.",
@@ -1607,15 +2115,27 @@
     "phrases": [
       {
         "en": "see the light",
-        "vi": "cuối cùng hiểu hoặc nhận ra"
+        "vi": "cuối cùng hiểu ra"
       },
       {
-        "en": "I get it now",
-        "vi": "Giờ tôi hiểu rồi"
+        "en": "get it now",
+        "vi": "giờ đã hiểu"
       },
       {
-        "en": "change your opinion",
-        "vi": "thay đổi ý kiến"
+        "en": "understand your obsession",
+        "vi": "hiểu niềm đam mê của bạn"
+      },
+      {
+        "en": "barely have to",
+        "vi": "hầu như không phải"
+      },
+      {
+        "en": "disagree with that statement",
+        "vi": "không đồng ý với nhận định đó"
+      },
+      {
+        "en": "changing your opinion",
+        "vi": "thay đổi quan điểm"
       }
     ],
     "pronunciation": "Đọc gọn dạng rút gọn; nhấn từ thể hiện mức độ dễ và phản hồi dè dặt ở cuối hội thoại.",
@@ -1647,11 +2167,27 @@
     "phrases": [
       {
         "en": "in full swing",
-        "vi": "đang ở giai đoạn sôi nổi nhất"
+        "vi": "đang diễn ra sôi nổi nhất"
+      },
+      {
+        "en": "highest level of activity",
+        "vi": "mức hoạt động cao nhất"
+      },
+      {
+        "en": "planning everything",
+        "vi": "lên kế hoạch mọi thứ"
+      },
+      {
+        "en": "holiday stress levels",
+        "vi": "mức căng thẳng dịp lễ"
       },
       {
         "en": "deep breathing",
         "vi": "hít thở sâu"
+      },
+      {
+        "en": "beginning stages",
+        "vi": "giai đoạn đầu"
       }
     ],
     "pronunciation": "Nhấn các công việc trong phần liệt kê; chuyển từ giọng căng thẳng sang lời khuyên bình tĩnh.",
@@ -1683,15 +2219,27 @@
     "phrases": [
       {
         "en": "sticker shock",
-        "vi": "bất ngờ vì mức giá cao"
+        "vi": "sốc vì giá cao"
       },
       {
-        "en": "bike store",
-        "vi": "cửa hàng xe đạp"
+        "en": "attaches to a surface",
+        "vi": "dính vào một bề mặt"
       },
       {
-        "en": "how much something costs",
-        "vi": "một thứ có giá bao nhiêu"
+        "en": "cost of a product",
+        "vi": "giá của một sản phẩm"
+      },
+      {
+        "en": "since when",
+        "vi": "từ bao giờ"
+      },
+      {
+        "en": "surprise and disappointment",
+        "vi": "sự ngạc nhiên và thất vọng"
+      },
+      {
+        "en": "high inflation",
+        "vi": "lạm phát cao"
       }
     ],
     "pronunciation": "Nhấn từ chỉ giá và cảm xúc; đọc rõ phụ âm cuối trong các từ số nhiều.",
@@ -1723,11 +2271,31 @@
     "phrases": [
       {
         "en": "the more the merrier",
-        "vi": "càng đông thì càng vui"
+        "vi": "càng đông càng vui"
       },
       {
-        "en": "not at all",
-        "vi": "hoàn toàn không; không phiền chút nào"
+        "en": "Do you mind if",
+        "vi": "bạn có phiền nếu... không?"
+      },
+      {
+        "en": "Not at all",
+        "vi": "không phiền chút nào"
+      },
+      {
+        "en": "amateur accordion group",
+        "vi": "nhóm đàn phong cầm nghiệp dư"
+      },
+      {
+        "en": "play music at your party",
+        "vi": "chơi nhạc tại bữa tiệc của bạn"
+      },
+      {
+        "en": "not just people",
+        "vi": "không chỉ con người"
+      },
+      {
+        "en": "merry",
+        "vi": "vui vẻ"
       }
     ],
     "pronunciation": "Giữ nhịp ở cấu trúc so sánh song song; nhấn các từ được thêm vào khi người nói sửa ý.",
@@ -1762,12 +2330,28 @@
         "vi": "bị tính thêm nhiều khoản nhỏ"
       },
       {
-        "en": "extra napkins",
-        "vi": "khăn giấy thêm"
+        "en": "nickel and dime you",
+        "vi": "tính thêm của bạn nhiều khoản lặt vặt"
       },
       {
-        "en": "pay for",
-        "vi": "trả tiền cho"
+        "en": "craving",
+        "vi": "rất thèm"
+      },
+      {
+        "en": "pay for extra napkins",
+        "vi": "trả tiền cho khăn giấy thêm"
+      },
+      {
+        "en": "unfairly charging you",
+        "vi": "tính phí bạn một cách bất công"
+      },
+      {
+        "en": "small things or services",
+        "vi": "những thứ hoặc dịch vụ nhỏ"
+      },
+      {
+        "en": "right to feel that way",
+        "vi": "có lý khi cảm thấy như vậy"
       }
     ],
     "pronunciation": "Phân biệt câu phản đối ngắn và câu giải thích dài; nhấn khoản phí làm người nói bất ngờ.",
@@ -1799,11 +2383,31 @@
     "phrases": [
       {
         "en": "be game",
-        "vi": "sẵn lòng hoặc sẵn sàng làm điều gì"
+        "vi": "sẵn lòng tham gia"
+      },
+      {
+        "en": "make it to",
+        "vi": "đến kịp, tham dự được"
       },
       {
         "en": "last-minute",
         "vi": "vào phút chót"
+      },
+      {
+        "en": "pickleball partner",
+        "vi": "bạn chơi pickleball cùng"
+      },
+      {
+        "en": "plan or suggestion",
+        "vi": "kế hoạch hoặc đề xuất"
+      },
+      {
+        "en": "in this case",
+        "vi": "trong trường hợp này"
+      },
+      {
+        "en": "not sure if",
+        "vi": "không chắc liệu"
       }
     ],
     "pronunciation": "Tăng nhịp ở phần giải thích vấn đề; nhấn sự sẵn sàng ở lời tình nguyện và ngạc nhiên ở câu hỏi.",
@@ -1838,12 +2442,24 @@
         "vi": "thoát khỏi trách nhiệm hoặc rắc rối"
       },
       {
+        "en": "practice with me",
+        "vi": "luyện tập cùng tôi"
+      },
+      {
+        "en": "knew this would happen",
+        "vi": "biết chuyện này sẽ xảy ra"
+      },
+      {
         "en": "as a backup",
         "vi": "để dự phòng"
       },
       {
         "en": "take your place",
         "vi": "thay vị trí của bạn"
+      },
+      {
+        "en": "no longer required",
+        "vi": "không còn bị yêu cầu"
       }
     ],
     "pronunciation": "Nhấn sự đối lập giữa dự định chuẩn bị và việc đã chuẩn bị; nối âm ở các cụm động từ.",
@@ -1875,11 +2491,27 @@
     "phrases": [
       {
         "en": "knock yourself out",
-        "vi": "cứ thoải mái làm điều đó đi"
+        "vi": "cứ tự nhiên làm đi"
       },
       {
-        "en": "go ahead",
-        "vi": "cứ tiến hành đi"
+        "en": "have been waiting to see",
+        "vi": "đã mong chờ được xem"
+      },
+      {
+        "en": "take my tickets",
+        "vi": "cầm vé của tôi đi"
+      },
+      {
+        "en": "another invitation",
+        "vi": "một lời mời khác"
+      },
+      {
+        "en": "go ahead and do something",
+        "vi": "cứ tiến hành làm một việc"
+      },
+      {
+        "en": "don't really care either way",
+        "vi": "không bận tâm chọn cách nào"
       }
     ],
     "pronunciation": "Bắt chước độ ngạc nhiên ở câu hỏi lặp lại; chuyển sang giọng thoải mái khi người nói đưa vé.",
@@ -1914,12 +2546,24 @@
         "vi": "đã có trong vốn kinh nghiệm"
       },
       {
+        "en": "tried making baguettes",
+        "vi": "đã thử làm bánh mì baguette"
+      },
+      {
+        "en": "ask me for help",
+        "vi": "nhờ tôi giúp"
+      },
+      {
         "en": "years of experience",
         "vi": "nhiều năm kinh nghiệm"
       },
       {
-        "en": "This is no joke",
-        "vi": "Đây không phải chuyện đùa"
+        "en": "no joke",
+        "vi": "không phải chuyện đùa"
+      },
+      {
+        "en": "know my idioms",
+        "vi": "hiểu các thành ngữ"
       }
     ],
     "pronunciation": "Nhấn số lượng kinh nghiệm và từ phủ định; đổi giọng khi nhân vật yêu cầu được xem trọng.",
@@ -1951,11 +2595,31 @@
     "phrases": [
       {
         "en": "cliffhanger",
-        "vi": "đoạn kết bỏ ngỏ khiến người xem hồi hộp"
+        "vi": "đoạn kết bỏ ngỏ gây hồi hộp"
+      },
+      {
+        "en": "watched the last episode",
+        "vi": "đã xem tập cuối"
+      },
+      {
+        "en": "episode after episode",
+        "vi": "hết tập này đến tập khác"
       },
       {
         "en": "second season",
-        "vi": "mùa thứ hai của chương trình"
+        "vi": "mùa thứ hai"
+      },
+      {
+        "en": "in suspense",
+        "vi": "trong trạng thái hồi hộp"
+      },
+      {
+        "en": "especially common on TV shows",
+        "vi": "đặc biệt phổ biến trong chương trình truyền hình"
+      },
+      {
+        "en": "keep people watching",
+        "vi": "khiến mọi người tiếp tục xem"
       }
     ],
     "pronunciation": "Nhấn từng ý gây bất ngờ; giữ nhịp nhanh ở câu cảm thán và chia cụm ở phần giải nghĩa.",
@@ -1987,11 +2651,31 @@
     "phrases": [
       {
         "en": "up to snuff",
-        "vi": "đạt mức tiêu chuẩn cần có"
+        "vi": "đạt tiêu chuẩn cần có"
       },
       {
-        "en": "camping trip",
-        "vi": "chuyến cắm trại"
+        "en": "high-quality materials",
+        "vi": "tài liệu chất lượng cao"
+      },
+      {
+        "en": "all packed",
+        "vi": "đã chuẩn bị đủ đồ"
+      },
+      {
+        "en": "gear is really old",
+        "vi": "đồ dùng đã rất cũ"
+      },
+      {
+        "en": "wouldn't worry",
+        "vi": "sẽ không lo"
+      },
+      {
+        "en": "pretty sure",
+        "vi": "khá chắc"
+      },
+      {
+        "en": "camping adventure",
+        "vi": "chuyến phiêu lưu cắm trại"
       },
       {
         "en": "modern cabins",
@@ -2027,11 +2711,35 @@
     "phrases": [
       {
         "en": "Hollywood ending",
-        "vi": "kết thúc hoàn hảo, hạnh phúc như trong phim"
+        "vi": "kết thúc đẹp như trong phim"
+      },
+      {
+        "en": "twisted his ankle",
+        "vi": "bị trật mắt cá chân"
+      },
+      {
+        "en": "couldn’t play at all",
+        "vi": "hoàn toàn không thể thi đấu"
+      },
+      {
+        "en": "tell me the whole story",
+        "vi": "kể cho tôi toàn bộ câu chuyện"
+      },
+      {
+        "en": "down by two",
+        "vi": "đang kém hai điểm"
       },
       {
         "en": "game-winning shot",
         "vi": "cú ném quyết định chiến thắng"
+      },
+      {
+        "en": "comes back in the game",
+        "vi": "quay lại thi đấu"
+      },
+      {
+        "en": "doesn’t even feel real",
+        "vi": "cảm giác như không có thật"
       }
     ],
     "pronunciation": "Tăng cảm xúc ở cao trào câu chuyện; tách cụm trước diễn biến bất ngờ và kết quả cuối.",
@@ -2063,7 +2771,15 @@
     "phrases": [
       {
         "en": "par for the course",
-        "vi": "chuyện bình thường hoặc có thể đoán trước"
+        "vi": "chuyện bình thường, dễ đoán trước"
+      },
+      {
+        "en": "expect to score",
+        "vi": "dự kiến đạt được số điểm đó"
+      },
+      {
+        "en": "specifically said",
+        "vi": "đã nói rõ"
       },
       {
         "en": "on the invitation",
@@ -2072,6 +2788,10 @@
       {
         "en": "a little later",
         "vi": "muộn hơn một chút"
+      },
+      {
+        "en": "any sort of situation",
+        "vi": "bất kỳ tình huống nào"
       }
     ],
     "pronunciation": "Nhấn giờ được hẹn và ý bình thường; hạ giọng ở câu khẳng định quan điểm cá nhân.",
@@ -2103,11 +2823,31 @@
     "phrases": [
       {
         "en": "fair and square",
-        "vi": "công bằng và chính đáng"
+        "vi": "công bằng, sòng phẳng"
       },
       {
-        "en": "stuffed animals",
-        "vi": "thú nhồi bông"
+        "en": "be treated fairly",
+        "vi": "được đối xử công bằng"
+      },
+      {
+        "en": "lost you in the crowd",
+        "vi": "không tìm thấy bạn trong đám đông"
+      },
+      {
+        "en": "carnival games",
+        "vi": "các trò chơi ở hội chợ"
+      },
+      {
+        "en": "cheat",
+        "vi": "gian lận"
+      },
+      {
+        "en": "without any doubt",
+        "vi": "không chút nghi ngờ"
+      },
+      {
+        "en": "it rhymes",
+        "vi": "nó có vần"
       }
     ],
     "pronunciation": "Chú ý vần giống nhau trong cụm chính; giữ ngữ điệu hỏi ở lời nghi ngờ và nhấn mạnh lời phủ nhận.",
@@ -2139,15 +2879,27 @@
     "phrases": [
       {
         "en": "stick out like a sore thumb",
-        "vi": "nổi bật một cách không phù hợp"
+        "vi": "nổi bật một cách lạc lõng"
+      },
+      {
+        "en": "a sore thumb",
+        "vi": "ngón tay cái bị đau"
       },
       {
         "en": "My bad",
-        "vi": "Lỗi của tôi"
+        "vi": "Lỗi của tôi; xin lỗi nhé"
       },
       {
-        "en": "funding fair",
-        "vi": "hội chợ về tài trợ"
+        "en": "money managers",
+        "vi": "những người quản lý tài chính"
+      },
+      {
+        "en": "very noticeable",
+        "vi": "rất dễ bị chú ý"
+      },
+      {
+        "en": "usually in a bad way",
+        "vi": "thường theo chiều hướng không hay"
       }
     ],
     "pronunciation": "Luyện phân biệt cụm nói về bữa tiệc tóc và hội chợ tài trợ; giữ rõ âm cuối khi câu chuyển nhanh.",
@@ -2179,11 +2931,27 @@
     "phrases": [
       {
         "en": "head and shoulders above",
-        "vi": "tốt hơn hẳn những đối tượng được so sánh"
+        "vi": "vượt trội hơn hẳn"
+      },
+      {
+        "en": "at the top of",
+        "vi": "ở phía trên cùng của"
+      },
+      {
+        "en": "placed higher than",
+        "vi": "được đặt cao hơn"
       },
       {
         "en": "way too expensive",
         "vi": "quá đắt"
+      },
+      {
+        "en": "I’ve tried them all",
+        "vi": "Tôi đã thử hết rồi"
+      },
+      {
+        "en": "simply the best",
+        "vi": "đơn giản là tốt nhất"
       }
     ],
     "pronunciation": "Nhấn mạnh ở lời khen và giá tiền; hạ giọng dứt khoát khi người nói khẳng định đã thử mọi quán.",
@@ -2218,12 +2986,28 @@
         "vi": "quá mức cần thiết"
       },
       {
-        "en": "favorite pen",
-        "vi": "chiếc bút yêu thích"
+        "en": "is missing",
+        "vi": "bị mất; không thấy đâu"
+      },
+      {
+        "en": "probably lost it",
+        "vi": "có lẽ đã làm mất nó"
       },
       {
         "en": "interview witnesses",
-        "vi": "hỏi các nhân chứng"
+        "vi": "phỏng vấn nhân chứng"
+      },
+      {
+        "en": "dust for fingerprints",
+        "vi": "rắc bột để tìm dấu vân tay"
+      },
+      {
+        "en": "too extreme",
+        "vi": "quá cực đoan"
+      },
+      {
+        "en": "requires too much effort",
+        "vi": "đòi hỏi quá nhiều công sức"
       }
     ],
     "pronunciation": "Nhấn các bước điều tra được liệt kê; giữ ngữ điệu hoài nghi ở câu hỏi phản hồi.",
@@ -2255,11 +3039,27 @@
     "phrases": [
       {
         "en": "a mixed bag",
-        "vi": "sự pha trộn giữa những điều tốt và chưa tốt"
+        "vi": "một tập hợp có cả tốt lẫn xấu"
+      },
+      {
+        "en": "What do you mean?",
+        "vi": "Ý bạn là gì?"
+      },
+      {
+        "en": "awful",
+        "vi": "rất tệ"
       },
       {
         "en": "way too loud",
         "vi": "ồn quá mức"
+      },
+      {
+        "en": "a variety of things",
+        "vi": "nhiều loại sự vật khác nhau"
+      },
+      {
+        "en": "just about everything",
+        "vi": "gần như mọi thứ"
       }
     ],
     "pronunciation": "Ngắt nhẹ ở phần chuyển ý; nhấn tính từ đánh giá để người nghe nhận ra mặt tốt và mặt chưa tốt.",
@@ -2294,12 +3094,24 @@
         "vi": "suy diễn thêm ý nghĩa"
       },
       {
-        "en": "contacted me",
-        "vi": "đã liên lạc với tôi"
+        "en": "the learning process",
+        "vi": "quá trình học tập"
+      },
+      {
+        "en": "just texted me",
+        "vi": "vừa nhắn tin cho tôi"
+      },
+      {
+        "en": "almost nothing",
+        "vi": "hầu như không có gì"
+      },
+      {
+        "en": "more to it than that",
+        "vi": "còn có ẩn ý khác"
       },
       {
         "en": "under the surface",
-        "vi": "ở phía sau điều nhìn thấy"
+        "vi": "ẩn sau bề mặt"
       }
     ],
     "pronunciation": "Nhấn nội dung thật của tin nhắn và ý suy đoán; đọc nhẹ phần thông tin bổ sung trong câu dài.",
@@ -2331,11 +3143,31 @@
     "phrases": [
       {
         "en": "bells and whistles",
-        "vi": "những tính năng phụ làm sản phẩm hấp dẫn hơn"
+        "vi": "các tính năng phụ hấp dẫn"
+      },
+      {
+        "en": "the latest",
+        "vi": "mới nhất"
       },
       {
         "en": "special features",
-        "vi": "những tính năng đặc biệt"
+        "vi": "các tính năng đặc biệt"
+      },
+      {
+        "en": "make it more appealing",
+        "vi": "làm nó hấp dẫn hơn"
+      },
+      {
+        "en": "not essential",
+        "vi": "không thiết yếu"
+      },
+      {
+        "en": "self-parking",
+        "vi": "tính năng tự đỗ xe"
+      },
+      {
+        "en": "exercise equipment",
+        "vi": "thiết bị tập thể dục"
       }
     ],
     "pronunciation": "Nhấn tên tính năng trong phần liệt kê; lên giọng khi người nghe hỏi lại điều mình quan tâm.",
@@ -2367,15 +3199,27 @@
     "phrases": [
       {
         "en": "pick up the slack",
-        "vi": "làm bù phần việc người khác chưa làm"
+        "vi": "làm bù phần việc còn thiếu"
       },
       {
-        "en": "do their part",
-        "vi": "làm phần việc của mình"
+        "en": "the part of a rope",
+        "vi": "phần chùng của sợi dây"
       },
       {
-        "en": "bad effect",
-        "vi": "ảnh hưởng xấu"
+        "en": "hangs loosely",
+        "vi": "rủ hoặc chùng xuống"
+      },
+      {
+        "en": "should be doing",
+        "vi": "lẽ ra nên làm"
+      },
+      {
+        "en": "not doing their part",
+        "vi": "không làm phần việc của mình"
+      },
+      {
+        "en": "have a bad effect on others",
+        "vi": "gây ảnh hưởng xấu đến người khác"
       }
     ],
     "pronunciation": "Nhấn số lượng đối lập; giữ nhịp ở câu giải thích có nguyên nhân và hậu quả.",
@@ -2407,11 +3251,27 @@
     "phrases": [
       {
         "en": "at your fingertips",
-        "vi": "có sẵn, dễ tìm và dễ sử dụng"
+        "vi": "có sẵn trong tầm tay"
       },
       {
-        "en": "leave the house",
-        "vi": "ra khỏi nhà"
+        "en": "call my phone",
+        "vi": "gọi vào điện thoại của tôi"
+      },
+      {
+        "en": "always losing your phone",
+        "vi": "luôn làm thất lạc điện thoại"
+      },
+      {
+        "en": "left it at home",
+        "vi": "để quên nó ở nhà"
+      },
+      {
+        "en": "leave the house without",
+        "vi": "ra khỏi nhà mà không có"
+      },
+      {
+        "en": "information or resources",
+        "vi": "thông tin hoặc nguồn tài liệu"
       }
     ],
     "pronunciation": "Nối nhẹ từ chức năng trong câu dài; thể hiện sự bực nhẹ ở câu hỏi lại và ý đối lập ở câu cuối.",
@@ -2446,12 +3306,28 @@
         "vi": "thay người khi cần"
       },
       {
-        "en": "substitute for someone",
-        "vi": "thay cho ai"
+        "en": "in the lineup",
+        "vi": "trong đội hình thi đấu"
       },
       {
-        "en": "at work",
-        "vi": "ở nơi làm việc"
+        "en": "notice something different",
+        "vi": "nhận ra điều gì đó khác lạ"
+      },
+      {
+        "en": "as host",
+        "vi": "trong vai trò người dẫn chương trình"
+      },
+      {
+        "en": "during a critical point",
+        "vi": "vào thời điểm then chốt"
+      },
+      {
+        "en": "substitute for someone",
+        "vi": "thay thế cho ai đó"
+      },
+      {
+        "en": "in an emergency",
+        "vi": "trong tình huống khẩn cấp"
       }
     ],
     "pronunciation": "Nhấn từ mang ý thay thế; phân biệt câu hỏi tìm điểm khác biệt với câu đính chính.",
@@ -2486,8 +3362,24 @@
         "vi": "vụng về khi dùng tay"
       },
       {
-        "en": "help with",
-        "vi": "giúp làm một việc"
+        "en": "not the best person to ask",
+        "vi": "không phải người phù hợp nhất để nhờ"
+      },
+      {
+        "en": "anything else I can help with",
+        "vi": "việc nào khác tôi có thể giúp"
+      },
+      {
+        "en": "drop things all the time",
+        "vi": "thường xuyên làm rơi đồ"
+      },
+      {
+        "en": "a bit clumsy",
+        "vi": "hơi vụng về"
+      },
+      {
+        "en": "break up the ice",
+        "vi": "đập phần đá đóng cục cho nhỏ ra"
       }
     ],
     "pronunciation": "Giữ âm cuối ở cụm có nhiều phụ âm; nhấn hành động trong những lời nhờ và chỉ dẫn.",
@@ -2519,11 +3411,23 @@
     "phrases": [
       {
         "en": "pull the plug",
-        "vi": "chấm dứt một kế hoạch hoặc hoạt động"
+        "vi": "chấm dứt một kế hoạch"
       },
       {
-        "en": "over budget",
-        "vi": "vượt ngân sách"
+        "en": "provides electricity",
+        "vi": "cung cấp điện"
+      },
+      {
+        "en": "way over budget",
+        "vi": "vượt ngân sách rất nhiều"
+      },
+      {
+        "en": "first annual",
+        "vi": "lần đầu tổ chức theo kỳ hằng năm"
+      },
+      {
+        "en": "this whole thing",
+        "vi": "toàn bộ chuyện này"
       },
       {
         "en": "put an end to",
@@ -2559,11 +3463,35 @@
     "phrases": [
       {
         "en": "divide and conquer",
-        "vi": "chia nhiệm vụ để cùng hoàn thành"
+        "vi": "chia việc để cùng hoàn thành"
+      },
+      {
+        "en": "a battle plan",
+        "vi": "một kế hoạch tác chiến"
+      },
+      {
+        "en": "so much to do",
+        "vi": "quá nhiều việc phải làm"
+      },
+      {
+        "en": "print the handouts",
+        "vi": "in tài liệu phát tay"
+      },
+      {
+        "en": "load the slideshow",
+        "vi": "mở bài trình chiếu trên máy"
       },
       {
         "en": "book a meeting room",
         "vi": "đặt phòng họp"
+      },
+      {
+        "en": "plays a part",
+        "vi": "đóng góp một phần"
+      },
+      {
+        "en": "a complex project or goal",
+        "vi": "một dự án hoặc mục tiêu phức tạp"
       }
     ],
     "pronunciation": "Chia hơi giữa các nhiệm vụ; nhấn người thực hiện và động từ hành động, tránh đọc đều cả câu.",
@@ -2598,12 +3526,24 @@
         "vi": "chỉ nói ủng hộ mà không hành động"
       },
       {
-        "en": "help others",
-        "vi": "giúp người khác"
+        "en": "good friends are hard to find",
+        "vi": "bạn tốt rất khó tìm"
       },
       {
-        "en": "heavy couch",
-        "vi": "ghế sofa nặng"
+        "en": "loves to help others",
+        "vi": "thích giúp đỡ người khác"
+      },
+      {
+        "en": "asked for his help",
+        "vi": "đã nhờ anh ấy giúp"
+      },
+      {
+        "en": "support a cause",
+        "vi": "ủng hộ một mục tiêu hoặc phong trào"
+      },
+      {
+        "en": "do anything helpful",
+        "vi": "làm điều gì đó có ích"
       }
     ],
     "pronunciation": "Nhấn sự đối lập giữa lời nói và việc làm; giữ nhịp ở câu kể lại lời hứa.",
@@ -2635,11 +3575,27 @@
     "phrases": [
       {
         "en": "get on board",
-        "vi": "ủng hộ hoặc tham gia vào một ý tưởng"
+        "vi": "đồng ý tham gia hoặc ủng hộ"
       },
       {
-        "en": "free time",
-        "vi": "thời gian rảnh"
+        "en": "get on the vehicle",
+        "vi": "bước lên phương tiện"
+      },
+      {
+        "en": "a great new idea",
+        "vi": "một ý tưởng mới rất hay"
+      },
+      {
+        "en": "busy enough",
+        "vi": "đã đủ bận rồi"
+      },
+      {
+        "en": "agree with it",
+        "vi": "đồng ý với điều đó"
+      },
+      {
+        "en": "take part in",
+        "vi": "tham gia vào"
       }
     ],
     "pronunciation": "Dùng trọng âm tương phản ở những điều người nói muốn có thêm; đổi sắc thái khi nhận ra lợi ích.",
@@ -2670,12 +3626,28 @@
     ],
     "phrases": [
       {
-        "en": "pull punches",
-        "vi": "giảm nhẹ lời phê bình hoặc hành động"
+        "en": "don’t pull any punches",
+        "vi": "không nương tay; nói thẳng"
       },
       {
-        "en": "main dish",
+        "en": "the main dish",
         "vi": "món chính"
+      },
+      {
+        "en": "the potluck party",
+        "vi": "bữa tiệc mỗi người góp một món"
+      },
+      {
+        "en": "when it comes to",
+        "vi": "khi nói đến"
+      },
+      {
+        "en": "speaks and acts directly",
+        "vi": "nói và hành động thẳng thắn"
+      },
+      {
+        "en": "upset someone",
+        "vi": "làm ai đó khó chịu"
       },
       {
         "en": "take it easy on",
@@ -2711,11 +3683,27 @@
     "phrases": [
       {
         "en": "bag of tricks",
-        "vi": "tập hợp cách làm hoặc kế hoạch để đạt mục tiêu"
+        "vi": "tập hợp các cách để đạt mục tiêu"
+      },
+      {
+        "en": "perform tricks",
+        "vi": "biểu diễn các trò ảo thuật"
       },
       {
         "en": "go bowling",
         "vi": "đi chơi bowling"
+      },
+      {
+        "en": "ice skating",
+        "vi": "trượt băng"
+      },
+      {
+        "en": "using up",
+        "vi": "dùng hết dần"
+      },
+      {
+        "en": "impress his date",
+        "vi": "gây ấn tượng với người hẹn hò"
       }
     ],
     "pronunciation": "Chia hơi theo từng hoạt động; nhấn điều kiện và câu hỏi thể hiện sự ngạc nhiên.",
@@ -2747,15 +3735,27 @@
     "phrases": [
       {
         "en": "thorn in my side",
-        "vi": "điều hoặc người liên tục gây phiền"
+        "vi": "người hoặc việc liên tục gây phiền"
       },
       {
         "en": "weekly meeting notes",
         "vi": "ghi chép cuộc họp hằng tuần"
       },
       {
-        "en": "cause problems",
-        "vi": "gây vấn đề"
+        "en": "re-do",
+        "vi": "làm lại"
+      },
+      {
+        "en": "color-code",
+        "vi": "phân loại bằng màu sắc"
+      },
+      {
+        "en": "continue to cause problems",
+        "vi": "tiếp tục gây rắc rối"
+      },
+      {
+        "en": "annoying or troublesome",
+        "vi": "gây khó chịu hoặc phiền toái"
       }
     ],
     "pronunciation": "Đọc rõ âm cuối của các danh từ số nhiều; hạ giọng ở câu xác nhận ngắn tạo điểm hài.",
@@ -2786,12 +3786,28 @@
     ],
     "phrases": [
       {
-        "en": "how I roll",
-        "vi": "cách tôi thường làm hoặc phong cách của tôi"
+        "en": "that’s how I roll",
+        "vi": "đó là phong cách của tôi"
       },
       {
         "en": "keep people guessing",
-        "vi": "khiến mọi người khó đoán trước"
+        "vi": "khiến người khác không đoán trước được"
+      },
+      {
+        "en": "more my color",
+        "vi": "hợp với gu màu sắc của tôi hơn"
+      },
+      {
+        "en": "borrow it if you want",
+        "vi": "cứ mượn nếu bạn muốn"
+      },
+      {
+        "en": "behave in certain situations",
+        "vi": "cư xử trong một số tình huống"
+      },
+      {
+        "en": "feel free to",
+        "vi": "cứ tự nhiên; đừng ngại"
       }
     ],
     "pronunciation": "Nhấn đại từ khi so sánh sở thích của hai người; bắt chước ngữ điệu thân mật, tự nhiên.",
@@ -2823,15 +3839,31 @@
     "phrases": [
       {
         "en": "point fingers",
-        "vi": "chỉ trích hoặc quy lỗi cho ai"
+        "vi": "quy lỗi cho người khác"
       },
       {
         "en": "complained about you",
-        "vi": "đã phàn nàn về bạn"
+        "vi": "phàn nàn về bạn"
       },
       {
-        "en": "coffee club",
-        "vi": "nhóm uống cà phê chung"
+        "en": "way too much coffee",
+        "vi": "quá nhiều cà phê"
+      },
+      {
+        "en": "not so serious",
+        "vi": "không quá nghiêm trọng"
+      },
+      {
+        "en": "actually pointing at someone",
+        "vi": "thực sự chỉ tay vào ai đó"
+      },
+      {
+        "en": "accuse them of something",
+        "vi": "buộc tội họ về một việc"
+      },
+      {
+        "en": "single them out",
+        "vi": "chỉ đích danh họ"
       }
     ],
     "pronunciation": "Nhấn từ hỏi ở phản ứng ngạc nhiên; chia các manh mối thành cụm ngắn và hạ giọng ở thông tin cuối.",
@@ -2863,11 +3895,27 @@
     "phrases": [
       {
         "en": "like oil and water",
-        "vi": "rất khác nhau và khó hòa hợp"
+        "vi": "như nước với lửa; rất khó hòa hợp"
       },
       {
-        "en": "get along",
-        "vi": "hòa hợp"
+        "en": "very different substances",
+        "vi": "những chất rất khác nhau"
+      },
+      {
+        "en": "birthday invitation",
+        "vi": "thiệp mời sinh nhật"
+      },
+      {
+        "en": "get along, like adults",
+        "vi": "hòa thuận như những người trưởng thành"
+      },
+      {
+        "en": "don’t get along well",
+        "vi": "không hòa hợp với nhau"
+      },
+      {
+        "en": "mix together easily",
+        "vi": "dễ hòa trộn với nhau"
       }
     ],
     "pronunciation": "Nhấn sự đối lập giữa hai người; nối âm trong cụm ý thay vì dừng sau từng từ.",
@@ -2898,16 +3946,28 @@
     ],
     "phrases": [
       {
+        "en": "live it up",
+        "vi": "tận hưởng một khoảng thời gian vui vẻ"
+      },
+      {
         "en": "never live something down",
-        "vi": "bị nhắc mãi về một lỗi đáng xấu hổ"
+        "vi": "không thoát khỏi chuyện đáng xấu hổ"
       },
       {
-        "en": "add sugar",
-        "vi": "thêm đường"
+        "en": "the talk of the party",
+        "vi": "chuyện được cả bữa tiệc bàn tán"
       },
       {
-        "en": "made a big mistake",
-        "vi": "đã mắc lỗi lớn"
+        "en": "forgotten to add sugar",
+        "vi": "đã quên cho đường vào"
+      },
+      {
+        "en": "a big mistake",
+        "vi": "một sai lầm lớn"
+      },
+      {
+        "en": "something embarrassing",
+        "vi": "một việc đáng xấu hổ"
       }
     ],
     "pronunciation": "Nhấn các chi tiết được lặp lại để gây hài; giữ giọng ngượng ngùng ở câu tự trách.",
@@ -2942,8 +4002,24 @@
         "vi": "tha thứ và bỏ qua chuyện cũ"
       },
       {
-        "en": "let go of",
-        "vi": "buông bỏ"
+        "en": "stayed mad at someone",
+        "vi": "giận ai đó trong thời gian dài"
+      },
+      {
+        "en": "some silly permit",
+        "vi": "một loại giấy phép phiền phức"
+      },
+      {
+        "en": "Not happening",
+        "vi": "Không có chuyện đó đâu"
+      },
+      {
+        "en": "let go of the bad thoughts",
+        "vi": "buông bỏ suy nghĩ tiêu cực"
+      },
+      {
+        "en": "focus on better things",
+        "vi": "tập trung vào điều tốt đẹp hơn"
       }
     ],
     "pronunciation": "Nhấn thời gian đã trôi qua; giữ độ tương phản giữa giọng khuyên nhủ và phản đối.",
@@ -2975,15 +4051,27 @@
     "phrases": [
       {
         "en": "pity party",
-        "vi": "việc mải than thân trách phận"
+        "vi": "tình trạng liên tục than thân"
+      },
+      {
+        "en": "belong to a gym",
+        "vi": "là hội viên của phòng tập"
       },
       {
         "en": "take a walk",
         "vi": "đi dạo"
       },
       {
-        "en": "feel sorry for themselves",
-        "vi": "thấy tội nghiệp cho bản thân"
+        "en": "feels sorry for themselves",
+        "vi": "tự thương hại bản thân"
+      },
+      {
+        "en": "treated unfairly",
+        "vi": "bị đối xử bất công"
+      },
+      {
+        "en": "a downer",
+        "vi": "điều hoặc người làm người khác tụt hứng"
       }
     ],
     "pronunciation": "Ngắt theo từng sự việc; nhấn các từ chỉ thứ tự và chuyển giọng khi đề xuất đi bộ.",
@@ -3015,11 +4103,31 @@
     "phrases": [
       {
         "en": "bury the hatchet",
-        "vi": "chấm dứt bất hòa, làm hòa"
+        "vi": "làm hòa, chấm dứt bất đồng"
+      },
+      {
+        "en": "shouldn’t have said that",
+        "vi": "lẽ ra không nên nói điều đó"
+      },
+      {
+        "en": "taste exactly like mine",
+        "vi": "có vị giống hệt món của tôi"
+      },
+      {
+        "en": "She started it",
+        "vi": "Cô ấy gây chuyện trước"
       },
       {
         "en": "make peace",
         "vi": "làm hòa"
+      },
+      {
+        "en": "two opposing people or groups",
+        "vi": "hai người hoặc hai nhóm đối lập"
+      },
+      {
+        "en": "settle their disagreement",
+        "vi": "giải quyết bất đồng của họ"
       }
     ],
     "pronunciation": "Nhấn từ chỉ sở hữu và ý giống nhau; hạ giọng ở lời khuyên, giữ rõ âm cuối động từ.",
@@ -3051,15 +4159,31 @@
     "phrases": [
       {
         "en": "sketchy",
-        "vi": "đáng ngờ hoặc không an toàn"
+        "vi": "đáng ngờ; không rõ ràng"
       },
       {
-        "en": "long weekend",
-        "vi": "kỳ nghỉ cuối tuần dài"
+        "en": "a simple drawing",
+        "vi": "một bản vẽ đơn giản"
       },
       {
-        "en": "in the daytime",
-        "vi": "vào ban ngày"
+        "en": "over the long weekend",
+        "vi": "trong kỳ nghỉ cuối tuần dài"
+      },
+      {
+        "en": "a midnight hike",
+        "vi": "chuyến đi bộ đường dài lúc nửa đêm"
+      },
+      {
+        "en": "not complete or clear",
+        "vi": "không đầy đủ hoặc rõ ràng"
+      },
+      {
+        "en": "dangerous or bad",
+        "vi": "nguy hiểm hoặc không tốt"
+      },
+      {
+        "en": "casual and informal",
+        "vi": "thân mật và không trang trọng"
       }
     ],
     "pronunciation": "Nhấn sự đối lập ngày và đêm; đọc rõ âm cuối trong câu giải thích có hai nghĩa của từ.",
@@ -3090,12 +4214,28 @@
     ],
     "phrases": [
       {
-        "en": "a bone to pick",
-        "vi": "một điều không hài lòng cần trao đổi"
+        "en": "bone to pick",
+        "vi": "vấn đề cần nói thẳng với ai đó"
+      },
+      {
+        "en": "upset about something",
+        "vi": "bực bội về chuyện gì đó"
+      },
+      {
+        "en": "always late and grumpy",
+        "vi": "luôn đến muộn và cáu kỉnh"
+      },
+      {
+        "en": "an issue with them",
+        "vi": "một vấn đề với họ"
+      },
+      {
+        "en": "best to talk about it",
+        "vi": "tốt nhất nên nói thẳng về việc đó"
       },
       {
         "en": "sooner rather than later",
-        "vi": "nên sớm, đừng để quá lâu"
+        "vi": "càng sớm càng tốt"
       }
     ],
     "pronunciation": "Ngắt nhẹ trước khi nêu vấn đề; nhấn từ phủ định và giữ khoảng dừng của phản hồi hài hước.",
@@ -3130,12 +4270,28 @@
         "vi": "giữ được giá trị qua thời gian"
       },
       {
+        "en": "You’ve got to see it",
+        "vi": "Bạn nhất định phải xem nó"
+      },
+      {
         "en": "classic films",
         "vi": "phim kinh điển"
       },
       {
-        "en": "special effects",
-        "vi": "hiệu ứng đặc biệt"
+        "en": "complex story lines",
+        "vi": "cốt truyện phức tạp"
+      },
+      {
+        "en": "amazing special effects",
+        "vi": "hiệu ứng đặc biệt ấn tượng"
+      },
+      {
+        "en": "quickly forgotten",
+        "vi": "nhanh chóng bị lãng quên"
+      },
+      {
+        "en": "respected for a long time",
+        "vi": "được trân trọng trong thời gian dài"
       }
     ],
     "pronunciation": "Nhấn các yếu tố được dùng để đánh giá phim; giữ phụ âm cuối rõ trong các cụm danh từ số nhiều.",
@@ -3167,11 +4323,27 @@
     "phrases": [
       {
         "en": "let sleeping dogs lie",
-        "vi": "để yên một chuyện nhằm tránh gây thêm rắc rối"
+        "vi": "để yên chuyện cũ để tránh rắc rối"
       },
       {
         "en": "hate to lose",
         "vi": "rất ghét bị thua"
+      },
+      {
+        "en": "not going to help",
+        "vi": "sẽ không có ích đâu"
+      },
+      {
+        "en": "making a problem any worse",
+        "vi": "làm vấn đề trở nên tệ hơn"
+      },
+      {
+        "en": "deal with a problem",
+        "vi": "xử lý một vấn đề"
+      },
+      {
+        "en": "feel better",
+        "vi": "cảm thấy khá hơn"
       }
     ],
     "pronunciation": "Thể hiện giọng hỏi tìm nguyên nhân và giọng khuyên nhủ; nối âm ở các cụm động từ ngắn.",
@@ -3203,15 +4375,27 @@
     "phrases": [
       {
         "en": "pound the pavement",
-        "vi": "đi nhiều nơi tìm việc hoặc hoàn thành việc"
+        "vi": "đi nhiều nơi để tìm việc"
       },
       {
-        "en": "job leads",
-        "vi": "thông tin về cơ hội việc làm"
+        "en": "find a job",
+        "vi": "tìm việc làm"
+      },
+      {
+        "en": "many job leads",
+        "vi": "nhiều đầu mối việc làm"
+      },
+      {
+        "en": "all sorts of reasons",
+        "vi": "đủ mọi lý do"
       },
       {
         "en": "looking for employment",
-        "vi": "tìm việc làm"
+        "vi": "đang tìm việc làm"
+      },
+      {
+        "en": "get something done",
+        "vi": "hoàn thành một việc"
       }
     ],
     "pronunciation": "Nhấn nơi đã đi và mục đích; hạ giọng ở lời kết thể hiện thất vọng nhẹ.",
@@ -3243,11 +4427,27 @@
     "phrases": [
       {
         "en": "high and dry",
-        "vi": "bị bỏ lại trong tình huống khó khăn"
+        "vi": "bị bỏ mặc trong tình thế khó khăn"
       },
       {
         "en": "let me know",
         "vi": "hãy cho tôi biết"
+      },
+      {
+        "en": "the other night",
+        "vi": "tối hôm trước"
+      },
+      {
+        "en": "a tough situation",
+        "vi": "một tình thế khó khăn"
+      },
+      {
+        "en": "make life difficult for them",
+        "vi": "làm cuộc sống của họ khó khăn"
+      },
+      {
+        "en": "neglect to do something",
+        "vi": "sao nhãng, không làm việc cần làm"
       }
     ],
     "pronunciation": "Ngắt rõ giữa phần kể sự việc và lời nhờ; nhấn cảm xúc ở câu phản ứng cuối hội thoại.",
@@ -3279,15 +4479,35 @@
     "phrases": [
       {
         "en": "red tape",
-        "vi": "thủ tục rườm rà"
+        "vi": "thủ tục hoặc quy định rườm rà"
+      },
+      {
+        "en": "driver’s license",
+        "vi": "giấy phép lái xe"
+      },
+      {
+        "en": "birth certificate",
+        "vi": "giấy khai sinh"
+      },
+      {
+        "en": "eye test",
+        "vi": "bài kiểm tra thị lực"
       },
       {
         "en": "proof of address",
         "vi": "giấy tờ chứng minh địa chỉ"
       },
       {
-        "en": "driver’s license",
-        "vi": "giấy phép lái xe"
+        "en": "department of motor vehicles",
+        "vi": "cơ quan quản lý phương tiện cơ giới"
+      },
+      {
+        "en": "feel unnecessary",
+        "vi": "có vẻ không cần thiết"
+      },
+      {
+        "en": "prevent things from being done",
+        "vi": "ngăn công việc được hoàn thành"
       }
     ],
     "pronunciation": "Nhấn tên các giấy tờ; dùng ngữ điệu hỏi lại khi có thông tin chưa hiểu.",
@@ -3318,12 +4538,28 @@
     ],
     "phrases": [
       {
-        "en": "make your head swim",
-        "vi": "khiến bạn rối hoặc choáng ngợp"
+        "en": "makes your head swim",
+        "vi": "khiến bạn rối trí hoặc choáng ngợp"
+      },
+      {
+        "en": "exercise your whole body",
+        "vi": "vận động toàn bộ cơ thể"
       },
       {
         "en": "print a report",
         "vi": "in một bản báo cáo"
+      },
+      {
+        "en": "confused or overwhelmed",
+        "vi": "bối rối hoặc choáng ngợp"
+      },
+      {
+        "en": "complex information",
+        "vi": "thông tin phức tạp"
+      },
+      {
+        "en": "huge or shocking news",
+        "vi": "tin tức lớn hoặc gây sốc"
       }
     ],
     "pronunciation": "Chia cụm giữa các bước; đọc rõ chữ và số rồi nhấn lời phản hồi thể hiện sự quá tải.",
@@ -3354,16 +4590,28 @@
     ],
     "phrases": [
       {
-        "en": "rain on someone’s parade",
-        "vi": "làm người khác mất vui"
+        "en": "rain on your parade",
+        "vi": "làm bạn mất vui"
       },
       {
-        "en": "last week",
-        "vi": "tuần trước"
+        "en": "a traveling celebration",
+        "vi": "một lễ diễu hành lưu động"
       },
       {
-        "en": "good time",
-        "vi": "khoảng thời gian vui"
+        "en": "take away your happiness",
+        "vi": "lấy đi niềm vui của bạn"
+      },
+      {
+        "en": "hate to tell you this",
+        "vi": "rất tiếc phải nói điều này"
+      },
+      {
+        "en": "I don’t mean to",
+        "vi": "Tôi không có ý định"
+      },
+      {
+        "en": "ruin someone’s good time",
+        "vi": "phá hỏng niềm vui của ai đó"
       }
     ],
     "pronunciation": "Nhấn thời điểm đã bỏ lỡ; phân biệt lời báo tin dè dặt với phản ứng ngắn và mạnh.",
@@ -3395,11 +4643,27 @@
     "phrases": [
       {
         "en": "dead giveaway",
-        "vi": "dấu hiệu làm lộ sự thật rất rõ"
+        "vi": "dấu hiệu làm lộ rõ sự thật"
       },
       {
-        "en": "wearing a suit",
-        "vi": "đang mặc bộ vest"
+        "en": "dark expression",
+        "vi": "cách nói mang sắc thái u tối"
+      },
+      {
+        "en": "wearing shorts and sneakers",
+        "vi": "mặc quần đùi và giày thể thao"
+      },
+      {
+        "en": "has an interview",
+        "vi": "có một buổi phỏng vấn"
+      },
+      {
+        "en": "important to note",
+        "vi": "cần lưu ý"
+      },
+      {
+        "en": "totally and completely",
+        "vi": "hoàn toàn, tuyệt đối"
       }
     ],
     "pronunciation": "Nhấn từ chỉ trang phục đối lập; đọc rõ phụ âm cuối khi nối sang từ tiếp theo.",
@@ -3431,15 +4695,27 @@
     "phrases": [
       {
         "en": "touch-and-go",
-        "vi": "chưa chắc kết quả, còn bấp bênh"
+        "vi": "bấp bênh, chưa biết kết quả"
       },
       {
-        "en": "for a while",
-        "vi": "trong một thời gian"
+        "en": "I’m so sorry",
+        "vi": "Tôi rất tiếc"
       },
       {
         "en": "go way back",
         "vi": "đã gắn bó từ lâu"
+      },
+      {
+        "en": "uncertain",
+        "vi": "chưa chắc chắn"
+      },
+      {
+        "en": "a health scare",
+        "vi": "một sự cố sức khỏe đáng lo"
+      },
+      {
+        "en": "the final result",
+        "vi": "kết quả cuối cùng"
       }
     ],
     "pronunciation": "Ngắt trước chi tiết được tiết lộ; nhấn cảm xúc lo lắng và từ báo hiệu kết quả cuối cùng.",
@@ -3471,11 +4747,27 @@
     "phrases": [
       {
         "en": "feel it in my bones",
-        "vi": "có linh cảm rất mạnh về điều gì"
+        "vi": "có linh cảm rất mạnh"
+      },
+      {
+        "en": "totally wrong",
+        "vi": "hoàn toàn sai"
+      },
+      {
+        "en": "dragging something heavy",
+        "vi": "kéo lê một vật nặng"
       },
       {
         "en": "taking out the trash",
         "vi": "mang rác ra ngoài"
+      },
+      {
+        "en": "something illegal",
+        "vi": "việc gì đó bất hợp pháp"
+      },
+      {
+        "en": "can’t prove it",
+        "vi": "không thể chứng minh điều đó"
       }
     ],
     "pronunciation": "Nhấn từ thể hiện mức độ chắc chắn; hạ giọng ở lời phản bác và giữ mạch câu kể sự việc.",
@@ -3510,8 +4802,20 @@
         "vi": "hy vọng lần thứ ba sẽ thành công"
       },
       {
-        "en": "good luck",
-        "vi": "chúc may mắn"
+        "en": "bring good luck",
+        "vi": "mang lại may mắn"
+      },
+      {
+        "en": "turned out perfectly",
+        "vi": "có kết quả hoàn hảo"
+      },
+      {
+        "en": "Big news",
+        "vi": "tin quan trọng"
+      },
+      {
+        "en": "on their third try",
+        "vi": "ở lần thử thứ ba"
       },
       {
         "en": "a couple of times",
@@ -3547,11 +4851,27 @@
     "phrases": [
       {
         "en": "dicey",
-        "vi": "rủi ro hoặc khó dự đoán"
+        "vi": "rủi ro hoặc khó đoán"
       },
       {
-        "en": "still on",
-        "vi": "vẫn diễn ra theo kế hoạch"
+        "en": "still on this weekend",
+        "vi": "cuối tuần này vẫn diễn ra"
+      },
+      {
+        "en": "no way to predict",
+        "vi": "không có cách nào dự đoán"
+      },
+      {
+        "en": "unpredictable or risky",
+        "vi": "khó đoán hoặc rủi ro"
+      },
+      {
+        "en": "a physical activity",
+        "vi": "một hoạt động thể chất"
+      },
+      {
+        "en": "a business decision",
+        "vi": "một quyết định kinh doanh"
       }
     ],
     "pronunciation": "Nhấn các điều kiện thời tiết; dùng trọng âm để thể hiện sự không tán thành của người phản hồi.",
@@ -3584,11 +4904,27 @@
     "phrases": [
       {
         "en": "from the frying pan and into the fire",
-        "vi": "rời một tình huống xấu nhưng lại gặp tình huống còn tệ hơn"
+        "vi": "thoát tình huống xấu rồi rơi vào tình huống tệ hơn"
       },
       {
-        "en": "even worse",
-        "vi": "thậm chí còn tệ hơn"
+        "en": "complained that",
+        "vi": "đã phàn nàn rằng"
+      },
+      {
+        "en": "too noisy and too bright",
+        "vi": "quá ồn và quá sáng"
+      },
+      {
+        "en": "downstairs in the basement",
+        "vi": "ở tầng dưới, trong tầng hầm"
+      },
+      {
+        "en": "an even worse situation",
+        "vi": "một tình huống còn tệ hơn"
+      },
+      {
+        "en": "the opposite happened",
+        "vi": "điều ngược lại đã xảy ra"
       }
     ],
     "pronunciation": "Nhấn các tính từ miêu tả căn phòng và những từ phủ định trong phần liệt kê. Chia hơi ở hai vế đối lập giữa mong đợi ban đầu và kết quả thực tế.",
@@ -3620,11 +4956,31 @@
     "phrases": [
       {
         "en": "across-the-board",
-        "vi": "áp dụng chung cho toàn bộ nhóm hoặc hệ thống"
+        "vi": "áp dụng đồng đều cho toàn bộ"
+      },
+      {
+        "en": "horse racing",
+        "vi": "đua ngựa"
+      },
+      {
+        "en": "a bet placed on horses",
+        "vi": "một khoản cược vào ngựa"
+      },
+      {
+        "en": "affects everything or everyone",
+        "vi": "ảnh hưởng đến mọi thứ hoặc mọi người"
       },
       {
         "en": "all members",
         "vi": "tất cả thành viên"
+      },
+      {
+        "en": "within a system",
+        "vi": "trong phạm vi một hệ thống"
+      },
+      {
+        "en": "the same way",
+        "vi": "theo cùng một cách"
       }
     ],
     "pronunciation": "Nhấn từ chỉ phạm vi áp dụng; giữ rõ nhịp ở những cụm lặp và giọng nhượng bộ cuối hội thoại.",
@@ -3655,16 +5011,28 @@
     ],
     "phrases": [
       {
-        "en": "talk out of both sides of your mouth",
-        "vi": "nói hai lời trái ngược"
+        "en": "talking out of both sides of your mouth",
+        "vi": "nói hai lời trái ngược nhau"
       },
       {
-        "en": "different opinions",
-        "vi": "những ý kiến khác nhau"
+        "en": "the consultant",
+        "vi": "người tư vấn"
+      },
+      {
+        "en": "useless",
+        "vi": "vô ích"
+      },
+      {
+        "en": "opinions or advice",
+        "vi": "ý kiến hoặc lời khuyên"
+      },
+      {
+        "en": "to be dishonest",
+        "vi": "để không trung thực"
       },
       {
         "en": "please everyone",
-        "vi": "làm vừa lòng tất cả"
+        "vi": "làm hài lòng tất cả mọi người"
       }
     ],
     "pronunciation": "Giữ nhịp ở cụm thành ngữ dài; nhấn từ đánh giá để người nghe nhận ra sự mâu thuẫn.",
@@ -3695,12 +5063,28 @@
     ],
     "phrases": [
       {
-        "en": "chalk it up to",
-        "vi": "cho rằng một điều xảy ra là do"
+        "en": "chalk it up to something",
+        "vi": "cho rằng việc gì xảy ra do một nguyên nhân"
+      },
+      {
+        "en": "plan her wedding",
+        "vi": "lên kế hoạch cho đám cưới của cô ấy"
+      },
+      {
+        "en": "inexperience",
+        "vi": "sự thiếu kinh nghiệm"
       },
       {
         "en": "lack of preparation",
         "vi": "sự thiếu chuẩn bị"
+      },
+      {
+        "en": "basic knowledge",
+        "vi": "kiến thức cơ bản"
+      },
+      {
+        "en": "given this some thought",
+        "vi": "đã suy nghĩ khá kỹ về việc này"
       }
     ],
     "pronunciation": "Tách cụm ở phần nêu tỷ lệ; nhấn những nguyên nhân đối lập và giữ nhịp ở câu phản hồi ngắn.",
@@ -3731,16 +5115,28 @@
     ],
     "phrases": [
       {
-        "en": "a chip on your shoulder",
-        "vi": "sự bực tức vì nghĩ mình từng bị đối xử bất công"
+        "en": "a chip on their shoulder",
+        "vi": "sự bực tức vì từng bị đối xử bất công"
+      },
+      {
+        "en": "got that promotion",
+        "vi": "được lần thăng chức đó"
       },
       {
         "en": "get over it",
-        "vi": "vượt qua chuyện đó"
+        "vi": "vượt qua và thôi bận tâm"
       },
       {
-        "en": "promotion",
-        "vi": "sự thăng chức"
+        "en": "hold onto the belief",
+        "vi": "giữ chặt một niềm tin"
+      },
+      {
+        "en": "treated unfairly",
+        "vi": "bị đối xử bất công"
+      },
+      {
+        "en": "unpleasant to be around",
+        "vi": "khó chịu khi ở gần"
       }
     ],
     "pronunciation": "Nhấn mốc thời gian và ý bất công; giữ ngữ điệu đồng tình ngắn gọn ở lượt đáp cuối.",
@@ -3772,11 +5168,35 @@
     "phrases": [
       {
         "en": "double down",
-        "vi": "càng giữ vững hoặc tăng cường lựa chọn của mình"
+        "vi": "giữ vững hoặc tăng cường lựa chọn"
+      },
+      {
+        "en": "took your advice",
+        "vi": "đã làm theo lời khuyên của bạn"
+      },
+      {
+        "en": "way too much",
+        "vi": "quá nhiều"
+      },
+      {
+        "en": "cut our practice hours",
+        "vi": "giảm số giờ luyện tập"
       },
       {
         "en": "be in shape",
         "vi": "có thể lực tốt"
+      },
+      {
+        "en": "strengthen your position",
+        "vi": "củng cố lập trường"
+      },
+      {
+        "en": "doubling your bet",
+        "vi": "tăng gấp đôi tiền cược"
+      },
+      {
+        "en": "a risky point",
+        "vi": "một thời điểm rủi ro"
       }
     ],
     "pronunciation": "Nhấn các con số đối lập và từ thể hiện tăng lên; giữ sự hài hước ở câu phản hồi cuối.",
@@ -3808,15 +5228,31 @@
     "phrases": [
       {
         "en": "good riddance",
-        "vi": "mừng vì hết một người hoặc điều gây phiền"
+        "vi": "mừng vì đã thoát khỏi điều gây phiền"
+      },
+      {
+        "en": "get rid of something",
+        "vi": "loại bỏ một thứ gì đó"
+      },
+      {
+        "en": "throw something away",
+        "vi": "vứt một thứ đi"
       },
       {
         "en": "moving out",
-        "vi": "chuyển đi"
+        "vi": "chuyển ra ngoài"
       },
       {
-        "en": "cleans up",
-        "vi": "dọn dẹp"
+        "en": "rent money",
+        "vi": "tiền thuê nhà"
+      },
+      {
+        "en": "a troublesome person or thing",
+        "vi": "một người hoặc việc gây phiền"
+      },
+      {
+        "en": "express relief",
+        "vi": "bày tỏ sự nhẹ nhõm"
       }
     ],
     "pronunciation": "Nhấn sự đối lập giữa bạn tốt và người ở cùng không tốt; giữ mạch trong câu liệt kê dài.",
@@ -3848,11 +5284,31 @@
     "phrases": [
       {
         "en": "jump ship",
-        "vi": "rời bỏ việc hoặc nhóm mà mình nghĩ đang thất bại"
+        "vi": "rời bỏ việc hoặc nhóm có vẻ đang thất bại"
+      },
+      {
+        "en": "a bit down",
+        "vi": "giảm nhẹ"
+      },
+      {
+        "en": "taking my money out",
+        "vi": "rút tiền của tôi ra"
       },
       {
         "en": "be patient",
         "vi": "hãy kiên nhẫn"
+      },
+      {
+        "en": "the price will go up",
+        "vi": "giá sẽ tăng"
+      },
+      {
+        "en": "when it comes to",
+        "vi": "khi nói đến"
+      },
+      {
+        "en": "join something better",
+        "vi": "tham gia một lựa chọn tốt hơn"
       }
     ],
     "pronunciation": "Nhấn ý đối lập giữa ở lại và rời đi; ngắt nhẹ trước phần nêu ngoại lệ của người nói.",
@@ -3887,12 +5343,32 @@
         "vi": "nghệ thuật phản ánh đời sống"
       },
       {
+        "en": "imitate something",
+        "vi": "bắt chước một điều gì đó"
+      },
+      {
         "en": "art exhibit",
         "vi": "triển lãm nghệ thuật"
       },
       {
         "en": "to be honest",
         "vi": "thành thật mà nói"
+      },
+      {
+        "en": "didn’t get it",
+        "vi": "không hiểu ý nghĩa của nó"
+      },
+      {
+        "en": "creative project",
+        "vi": "dự án sáng tạo"
+      },
+      {
+        "en": "inspired by real-life events",
+        "vi": "lấy cảm hứng từ sự kiện đời thực"
+      },
+      {
+        "en": "mirrors real life",
+        "vi": "phản chiếu đời sống thật"
       }
     ],
     "pronunciation": "Nhấn từ đánh giá tác phẩm; ngắt theo cụm nơi chốn khi mô tả cảnh trong bảo tàng.",
@@ -3923,16 +5399,36 @@
     ],
     "phrases": [
       {
-        "en": "family",
-        "vi": "gia đình"
+        "en": "compare the size of",
+        "vi": "so sánh kích thước của"
       },
       {
-        "en": "What about you?",
-        "vi": "Còn bạn thì sao?"
+        "en": "a few of us",
+        "vi": "chỉ có vài người"
       },
       {
-        "en": "It depends",
-        "vi": "Điều đó còn tùy"
+        "en": "only child",
+        "vi": "con một"
+      },
+      {
+        "en": "get together",
+        "vi": "tụ họp, gặp nhau"
+      },
+      {
+        "en": "get on well with",
+        "vi": "hòa thuận với"
+      },
+      {
+        "en": "catch up",
+        "vi": "hỏi thăm, cập nhật chuyện nhau"
+      },
+      {
+        "en": "even though",
+        "vi": "mặc dù"
+      },
+      {
+        "en": "spend time with",
+        "vi": "dành thời gian cùng"
       }
     ],
     "pronunciation": "Nhấn từ khóa trong câu trả lời; đọc gọn các từ chức năng và giữ rõ âm cuối.",
@@ -3964,15 +5460,35 @@
     "phrases": [
       {
         "en": "siblings",
-        "vi": "anh chị em"
+        "vi": "anh chị em ruột"
       },
       {
-        "en": "What about you?",
-        "vi": "Còn bạn thì sao?"
+        "en": "mature",
+        "vi": "chín chắn, trưởng thành"
       },
       {
-        "en": "It depends",
-        "vi": "Điều đó còn tùy"
+        "en": "sensible",
+        "vi": "biết suy nghĩ, thực tế"
+      },
+      {
+        "en": "look similar",
+        "vi": "trông giống nhau"
+      },
+      {
+        "en": "get on with",
+        "vi": "hòa hợp với"
+      },
+      {
+        "en": "wish I had ...",
+        "vi": "ước mình có…"
+      },
+      {
+        "en": "stereotype",
+        "vi": "khuôn mẫu, định kiến phổ biến"
+      },
+      {
+        "en": "every few months",
+        "vi": "vài tháng một lần"
       }
     ],
     "pronunciation": "Nhấn từ khóa trong câu trả lời; đọc gọn các từ chức năng và giữ rõ âm cuối.",
@@ -4003,16 +5519,36 @@
     ],
     "phrases": [
       {
-        "en": "close friends",
-        "vi": "bạn thân"
+        "en": "quite a few",
+        "vi": "khá nhiều"
       },
       {
-        "en": "What about you?",
-        "vi": "Còn bạn thì sao?"
+        "en": "make friends",
+        "vi": "kết bạn"
       },
       {
-        "en": "It depends",
-        "vi": "Điều đó còn tùy"
+        "en": "keep in touch with",
+        "vi": "duy trì liên lạc với"
+      },
+      {
+        "en": "take away",
+        "vi": "mua mang đi"
+      },
+      {
+        "en": "mate",
+        "vi": "bạn (thân mật)"
+      },
+      {
+        "en": "be yourself",
+        "vi": "sống đúng với mình"
+      },
+      {
+        "en": "go for a walk",
+        "vi": "đi dạo"
+      },
+      {
+        "en": "have a good time",
+        "vi": "có khoảng thời gian vui vẻ"
       }
     ],
     "pronunciation": "Nhấn từ khóa trong câu trả lời; đọc gọn các từ chức năng và giữ rõ âm cuối.",
@@ -4043,16 +5579,36 @@
     ],
     "phrases": [
       {
-        "en": "look after a pet",
-        "vi": "chăm sóc thú cưng"
+        "en": "fur",
+        "vi": "lông thú"
       },
       {
-        "en": "What about you?",
-        "vi": "Còn bạn thì sao?"
+        "en": "used to",
+        "vi": "đã từng thường xuyên"
       },
       {
-        "en": "It depends",
-        "vi": "Điều đó còn tùy"
+        "en": "purr",
+        "vi": "kêu rừ rừ"
+      },
+      {
+        "en": "man's best friend",
+        "vi": "“bạn thân của con người” (chó)"
+      },
+      {
+        "en": "loyal",
+        "vi": "trung thành"
+      },
+      {
+        "en": "exotic pet",
+        "vi": "thú cưng lạ, ngoại lai"
+      },
+      {
+        "en": "fluffy",
+        "vi": "có lông mềm và xù"
+      },
+      {
+        "en": "sit on someone's lap",
+        "vi": "ngồi trên đùi ai đó"
       }
     ],
     "pronunciation": "Nhấn từ khóa trong câu trả lời; đọc gọn các từ chức năng và giữ rõ âm cuối.",
@@ -4087,12 +5643,32 @@
         "vi": "món ăn yêu thích"
       },
       {
-        "en": "What about you?",
-        "vi": "Còn bạn thì sao?"
+        "en": "seafood",
+        "vi": "hải sản"
       },
       {
-        "en": "It depends",
-        "vi": "Điều đó còn tùy"
+        "en": "least favourite",
+        "vi": "ít yêu thích nhất"
+      },
+      {
+        "en": "it depends on",
+        "vi": "còn tùy vào…"
+      },
+      {
+        "en": "can't stand",
+        "vi": "không thể chịu nổi; rất ghét"
+      },
+      {
+        "en": "how often",
+        "vi": "bao lâu một lần"
+      },
+      {
+        "en": "once or twice a week",
+        "vi": "một hoặc hai lần mỗi tuần"
+      },
+      {
+        "en": "disgusting",
+        "vi": "kinh, gây khó chịu"
       }
     ],
     "pronunciation": "Nhấn từ khóa trong câu trả lời; đọc gọn các từ chức năng và giữ rõ âm cuối.",
@@ -4123,16 +5699,44 @@
     ],
     "phrases": [
       {
-        "en": "have lunch",
-        "vi": "ăn trưa"
+        "en": "starving",
+        "vi": "đói lả, rất đói"
       },
       {
-        "en": "What about you?",
-        "vi": "Còn bạn thì sao?"
+        "en": "leftovers",
+        "vi": "đồ ăn thừa để dùng lại"
       },
       {
-        "en": "It depends",
-        "vi": "Điều đó còn tùy"
+        "en": "go for",
+        "vi": "chọn"
+      },
+      {
+        "en": "skip lunch",
+        "vi": "bỏ bữa trưa"
+      },
+      {
+        "en": "hangry",
+        "vi": "cáu vì đói"
+      },
+      {
+        "en": "brunch",
+        "vi": "bữa ăn kết hợp sáng và trưa"
+      },
+      {
+        "en": "working lunch",
+        "vi": "bữa trưa kết hợp làm việc"
+      },
+      {
+        "en": "would rather",
+        "vi": "thích… hơn"
+      },
+      {
+        "en": "heat it up",
+        "vi": "hâm nóng nó"
+      },
+      {
+        "en": "in a horrible mood",
+        "vi": "trong tâm trạng rất tệ"
       }
     ],
     "pronunciation": "Nhấn từ khóa trong câu trả lời; đọc gọn các từ chức năng và giữ rõ âm cuối.",
@@ -4163,16 +5767,36 @@
     ],
     "phrases": [
       {
-        "en": "spicy food",
-        "vi": "đồ ăn cay"
+        "en": "has a kick",
+        "vi": "có vị cay rõ và bất ngờ"
       },
       {
-        "en": "What about you?",
-        "vi": "Còn bạn thì sao?"
+        "en": "cool it down",
+        "vi": "làm nó bớt nóng hoặc bớt cay"
       },
       {
-        "en": "It depends",
-        "vi": "Điều đó còn tùy"
+        "en": "my mouth is on fire",
+        "vi": "miệng tôi nóng rát vì cay"
+      },
+      {
+        "en": "mild",
+        "vi": "nhẹ, không cay nhiều"
+      },
+      {
+        "en": "learn to love",
+        "vi": "dần học cách yêu thích"
+      },
+      {
+        "en": "the spiciest",
+        "vi": "cay nhất"
+      },
+      {
+        "en": "lift your mood",
+        "vi": "cải thiện tâm trạng"
+      },
+      {
+        "en": "feel alive",
+        "vi": "cảm thấy tràn đầy sức sống"
       }
     ],
     "pronunciation": "Nhấn từ khóa trong câu trả lời; đọc gọn các từ chức năng và giữ rõ âm cuối.",
@@ -4204,15 +5828,35 @@
     "phrases": [
       {
         "en": "take your coffee",
-        "vi": "uống cà phê theo cách nào"
+        "vi": "uống cà phê với sữa/đường ra sao"
       },
       {
-        "en": "What about you?",
-        "vi": "Còn bạn thì sao?"
+        "en": "black coffee",
+        "vi": "cà phê đen, không sữa"
       },
       {
-        "en": "It depends",
-        "vi": "Điều đó còn tùy"
+        "en": "alert",
+        "vi": "tỉnh táo"
+      },
+      {
+        "en": "caffeine",
+        "vi": "chất caffeine"
+      },
+      {
+        "en": "decaf",
+        "vi": "cà phê không caffeine"
+      },
+      {
+        "en": "cut down on",
+        "vi": "cắt giảm"
+      },
+      {
+        "en": "regain some energy",
+        "vi": "lấy lại năng lượng"
+      },
+      {
+        "en": "trouble sleeping",
+        "vi": "khó ngủ"
       }
     ],
     "pronunciation": "Nhấn từ khóa trong câu trả lời; đọc gọn các từ chức năng và giữ rõ âm cuối.",
@@ -4243,16 +5887,36 @@
     ],
     "phrases": [
       {
+        "en": "atmosphere",
+        "vi": "bầu không khí"
+      },
+      {
         "en": "eat out",
-        "vi": "đi ăn ngoài"
+        "vi": "đi ăn ở nhà hàng"
       },
       {
-        "en": "What about you?",
-        "vi": "Còn bạn thì sao?"
+        "en": "wash up",
+        "vi": "rửa bát đĩa"
       },
       {
-        "en": "It depends",
-        "vi": "Điều đó còn tùy"
+        "en": "special occasion",
+        "vi": "dịp đặc biệt"
+      },
+      {
+        "en": "order in a restaurant",
+        "vi": "gọi món tại nhà hàng"
+      },
+      {
+        "en": "I'll have the ...",
+        "vi": "Tôi sẽ dùng món…"
+      },
+      {
+        "en": "Can I get the ...?",
+        "vi": "Cho tôi gọi món… được không?"
+      },
+      {
+        "en": "ready to order",
+        "vi": "sẵn sàng gọi món"
       }
     ],
     "pronunciation": "Nhấn từ khóa trong câu trả lời; đọc gọn các từ chức năng và giữ rõ âm cuối.",
@@ -4283,16 +5947,36 @@
     ],
     "phrases": [
       {
-        "en": "favourite subject",
-        "vi": "môn học yêu thích"
+        "en": "qualification",
+        "vi": "bằng cấp, chứng chỉ"
       },
       {
-        "en": "What about you?",
-        "vi": "Còn bạn thì sao?"
+        "en": "predictable",
+        "vi": "dễ đoán, không bất ngờ"
       },
       {
-        "en": "It depends",
-        "vi": "Điều đó còn tùy"
+        "en": "practical",
+        "vi": "mang tính thực hành"
+      },
+      {
+        "en": "full marks",
+        "vi": "điểm tuyệt đối"
+      },
+      {
+        "en": "nerd",
+        "vi": "mọt sách (thân mật)"
+      },
+      {
+        "en": "worked hard",
+        "vi": "học/làm việc chăm chỉ"
+      },
+      {
+        "en": "university degrees",
+        "vi": "bằng đại học"
+      },
+      {
+        "en": "really bad at",
+        "vi": "thực sự kém về"
       }
     ],
     "pronunciation": "Nhấn từ khóa trong câu trả lời; đọc gọn các từ chức năng và giữ rõ âm cuối.",
@@ -4323,16 +6007,36 @@
     ],
     "phrases": [
       {
-        "en": "daily routine",
-        "vi": "thói quen hằng ngày"
+        "en": "routine",
+        "vi": "lịch sinh hoạt; nếp thường lệ"
       },
       {
-        "en": "What about you?",
-        "vi": "Còn bạn thì sao?"
+        "en": "bowl of cereal",
+        "vi": "một bát ngũ cốc"
       },
       {
-        "en": "It depends",
-        "vi": "Điều đó còn tùy"
+        "en": "hangry",
+        "vi": "cáu gắt vì đói"
+      },
+      {
+        "en": "brunch",
+        "vi": "bữa ăn kết hợp sáng và trưa"
+      },
+      {
+        "en": "used to",
+        "vi": "đã từng (thói quen cũ)"
+      },
+      {
+        "en": "would",
+        "vi": "thường làm gì trong quá khứ"
+      },
+      {
+        "en": "miss a meal",
+        "vi": "bỏ lỡ, không ăn một bữa"
+      },
+      {
+        "en": "meal times",
+        "vi": "giờ ăn"
       }
     ],
     "pronunciation": "Đổi ngữ điệu theo lượt hỏi–đáp; nối các từ trong cùng một cụm ý.",
@@ -4363,16 +6067,36 @@
     ],
     "phrases": [
       {
-        "en": "get enough sleep",
-        "vi": "ngủ đủ giấc"
+        "en": "sleep habits",
+        "vi": "thói quen ngủ nghỉ"
       },
       {
-        "en": "What about you?",
-        "vi": "Còn bạn thì sao?"
+        "en": "exhausted",
+        "vi": "kiệt sức, rất mệt"
       },
       {
-        "en": "It depends",
-        "vi": "Điều đó còn tùy"
+        "en": "nightmare",
+        "vi": "ác mộng"
+      },
+      {
+        "en": "in the middle of the night",
+        "vi": "vào giữa đêm"
+      },
+      {
+        "en": "weird dream",
+        "vi": "giấc mơ kỳ lạ"
+      },
+      {
+        "en": "remember my dreams",
+        "vi": "nhớ được giấc mơ của mình"
+      },
+      {
+        "en": "snore",
+        "vi": "ngáy"
+      },
+      {
+        "en": "a couple of nights ago",
+        "vi": "vài đêm trước"
       }
     ],
     "pronunciation": "Đổi ngữ điệu theo lượt hỏi–đáp; nối các từ trong cùng một cụm ý.",
@@ -4403,16 +6127,36 @@
     ],
     "phrases": [
       {
-        "en": "keep fit",
-        "vi": "giữ cơ thể khỏe mạnh"
+        "en": "spare time",
+        "vi": "thời gian rảnh"
       },
       {
-        "en": "What about you?",
-        "vi": "Còn bạn thì sao?"
+        "en": "go running",
+        "vi": "đi chạy bộ"
       },
       {
-        "en": "It depends",
-        "vi": "Điều đó còn tùy"
+        "en": "working from home",
+        "vi": "làm việc tại nhà"
+      },
+      {
+        "en": "stressful week",
+        "vi": "một tuần căng thẳng"
+      },
+      {
+        "en": "feel alive again",
+        "vi": "cảm thấy tràn đầy sức sống trở lại"
+      },
+      {
+        "en": "take up",
+        "vi": "bắt đầu một sở thích mới"
+      },
+      {
+        "en": "boost your creativity",
+        "vi": "tăng khả năng sáng tạo"
+      },
+      {
+        "en": "in the middle of the day",
+        "vi": "vào giữa ngày"
       }
     ],
     "pronunciation": "Đổi ngữ điệu theo lượt hỏi–đáp; nối các từ trong cùng một cụm ý.",
@@ -4447,12 +6191,32 @@
         "vi": "kế hoạch cuối tuần"
       },
       {
-        "en": "What about you?",
-        "vi": "Còn bạn thì sao?"
+        "en": "going to",
+        "vi": "dự định sẽ…"
       },
       {
-        "en": "It depends",
-        "vi": "Điều đó còn tùy"
+        "en": "might",
+        "vi": "có thể, có lẽ"
+      },
+      {
+        "en": "meet up with",
+        "vi": "hẹn gặp, tụ họp với"
+      },
+      {
+        "en": "likely to",
+        "vi": "có khả năng sẽ"
+      },
+      {
+        "en": "peace and quiet",
+        "vi": "sự yên bình, tĩnh lặng"
+      },
+      {
+        "en": "looking forward to",
+        "vi": "mong chờ"
+      },
+      {
+        "en": "typical weekend",
+        "vi": "cuối tuần điển hình"
       }
     ],
     "pronunciation": "Đổi ngữ điệu theo lượt hỏi–đáp; nối các từ trong cùng một cụm ý.",
@@ -4483,16 +6247,44 @@
     ],
     "phrases": [
       {
-        "en": "summer plans",
-        "vi": "kế hoạch mùa hè"
+        "en": "weekend away",
+        "vi": "chuyến đi xa cuối tuần"
       },
       {
-        "en": "What about you?",
-        "vi": "Còn bạn thì sao?"
+        "en": "hen party",
+        "vi": "tiệc trước cưới dành cho cô dâu"
       },
       {
-        "en": "It depends",
-        "vi": "Điều đó còn tùy"
+        "en": "stag party",
+        "vi": "tiệc trước cưới dành cho chú rể"
+      },
+      {
+        "en": "day trips",
+        "vi": "các chuyến đi về trong ngày"
+      },
+      {
+        "en": "mow the lawn",
+        "vi": "cắt cỏ sân vườn"
+      },
+      {
+        "en": "roof terrace",
+        "vi": "sân thượng"
+      },
+      {
+        "en": "DIY",
+        "vi": "tự sửa/làm đồ trong nhà"
+      },
+      {
+        "en": "picnic",
+        "vi": "buổi dã ngoại ăn uống"
+      },
+      {
+        "en": "proper holiday",
+        "vi": "kỳ nghỉ đúng nghĩa"
+      },
+      {
+        "en": "What are you up to?",
+        "vi": "Bạn đang định làm gì?"
       }
     ],
     "pronunciation": "Đổi ngữ điệu theo lượt hỏi–đáp; nối các từ trong cùng một cụm ý.",
@@ -4523,16 +6315,36 @@
     ],
     "phrases": [
       {
-        "en": "travel by",
-        "vi": "đi bằng phương tiện"
+        "en": "journey to work",
+        "vi": "hành trình đi làm"
       },
       {
-        "en": "What about you?",
-        "vi": "Còn bạn thì sao?"
+        "en": "public transport",
+        "vi": "giao thông công cộng"
       },
       {
-        "en": "It depends",
-        "vi": "Điều đó còn tùy"
+        "en": "walk towards",
+        "vi": "đi bộ về phía"
+      },
+      {
+        "en": "walk across",
+        "vi": "đi bộ băng qua"
+      },
+      {
+        "en": "traffic jam",
+        "vi": "tắc đường"
+      },
+      {
+        "en": "rush hour",
+        "vi": "giờ cao điểm"
+      },
+      {
+        "en": "school run",
+        "vi": "việc đưa đón trẻ đi học"
+      },
+      {
+        "en": "underground train",
+        "vi": "tàu điện ngầm"
       }
     ],
     "pronunciation": "Đổi ngữ điệu theo lượt hỏi–đáp; nối các từ trong cùng một cụm ý.",
@@ -4563,16 +6375,44 @@
     ],
     "phrases": [
       {
-        "en": "visit a place",
-        "vi": "ghé thăm một nơi"
+        "en": "countryside",
+        "vi": "vùng nông thôn"
       },
       {
-        "en": "What about you?",
-        "vi": "Còn bạn thì sao?"
+        "en": "rural",
+        "vi": "thuộc nông thôn"
       },
       {
-        "en": "It depends",
-        "vi": "Điều đó còn tùy"
+        "en": "hustle and bustle",
+        "vi": "sự ồn ào, nhộn nhịp"
+      },
+      {
+        "en": "picturesque",
+        "vi": "đẹp như tranh"
+      },
+      {
+        "en": "go abroad",
+        "vi": "ra nước ngoài"
+      },
+      {
+        "en": "hire a car",
+        "vi": "thuê ô tô"
+      },
+      {
+        "en": "coastline",
+        "vi": "đường bờ biển"
+      },
+      {
+        "en": "try out",
+        "vi": "thử, trải nghiệm"
+      },
+      {
+        "en": "green space",
+        "vi": "không gian xanh"
+      },
+      {
+        "en": "wildlife",
+        "vi": "động vật hoang dã"
       }
     ],
     "pronunciation": "Đổi ngữ điệu theo lượt hỏi–đáp; nối các từ trong cùng một cụm ý.",
@@ -4603,16 +6443,36 @@
     ],
     "phrases": [
       {
-        "en": "favourite season",
-        "vi": "mùa yêu thích"
+        "en": "changing of the seasons",
+        "vi": "sự chuyển mùa"
       },
       {
-        "en": "What about you?",
-        "vi": "Còn bạn thì sao?"
+        "en": "more or less",
+        "vi": "gần như; xấp xỉ"
       },
       {
-        "en": "It depends",
-        "vi": "Điều đó còn tùy"
+        "en": "a big fan of",
+        "vi": "rất thích"
+      },
+      {
+        "en": "looking forward to",
+        "vi": "mong chờ"
+      },
+      {
+        "en": "crisp days",
+        "vi": "những ngày se lạnh, khô ráo"
+      },
+      {
+        "en": "all year round",
+        "vi": "quanh năm"
+      },
+      {
+        "en": "can't stand",
+        "vi": "không thể chịu nổi; rất ghét"
+      },
+      {
+        "en": "blossoms",
+        "vi": "hoa nở"
       }
     ],
     "pronunciation": "Đổi ngữ điệu theo lượt hỏi–đáp; nối các từ trong cùng một cụm ý.",
@@ -4643,16 +6503,36 @@
     ],
     "phrases": [
       {
-        "en": "childhood memory",
-        "vi": "kỷ niệm tuổi thơ"
+        "en": "childhood",
+        "vi": "thời thơ ấu"
       },
       {
-        "en": "What about you?",
-        "vi": "Còn bạn thì sao?"
+        "en": "white Christmas",
+        "vi": "Giáng sinh có tuyết phủ"
       },
       {
-        "en": "It depends",
-        "vi": "Điều đó còn tùy"
+        "en": "put on shows",
+        "vi": "tự tổ chức biểu diễn"
+      },
+      {
+        "en": "grow up",
+        "vi": "lớn lên, trưởng thành"
+      },
+      {
+        "en": "group chat",
+        "vi": "nhóm trò chuyện trực tuyến"
+      },
+      {
+        "en": "brings back memories",
+        "vi": "gợi lại ký ức"
+      },
+      {
+        "en": "used to",
+        "vi": "đã từng thường xuyên"
+      },
+      {
+        "en": "arrange to go out",
+        "vi": "sắp xếp để đi chơi"
       }
     ],
     "pronunciation": "Đổi ngữ điệu theo lượt hỏi–đáp; nối các từ trong cùng một cụm ý.",
@@ -4683,16 +6563,44 @@
     ],
     "phrases": [
       {
-        "en": "have a haircut",
-        "vi": "đi cắt tóc"
+        "en": "straight",
+        "vi": "thẳng"
       },
       {
-        "en": "What about you?",
-        "vi": "Còn bạn thì sao?"
+        "en": "ginger",
+        "vi": "màu hung đỏ"
       },
       {
-        "en": "It depends",
-        "vi": "Điều đó còn tùy"
+        "en": "wavy",
+        "vi": "gợn sóng"
+      },
+      {
+        "en": "curly",
+        "vi": "xoăn"
+      },
+      {
+        "en": "messy",
+        "vi": "rối, không gọn"
+      },
+      {
+        "en": "put up with",
+        "vi": "chịu đựng"
+      },
+      {
+        "en": "dye your hair",
+        "vi": "nhuộm tóc"
+      },
+      {
+        "en": "bald",
+        "vi": "hói, không có tóc trên đầu"
+      },
+      {
+        "en": "hairdresser",
+        "vi": "thợ hoặc tiệm làm tóc"
+      },
+      {
+        "en": "temporary",
+        "vi": "tạm thời, không lâu dài"
       }
     ],
     "pronunciation": "Đổi ngữ điệu theo lượt hỏi–đáp; nối các từ trong cùng một cụm ý.",
@@ -4723,16 +6631,36 @@
     ],
     "phrases": [
       {
-        "en": "play games",
-        "vi": "chơi trò chơi"
+        "en": "board games",
+        "vi": "trò chơi bàn cờ"
       },
       {
-        "en": "What about you?",
-        "vi": "Còn bạn thì sao?"
+        "en": "bonding experience",
+        "vi": "trải nghiệm giúp gắn kết"
       },
       {
-        "en": "It depends",
-        "vi": "Điều đó còn tùy"
+        "en": "last for so long",
+        "vi": "kéo dài quá lâu"
+      },
+      {
+        "en": "competitive",
+        "vi": "có tính cạnh tranh; hiếu thắng"
+      },
+      {
+        "en": "cheat",
+        "vi": "gian lận; người gian lận"
+      },
+      {
+        "en": "follow the rules",
+        "vi": "tuân theo luật chơi"
+      },
+      {
+        "en": "quiz",
+        "vi": "câu đố; cuộc thi đố vui"
+      },
+      {
+        "en": "general knowledge",
+        "vi": "kiến thức tổng hợp"
       }
     ],
     "pronunciation": "Dùng ngữ điệu thể hiện cảm xúc; ngắt ở ranh giới ý thay vì ngắt sau từng từ.",
@@ -4763,16 +6691,44 @@
     ],
     "phrases": [
       {
-        "en": "kind of film",
-        "vi": "thể loại phim"
+        "en": "foreign films",
+        "vi": "phim nước ngoài"
       },
       {
-        "en": "What about you?",
-        "vi": "Còn bạn thì sao?"
+        "en": "escape from reality",
+        "vi": "thoát khỏi thực tại"
       },
       {
-        "en": "It depends",
-        "vi": "Điều đó còn tùy"
+        "en": "plot",
+        "vi": "cốt truyện"
+      },
+      {
+        "en": "character",
+        "vi": "nhân vật"
+      },
+      {
+        "en": "describe a plot in the present simple",
+        "vi": "dùng hiện tại đơn để kể cốt truyện"
+      },
+      {
+        "en": "attention span",
+        "vi": "khả năng duy trì sự chú ý"
+      },
+      {
+        "en": "get into a TV series",
+        "vi": "bắt đầu mê một bộ phim truyền hình"
+      },
+      {
+        "en": "binge-watching",
+        "vi": "xem liên tục nhiều tập"
+      },
+      {
+        "en": "stream",
+        "vi": "xem trực tuyến"
+      },
+      {
+        "en": "not a big fan of",
+        "vi": "không thích lắm"
       }
     ],
     "pronunciation": "Dùng ngữ điệu thể hiện cảm xúc; ngắt ở ranh giới ý thay vì ngắt sau từng từ.",
@@ -4803,16 +6759,40 @@
     ],
     "phrases": [
       {
-        "en": "be creative",
-        "vi": "có tính sáng tạo"
+        "en": "come up with ideas",
+        "vi": "nghĩ ra ý tưởng"
       },
       {
-        "en": "What about you?",
-        "vi": "Còn bạn thì sao?"
+        "en": "inventive",
+        "vi": "có óc sáng tạo"
       },
       {
-        "en": "It depends",
-        "vi": "Điều đó còn tùy"
+        "en": "photography",
+        "vi": "nhiếp ảnh"
+      },
+      {
+        "en": "have a good eye",
+        "vi": "có con mắt thẩm mỹ"
+      },
+      {
+        "en": "take your mind off",
+        "vi": "giúp tạm quên căng thẳng"
+      },
+      {
+        "en": "sewing",
+        "vi": "việc may vá"
+      },
+      {
+        "en": "ceramics",
+        "vi": "đồ gốm; nghệ thuật làm gốm"
+      },
+      {
+        "en": "take up",
+        "vi": "bắt đầu một sở thích"
+      },
+      {
+        "en": "therapeutic",
+        "vi": "giúp thư giãn, chữa lành tinh thần"
       }
     ],
     "pronunciation": "Dùng ngữ điệu thể hiện cảm xúc; ngắt ở ranh giới ý thay vì ngắt sau từng từ.",
@@ -4843,16 +6823,40 @@
     ],
     "phrases": [
       {
-        "en": "socialise with",
-        "vi": "giao lưu với"
+        "en": "socialising",
+        "vi": "giao lưu, gặp gỡ mọi người"
       },
       {
-        "en": "What about you?",
-        "vi": "Còn bạn thì sao?"
+        "en": "have a shy side",
+        "vi": "có một mặt nhút nhát"
       },
       {
-        "en": "It depends",
-        "vi": "Điều đó còn tùy"
+        "en": "responsibilities",
+        "vi": "các trách nhiệm"
+      },
+      {
+        "en": "small talk",
+        "vi": "chuyện xã giao"
+      },
+      {
+        "en": "awkward",
+        "vi": "ngượng ngùng, không thoải mái"
+      },
+      {
+        "en": "embarrassed",
+        "vi": "xấu hổ, lúng túng"
+      },
+      {
+        "en": "in common",
+        "vi": "có điểm chung"
+      },
+      {
+        "en": "social burnout",
+        "vi": "kiệt sức vì giao tiếp quá nhiều"
+      },
+      {
+        "en": "lonely",
+        "vi": "cô đơn"
       }
     ],
     "pronunciation": "Dùng ngữ điệu thể hiện cảm xúc; ngắt ở ranh giới ý thay vì ngắt sau từng từ.",
@@ -4883,16 +6887,36 @@
     ],
     "phrases": [
       {
-        "en": "feel confident",
-        "vi": "cảm thấy tự tin"
+        "en": "shy",
+        "vi": "rụt rè, ngại ngùng"
       },
       {
-        "en": "What about you?",
-        "vi": "Còn bạn thì sao?"
+        "en": "nerve-racking",
+        "vi": "căng thẳng, gây lo lắng"
       },
       {
-        "en": "It depends",
-        "vi": "Điều đó còn tùy"
+        "en": "public speaking",
+        "vi": "việc nói trước đám đông"
+      },
+      {
+        "en": "well prepared",
+        "vi": "được chuẩn bị kỹ"
+      },
+      {
+        "en": "boost your confidence",
+        "vi": "tăng sự tự tin"
+      },
+      {
+        "en": "power stance",
+        "vi": "tư thế thể hiện sức mạnh, tự tin"
+      },
+      {
+        "en": "wish I was more ...",
+        "vi": "ước mình… hơn"
+      },
+      {
+        "en": "have respect for",
+        "vi": "khâm phục, tôn trọng"
       }
     ],
     "pronunciation": "Dùng ngữ điệu thể hiện cảm xúc; ngắt ở ranh giới ý thay vì ngắt sau từng từ.",
@@ -4923,16 +6947,40 @@
     ],
     "phrases": [
       {
-        "en": "worry about",
+        "en": "be worried about",
         "vi": "lo lắng về"
       },
       {
-        "en": "What about you?",
-        "vi": "Còn bạn thì sao?"
+        "en": "get hurt",
+        "vi": "bị thương"
       },
       {
-        "en": "It depends",
-        "vi": "Điều đó còn tùy"
+        "en": "bruised",
+        "vi": "bị bầm tím"
+      },
+      {
+        "en": "affect you badly",
+        "vi": "ảnh hưởng xấu đến bạn"
+      },
+      {
+        "en": "chilled",
+        "vi": "thư thái, bình tĩnh"
+      },
+      {
+        "en": "healthy attitude",
+        "vi": "thái độ, cách nhìn lành mạnh"
+      },
+      {
+        "en": "rational",
+        "vi": "lý trí, hợp lý"
+      },
+      {
+        "en": "distraction",
+        "vi": "thứ giúp tạm quên nỗi lo"
+      },
+      {
+        "en": "take your mind off",
+        "vi": "giúp ngừng nghĩ về điều gây lo"
       }
     ],
     "pronunciation": "Dùng ngữ điệu thể hiện cảm xúc; ngắt ở ranh giới ý thay vì ngắt sau từng từ.",
@@ -4963,16 +7011,36 @@
     ],
     "phrases": [
       {
+        "en": "grumpy",
+        "vi": "cáu kỉnh, khó chịu"
+      },
+      {
+        "en": "irritable",
+        "vi": "dễ cáu, dễ bị làm phiền"
+      },
+      {
+        "en": "stuck inside",
+        "vi": "bị kẹt, phải ở trong nhà"
+      },
+      {
+        "en": "cheer yourself up",
+        "vi": "tự làm mình vui lên"
+      },
+      {
+        "en": "lift your mood",
+        "vi": "cải thiện tâm trạng"
+      },
+      {
+        "en": "upbeat music",
+        "vi": "nhạc vui tươi, giàu năng lượng"
+      },
+      {
         "en": "in a good mood",
-        "vi": "có tâm trạng tốt"
+        "vi": "đang có tâm trạng vui vẻ"
       },
       {
-        "en": "What about you?",
-        "vi": "Còn bạn thì sao?"
-      },
-      {
-        "en": "It depends",
-        "vi": "Điều đó còn tùy"
+        "en": "on the other hand",
+        "vi": "mặt khác"
       }
     ],
     "pronunciation": "Dùng ngữ điệu thể hiện cảm xúc; ngắt ở ranh giới ý thay vì ngắt sau từng từ.",
@@ -5007,12 +7075,36 @@
         "vi": "mắc sai lầm"
       },
       {
-        "en": "What about you?",
-        "vi": "Còn bạn thì sao?"
+        "en": "by mistake",
+        "vi": "do nhầm lẫn, ngoài ý muốn"
       },
       {
-        "en": "It depends",
-        "vi": "Điều đó còn tùy"
+        "en": "end up being OK",
+        "vi": "cuối cùng vẫn ổn"
+      },
+      {
+        "en": "resign",
+        "vi": "xin nghỉ việc"
+      },
+      {
+        "en": "change your mind",
+        "vi": "đổi ý"
+      },
+      {
+        "en": "regret",
+        "vi": "hối tiếc; điều hối tiếc"
+      },
+      {
+        "en": "quit",
+        "vi": "bỏ, dừng hẳn"
+      },
+      {
+        "en": "positive attitude",
+        "vi": "thái độ tích cực"
+      },
+      {
+        "en": "learn from your mistakes",
+        "vi": "rút kinh nghiệm từ sai lầm"
       }
     ],
     "pronunciation": "Dùng ngữ điệu thể hiện cảm xúc; ngắt ở ranh giới ý thay vì ngắt sau từng từ.",
@@ -5047,12 +7139,32 @@
         "vi": "giữ bí mật"
       },
       {
-        "en": "What about you?",
-        "vi": "Còn bạn thì sao?"
+        "en": "an open book",
+        "vi": "người cởi mở, không giấu giếm"
       },
       {
-        "en": "It depends",
-        "vi": "Điều đó còn tùy"
+        "en": "manage to",
+        "vi": "xoay xở làm được"
+      },
+      {
+        "en": "propose",
+        "vi": "cầu hôn"
+      },
+      {
+        "en": "by accident",
+        "vi": "do vô tình"
+      },
+      {
+        "en": "be supposed to",
+        "vi": "đáng lẽ phải; được phép"
+      },
+      {
+        "en": "lie",
+        "vi": "nói dối; lời nói dối"
+      },
+      {
+        "en": "be proud of myself",
+        "vi": "tự hào về bản thân"
       }
     ],
     "pronunciation": "Dùng ngữ điệu thể hiện cảm xúc; ngắt ở ranh giới ý thay vì ngắt sau từng từ.",
@@ -5083,16 +7195,36 @@
     ],
     "phrases": [
       {
-        "en": "live with",
-        "vi": "sống cùng"
+        "en": "housemate",
+        "vi": "người ở chung nhà"
       },
       {
-        "en": "What about you?",
-        "vi": "Còn bạn thì sao?"
+        "en": "move in with",
+        "vi": "chuyển đến ở cùng"
       },
       {
-        "en": "It depends",
-        "vi": "Điều đó còn tùy"
+        "en": "share a bathroom",
+        "vi": "dùng chung phòng tắm"
+      },
+      {
+        "en": "messy",
+        "vi": "bừa bộn"
+      },
+      {
+        "en": "easygoing",
+        "vi": "dễ tính, thoải mái"
+      },
+      {
+        "en": "rent",
+        "vi": "thuê; tiền thuê"
+      },
+      {
+        "en": "landlord",
+        "vi": "chủ nhà cho thuê"
+      },
+      {
+        "en": "make a big difference",
+        "vi": "tạo ra khác biệt lớn"
       }
     ],
     "pronunciation": "Dùng ngữ điệu thể hiện cảm xúc; ngắt ở ranh giới ý thay vì ngắt sau từng từ.",
@@ -5123,16 +7255,36 @@
     ],
     "phrases": [
       {
-        "en": "work as",
-        "vi": "làm nghề"
+        "en": "over time",
+        "vi": "theo thời gian"
       },
       {
-        "en": "What about you?",
-        "vi": "Còn bạn thì sao?"
+        "en": "career in + field",
+        "vi": "sự nghiệp trong một lĩnh vực"
       },
       {
-        "en": "It depends",
-        "vi": "Điều đó còn tùy"
+        "en": "in the long term",
+        "vi": "về lâu dài"
+      },
+      {
+        "en": "how long ... for?",
+        "vi": "trong bao lâu?"
+      },
+      {
+        "en": "since + point in time",
+        "vi": "kể từ một mốc thời gian"
+      },
+      {
+        "en": "ages ago",
+        "vi": "từ rất lâu rồi"
+      },
+      {
+        "en": "have worked here for ...",
+        "vi": "đã làm việc ở đây được…"
+      },
+      {
+        "en": "for + length of time",
+        "vi": "trong một khoảng thời gian"
       }
     ],
     "pronunciation": "Giữ tốc độ ổn định trong câu dài; nhấn từ nêu quan điểm, lý do và sự tương phản.",
@@ -5163,16 +7315,40 @@
     ],
     "phrases": [
       {
-        "en": "dream job",
-        "vi": "công việc mơ ước"
+        "en": "dream jobs",
+        "vi": "những công việc mơ ước"
       },
       {
-        "en": "What about you?",
-        "vi": "Còn bạn thì sao?"
+        "en": "grow up",
+        "vi": "lớn lên, trưởng thành"
       },
       {
-        "en": "It depends",
-        "vi": "Điều đó còn tùy"
+        "en": "when I was younger, I wanted to be ...",
+        "vi": "khi còn nhỏ, tôi muốn trở thành…"
+      },
+      {
+        "en": "more than anything else",
+        "vi": "hơn bất cứ điều gì"
+      },
+      {
+        "en": "follow my dream",
+        "vi": "theo đuổi ước mơ"
+      },
+      {
+        "en": "live abroad",
+        "vi": "sống ở nước ngoài"
+      },
+      {
+        "en": "important to",
+        "vi": "quan trọng với"
+      },
+      {
+        "en": "worry about money",
+        "vi": "lo lắng về tiền bạc"
+      },
+      {
+        "en": "if I could ..., I would ...",
+        "vi": "nếu có thể…, tôi sẽ…"
       }
     ],
     "pronunciation": "Giữ tốc độ ổn định trong câu dài; nhấn từ nêu quan điểm, lý do và sự tương phản.",
@@ -5203,16 +7379,36 @@
     ],
     "phrases": [
       {
-        "en": "work in an office",
-        "vi": "làm việc tại văn phòng"
+        "en": "a bit of a problem with",
+        "vi": "hơi gặp vấn đề với…"
       },
       {
-        "en": "What about you?",
-        "vi": "Còn bạn thì sao?"
+        "en": "schedule",
+        "vi": "lịch làm việc"
       },
       {
-        "en": "It depends",
-        "vi": "Điều đó còn tùy"
+        "en": "commuting",
+        "vi": "việc đi lại đến chỗ học/làm"
+      },
+      {
+        "en": "colleagues",
+        "vi": "đồng nghiệp"
+      },
+      {
+        "en": "get work done",
+        "vi": "hoàn thành công việc"
+      },
+      {
+        "en": "boundary",
+        "vi": "ranh giới"
+      },
+      {
+        "en": "housework",
+        "vi": "việc nhà"
+      },
+      {
+        "en": "working remotely",
+        "vi": "làm việc từ xa"
       }
     ],
     "pronunciation": "Giữ tốc độ ổn định trong câu dài; nhấn từ nêu quan điểm, lý do và sự tương phản.",
@@ -5243,16 +7439,40 @@
     ],
     "phrases": [
       {
-        "en": "have a meeting",
-        "vi": "tổ chức hoặc tham gia cuộc họp"
+        "en": "pros and cons",
+        "vi": "ưu và nhược điểm"
       },
       {
-        "en": "What about you?",
-        "vi": "Còn bạn thì sao?"
+        "en": "discuss ideas",
+        "vi": "thảo luận ý tưởng"
       },
       {
-        "en": "It depends",
-        "vi": "Điều đó còn tùy"
+        "en": "make decisions",
+        "vi": "đưa ra quyết định"
+      },
+      {
+        "en": "brainstorm",
+        "vi": "cùng động não tìm ý tưởng"
+      },
+      {
+        "en": "efficient",
+        "vi": "hiệu quả, ít lãng phí thời gian"
+      },
+      {
+        "en": "speak up",
+        "vi": "lên tiếng nêu ý kiến"
+      },
+      {
+        "en": "in-person meeting",
+        "vi": "cuộc họp trực tiếp"
+      },
+      {
+        "en": "body language",
+        "vi": "ngôn ngữ cơ thể"
+      },
+      {
+        "en": "remote meeting",
+        "vi": "cuộc họp từ xa"
       }
     ],
     "pronunciation": "Giữ tốc độ ổn định trong câu dài; nhấn từ nêu quan điểm, lý do và sự tương phản.",
@@ -5283,16 +7503,40 @@
     ],
     "phrases": [
       {
+        "en": "commute",
+        "vi": "chuyến đi học/làm hằng ngày"
+      },
+      {
+        "en": "frequent",
+        "vi": "thường xuyên, dày chuyến"
+      },
+      {
         "en": "public transport",
         "vi": "giao thông công cộng"
       },
       {
-        "en": "What about you?",
-        "vi": "Còn bạn thì sao?"
+        "en": "convenient",
+        "vi": "tiện lợi"
       },
       {
-        "en": "It depends",
-        "vi": "Điều đó còn tùy"
+        "en": "reliable",
+        "vi": "đáng tin cậy, ổn định"
+      },
+      {
+        "en": "crowded",
+        "vi": "đông đúc"
+      },
+      {
+        "en": "rush hour",
+        "vi": "giờ cao điểm"
+      },
+      {
+        "en": "roadworks",
+        "vi": "công trình sửa chữa đường"
+      },
+      {
+        "en": "delayed",
+        "vi": "bị chậm, đến muộn hơn dự kiến"
       }
     ],
     "pronunciation": "Giữ tốc độ ổn định trong câu dài; nhấn từ nêu quan điểm, lý do và sự tương phản.",
@@ -5323,16 +7567,36 @@
     ],
     "phrases": [
       {
-        "en": "pros and cons",
-        "vi": "ưu và nhược điểm"
+        "en": "bustling",
+        "vi": "nhộn nhịp, đầy hoạt động"
       },
       {
-        "en": "What about you?",
-        "vi": "Còn bạn thì sao?"
+        "en": "convenient",
+        "vi": "tiện lợi"
       },
       {
-        "en": "It depends",
-        "vi": "Điều đó còn tùy"
+        "en": "music scene",
+        "vi": "đời sống, cộng đồng âm nhạc"
+      },
+      {
+        "en": "spontaneous plans",
+        "vi": "kế hoạch nảy ra tức thời"
+      },
+      {
+        "en": "apart from",
+        "vi": "ngoài, trừ"
+      },
+      {
+        "en": "spend loads of money",
+        "vi": "tiêu rất nhiều tiền"
+      },
+      {
+        "en": "architecture",
+        "vi": "kiến trúc"
+      },
+      {
+        "en": "would like to",
+        "vi": "muốn làm gì"
       }
     ],
     "pronunciation": "Giữ tốc độ ổn định trong câu dài; nhấn từ nêu quan điểm, lý do và sự tương phản.",
@@ -5367,12 +7631,32 @@
         "vi": "mạng xã hội"
       },
       {
-        "en": "What about you?",
-        "vi": "Còn bạn thì sao?"
+        "en": "entertaining",
+        "vi": "mang tính giải trí"
       },
       {
-        "en": "It depends",
-        "vi": "Điều đó còn tùy"
+        "en": "addictive",
+        "vi": "gây nghiện, khó dừng"
+      },
+      {
+        "en": "waste a lot of time",
+        "vi": "lãng phí nhiều thời gian"
+      },
+      {
+        "en": "stay in touch with",
+        "vi": "giữ liên lạc với"
+      },
+      {
+        "en": "group chats",
+        "vi": "các nhóm trò chuyện"
+      },
+      {
+        "en": "catch up with",
+        "vi": "hỏi thăm, cập nhật chuyện với ai"
+      },
+      {
+        "en": "screen time",
+        "vi": "thời gian sử dụng màn hình"
       }
     ],
     "pronunciation": "Giữ tốc độ ổn định trong câu dài; nhấn từ nêu quan điểm, lý do và sự tương phản.",
@@ -5407,12 +7691,32 @@
         "vi": "theo dõi tin tức"
       },
       {
-        "en": "What about you?",
-        "vi": "Còn bạn thì sao?"
+        "en": "first thing in the morning",
+        "vi": "việc đầu tiên vào buổi sáng"
       },
       {
-        "en": "It depends",
-        "vi": "Điều đó còn tùy"
+        "en": "notifications",
+        "vi": "các thông báo"
+      },
+      {
+        "en": "throughout the day",
+        "vi": "suốt cả ngày"
+      },
+      {
+        "en": "need a break",
+        "vi": "cần tạm nghỉ"
+      },
+      {
+        "en": "addictive",
+        "vi": "gây nghiện, khó ngừng"
+      },
+      {
+        "en": "pay more attention to",
+        "vi": "chú ý nhiều hơn đến"
+      },
+      {
+        "en": "have no control over",
+        "vi": "không kiểm soát được"
       }
     ],
     "pronunciation": "Giữ tốc độ ổn định trong câu dài; nhấn từ nêu quan điểm, lý do và sự tương phản.",
@@ -5443,16 +7747,40 @@
     ],
     "phrases": [
       {
+        "en": "waste",
+        "vi": "rác thải; sự lãng phí"
+      },
+      {
+        "en": "recycle",
+        "vi": "tái chế"
+      },
+      {
         "en": "throw away",
         "vi": "vứt bỏ"
       },
       {
-        "en": "What about you?",
-        "vi": "Còn bạn thì sao?"
+        "en": "reusable water bottles",
+        "vi": "chai nước có thể tái sử dụng"
       },
       {
-        "en": "It depends",
-        "vi": "Điều đó còn tùy"
+        "en": "single-use plastics",
+        "vi": "nhựa dùng một lần"
+      },
+      {
+        "en": "use up",
+        "vi": "dùng hết, tiêu hao"
+      },
+      {
+        "en": "wasteful",
+        "vi": "gây lãng phí"
+      },
+      {
+        "en": "rely on",
+        "vi": "phụ thuộc vào, cần để hoạt động"
+      },
+      {
+        "en": "cut down on",
+        "vi": "cắt giảm"
       }
     ],
     "pronunciation": "Giữ tốc độ ổn định trong câu dài; nhấn từ nêu quan điểm, lý do và sự tương phản.",
@@ -5483,16 +7811,40 @@
     ],
     "phrases": [
       {
-        "en": "remember things",
-        "vi": "ghi nhớ mọi việc"
+        "en": "keep our minds active",
+        "vi": "giữ đầu óc linh hoạt"
       },
       {
-        "en": "What about you?",
-        "vi": "Còn bạn thì sao?"
+        "en": "long-term memory",
+        "vi": "trí nhớ dài hạn"
       },
       {
-        "en": "It depends",
-        "vi": "Điều đó còn tùy"
+        "en": "short-term memory",
+        "vi": "trí nhớ ngắn hạn"
+      },
+      {
+        "en": "sharp",
+        "vi": "nhanh trí, đầu óc sắc bén"
+      },
+      {
+        "en": "on the tip of your tongue",
+        "vi": "ngay đầu lưỡi nhưng chưa nhớ ra"
+      },
+      {
+        "en": "on the spot",
+        "vi": "ngay tại chỗ, không kịp chuẩn bị"
+      },
+      {
+        "en": "process things",
+        "vi": "xử lý và suy ngẫm thông tin"
+      },
+      {
+        "en": "screen time",
+        "vi": "thời gian sử dụng màn hình"
+      },
+      {
+        "en": "struggle to remember",
+        "vi": "khó nhớ"
       }
     ],
     "pronunciation": "Giữ tốc độ ổn định trong câu dài; nhấn từ nêu quan điểm, lý do và sự tương phản.",

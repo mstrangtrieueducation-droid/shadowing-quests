@@ -9,6 +9,17 @@ const route = () => { try { return decodeURIComponent(location.hash.replace(/^#/
 const lessonPath = lesson => '/bai/' + encodeURIComponent(lesson.slug);
 const externalLink = (url,label,classes='text-link') => `<a class="${classes}" href="${escape(url)}" target="_blank" rel="noopener noreferrer">${escape(label)} <span aria-hidden="true">↗</span></a>`;
 const validStudent = s => s && typeof s.name==='string' && s.name.trim().length>=2 && config.classes.some(c=>c.code===s.classCode);
+const firstText = (...values) => values.find(value=>typeof value==='string'&&value.trim())?.trim()||'';
+
+function renderPhrase(phrase,index){
+  const item=phrase&&typeof phrase==='object'?phrase:{};
+  const term=firstText(item.en,item.term,item.english);
+  const meaning=firstText(item.vi,item.meaning,item.vietnamese);
+  return `<li class="phrase-item">
+    <span class="phrase-number" aria-hidden="true">${String(index+1).padStart(2,'0')}</span>
+    <div><strong class="phrase-en">${escape(term)}</strong><span class="phrase-meaning">${escape(meaning)}</span></div>
+  </li>`;
+}
 
 function formUrl(lesson){
   const url = new URL(config.form.url);
@@ -20,12 +31,7 @@ function formUrl(lesson){
 }
 
 function renderHeader(){
-  header.innerHTML = confirmedLessonId && validStudent(student) ? `<span class="student-chip"><strong>${escape(student.name)}</strong><span>${escape(student.classCode)}</span></span><button class="button button-ghost" id="change-student">Đổi lớp / tên</button>` : '';
-  document.querySelector('#change-student')?.addEventListener('click',()=>{
-    confirmedLessonId='';
-    render();
-    document.querySelector('#student-name')?.focus();
-  });
+  header.innerHTML = confirmedLessonId && validStudent(student) ? `<span class="student-chip"><strong>${escape(student.name)}</strong><span>${escape(student.classCode)}</span></span>` : '';
 }
 
 function renderEntry(lesson){
@@ -68,7 +74,7 @@ function renderLesson(lesson){
   document.title=`${lesson.id} · ${lesson.title} | Shadowing`;
   main.innerHTML=`<nav class="breadcrumb" aria-label="Đường dẫn"><a href="#/">Bài tập</a><span aria-hidden="true">/</span><span>${escape(lesson.id)}</span></nav><header class="lesson-heading"><p class="eyebrow">QUEST · LEVEL ${lesson.level} · ${escape(lesson.kind)}</p><h1>${escape(lesson.title)}</h1><div class="lesson-meta"><span class="lesson-code">${escape(lesson.id)}</span><span>${duration(lesson.durationSeconds)} phút</span><span>${escape(lesson.channel)}</span></div></header>
   <div class="lesson-layout"><div class="lesson-main"><div class="step-tabs" role="tablist" aria-label="Các bước làm bài"><button role="tab" class="filter-tab" data-step="listen" aria-selected="${activeStep==='listen'}">01 · Nghe & luyện</button><button role="tab" class="filter-tab" data-step="record" aria-selected="${activeStep==='record'}">02 · Ghi hình & nộp</button></div><div id="lesson-stage"></div>
-  <section class="content-card"><h2>Từ và cụm từ</h2><ul class="phrase-list">${lesson.phrases.map(p=>`<li><strong class="phrase-en">${escape(p.en)}</strong><span class="phrase-meaning">${escape(p.vi)}</span></li>`).join('')}</ul></section>
+  <section class="content-card vocabulary-card"><div class="section-heading"><div><p class="section-kicker">HỌC NHANH TRƯỚC KHI NÓI</p><h2>Từ và cụm từ quan trọng</h2></div><p>Những mục đáng học nhất trong bài.</p></div><ul class="phrase-list">${(Array.isArray(lesson.phrases)?lesson.phrases:[]).map(renderPhrase).join('')}</ul></section>
   <section class="content-card"><h2>Thử dùng vào câu của bạn</h2><p>${escape(lesson.extraPractice)}</p><p class="entry-note">Tự luyện thêm; không cần đưa phần này vào video nộp.</p></section></div>
   <aside class="lesson-sidebar"><section class="content-card"><h2>Mục tiêu bài học</h2><ul class="instruction-list">${lesson.goals.map(g=>`<li>${escape(g)}</li>`).join('')}</ul></section><section class="submit-card"><h2>Nộp bài</h2><p><strong>${escape(student.name)}</strong><br>${escape(student.classCode)}<br><span class="lesson-code">${escape(lesson.id)}</span></p><p>Đọc toàn bộ lời thoại và quay màn hình kèm micro.</p>${externalLink(formUrl(lesson),'Nộp bài','button button-primary')}<p class="entry-note">Đăng nhập Google để tải video. Bấm Gửi và chờ xác nhận đã nộp.</p></section></aside></div>`;
   document.querySelectorAll('[data-step]').forEach(button=>button.addEventListener('click',()=>{activeStep=button.dataset.step;document.querySelectorAll('[data-step]').forEach(b=>b.setAttribute('aria-selected',b===button?'true':'false'));renderStage(lesson);}));
