@@ -25,7 +25,7 @@ function renderHeader(){
 
 function renderEntry(lesson){
   document.title=`${lesson.id} · ${lesson.title} | Shadowing`;
-  main.innerHTML = `<nav class="breadcrumb" aria-label="Đường dẫn"><a href="#/">Bài tập</a><span aria-hidden="true">/</span><span>${escape(lesson.id)}</span></nav><section class="welcome-grid">
+  main.innerHTML = `<section class="welcome-grid">
     <div class="welcome-copy"><p class="eyebrow">QUEST · LEVEL ${lesson.level}</p><h1>${escape(lesson.title)}</h1><div class="lesson-meta"><span class="lesson-code">${escape(lesson.id)}</span><span>${duration(lesson.durationSeconds)} phút</span><span>${escape(lesson.channel)}</span></div><p class="intro">${escape(lesson.topic)}</p>
     <ol class="steps-list"><li><span class="step-number">01</span><div class="step-copy"><strong>Nghe và hiểu</strong><p>Xem hết video, mở bản lời thoại và hiểu nội dung trước khi luyện.</p></div></li><li><span class="step-number">02</span><div class="step-copy"><strong>Shadow theo giọng mẫu</strong><p>Bật tiếng gốc, nghe từng câu, nói đuổi sát và bắt chước toàn bộ cách nói. Sau đó shadow trọn bài.</p></div></li><li><span class="step-number">03</span><div class="step-copy"><strong>Nói lại và ghi hình</strong><p>Tắt hẳn video và tiếng gốc. Quay màn hình bản lời thoại kèm micro, rồi nói lại toàn bộ phần được giao.</p></div></li><li><span class="step-number">04</span><div class="step-copy"><strong>Nộp bài</strong><p>Kiểm tra video, bấm Nộp bài và gửi bản quay.</p></div></li></ol></div>
     <section class="entry-card" aria-labelledby="entry-title"><h2 id="entry-title">Vào làm bài</h2><p class="lesson-code">${escape(lesson.id)}</p>
@@ -61,7 +61,7 @@ function renderHome(){
 function renderLesson(lesson){
   if(previousLesson!==lesson.id){activeStep='listen';previousLesson=lesson.id;}
   document.title=`${lesson.id} · ${lesson.title} | Shadowing`;
-  main.innerHTML=`<nav class="breadcrumb" aria-label="Đường dẫn"><a href="#/">Bài tập</a><span aria-hidden="true">/</span><span>${escape(lesson.id)}</span></nav><header class="lesson-heading"><p class="eyebrow">QUEST · LEVEL ${lesson.level} · ${escape(lesson.kind)}</p><h1>${escape(lesson.title)}</h1><div class="lesson-meta"><span class="lesson-code">${escape(lesson.id)}</span><span>${duration(lesson.durationSeconds)} phút</span><span>${escape(lesson.channel)}</span></div></header>
+  main.innerHTML=`<header class="lesson-heading"><p class="eyebrow">QUEST · LEVEL ${lesson.level} · ${escape(lesson.kind)}</p><h1>${escape(lesson.title)}</h1><div class="lesson-meta"><span class="lesson-code">${escape(lesson.id)}</span><span>${duration(lesson.durationSeconds)} phút</span><span>${escape(lesson.channel)}</span></div></header>
   <div class="lesson-layout"><div class="lesson-main"><div class="step-tabs" role="tablist" aria-label="Các bước làm bài"><button role="tab" class="filter-tab" data-step="listen" aria-selected="${activeStep==='listen'}">01 · Nghe & luyện</button><button role="tab" class="filter-tab" data-step="record" aria-selected="${activeStep==='record'}">02 · Ghi hình & nộp</button></div><div id="lesson-stage"></div>
   </div>
   <aside class="lesson-sidebar"><section class="content-card"><h2>Mục tiêu bài học</h2><ul class="instruction-list">${lesson.goals.map(g=>`<li>${escape(g)}</li>`).join('')}</ul></section><section class="submit-card"><h2>Nộp bài</h2><p><strong>${escape(student.name)}</strong><br>${escape(student.classCode)}<br><span class="lesson-code">${escape(lesson.id)}</span></p><p>Nói lại toàn bộ lời thoại theo cách thể hiện của giọng mẫu và quay màn hình kèm micro.</p>${externalLink(formUrl(lesson),'Nộp bài','button button-primary')}<p class="entry-note">Đăng nhập Google để tải video. Bấm Gửi và chờ xác nhận đã nộp.</p></section></aside></div>`;
@@ -91,21 +91,26 @@ function render(){
     return;
   }
   document.title='Bài tập Shadowing';
-  main.innerHTML='<section class="empty-state"><h1>Chưa mở được bài này</h1><p>Hãy mở lại link bài mới nhất giáo viên đã gửi.</p><a class="button button-primary" href="#/">Về trang chính</a></section>';
+  main.innerHTML='<section class="empty-state"><h1>Chưa mở được bài này</h1><p>Hãy mở lại link bài mới nhất giáo viên đã gửi.</p></section>';
 }
 
 async function init(){
   try{
-    const responses=await Promise.all([fetch('config.json',{cache:'no-cache'}),fetch('lessons.json',{cache:'no-cache'})]);
-    if(responses.some(r=>!r.ok))throw new Error('Không tải được dữ liệu bài học.');
-    [config,lessons]=await Promise.all(responses.map(r=>r.json()));
+    const selected=route().match(/^\/bai\/([a-f0-9]{24})$/);
+    const responses=await Promise.all([fetch('config.json',{cache:'no-cache'}),selected?fetch(`lesson-data/${selected[1]}.json`,{cache:'no-cache'}):Promise.resolve(null)]);
+    if(responses.some(r=>r&&!r.ok))throw new Error('Không tải được dữ liệu bài học.');
+    config=await responses[0].json();
+    lessons=responses[1]?await responses[1].json():[];
     if(!Array.isArray(config.classes)||!Array.isArray(lessons)||!config.form?.entries?.classCode)throw new Error('Cấu hình bài học chưa hoàn chỉnh.');
     const slugs=lessons.map(l=>l.slug);
     if(slugs.some(s=>typeof s!=='string'||!/^[a-f0-9]{24}$/.test(s))||new Set(slugs).size!==slugs.length)throw new Error('Đường dẫn bài học cần được kiểm tra.');
     const ids=new Set();for(const lesson of lessons){if(ids.has(lesson.id)||!/^[-a-zA-Z0-9]+$/.test(lesson.id)||!/^[-\w]{11}$/.test(lesson.videoId)||lesson.durationSeconds>360)throw new Error('Dữ liệu bài học cần được kiểm tra.');ids.add(lesson.id);}
     try{const saved=JSON.parse(sessionStorage.getItem(SESSION_KEY)||'null');if(validStudent(saved))student=saved;}catch{}
     render();
-    window.addEventListener('hashchange',()=>{confirmedLessonId='';render();window.scrollTo({top:0,behavior:'instant'});main.focus();});
+
   }catch(error){main.innerHTML='<section class="empty-state" role="alert"><h1>Chưa mở được bài tập</h1><p>Kiểm tra kết nối rồi tải lại trang. Nếu vẫn gặp lỗi, hãy nhắn giáo viên.</p><button class="button button-primary" id="retry">Tải lại trang</button></section>';document.querySelector('#retry').addEventListener('click',()=>location.reload());console.error(error);}
 }
+window.addEventListener('hashchange',()=>{confirmedLessonId='';init();window.scrollTo({top:0,behavior:'instant'});main.focus();});
+// A cached entry page must not expose a link to a course homepage.
+document.querySelectorAll('a[href="#/"]').forEach(a=>a.removeAttribute('href'));
 init();
