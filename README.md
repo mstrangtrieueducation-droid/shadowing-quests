@@ -12,13 +12,14 @@ Mỗi lần mở một bài, học viên nhập hoặc xác nhận họ tên, l�
 
 ## Thay hoặc thêm bài
 
-Sửa `lessons.json` rồi commit để GitHub Pages cập nhật.
+Sửa đúng tệp `lesson-data/<slug>.json` rồi commit để GitHub Pages cập nhật. Mỗi tệp chỉ chứa một bài; `lessons.json` luôn là mảng rỗng, không dùng làm danh mục công khai.
 
 - `id`: mã bài hiển thị và gửi vào Form.
 - `slug`: mã ngẫu nhiên 24 ký tự của đường dẫn; giữ nguyên khi thay nội dung để link đã giao vẫn dùng được.
-- `level`: độ khó của bài, hiện có 100 bài Level 1 và 5 bài mẫu Level 2.
+- `level`: độ khó của bài.
 - `title`, `topic`, `description`: nội dung giới thiệu bài.
 - `videoId`, `durationSeconds`: video YouTube và thời lượng thật.
+- `dubbingVideoId` (tùy chọn): video đã tách giọng để lồng tiếng. Chỉ thêm khi bản xử lý đã được đăng và kiểm tra; `videoId` vẫn là bản nghe mẫu gốc.
 - `transcriptUrl`, `transcriptInstructions`, `submissionScope`: nguồn lời thoại và phạm vi đọc trọn bài.
 - `goals`, `phrases`, `pronunciation`, `extraPractice`: mục tiêu, cụm từ và hướng dẫn luyện.
 
@@ -28,7 +29,9 @@ Mỗi bài mới cần `id` và `slug` riêng. Không dùng lại slug của bà
 
 `config.json` chứa IELTS 45–53, FIGHTER 5–10 và địa chỉ Form cùng entry ID. Nút Nộp bài điền sẵn tên, lớp và mã bài. Học viên kiểm tra các giá trị, tải một video quay màn hình kèm micro lên rồi bấm Gửi trong Form.
 
-Mỗi bài Level 1 luyện toàn bộ một video VOA English in a Minute dài khoảng một phút. Khi quay bài nộp, tắt video gốc, hiển thị transcript và tự đọc trọn phần lời thoại. Không cần mở camera.
+Các bài có `dubbingVideoId` dùng luồng nghe mẫu → shadow → lồng tiếng theo bản xử lý → quay và nộp. Khi quay, dừng bản nghe mẫu, giữ hình và tiếng nền của bản luyện, bật cả âm thanh thiết bị và micro, quay thử 10 giây rồi kiểm tra trước khi quay trọn bài. Không cần camera. Bài chưa có bản xử lý tiếp tục dùng hướng dẫn ghi hình với lời thoại hiện có.
+
+Đợt thử nghiệm ngày 09/09/2026 chỉ áp dụng cho 5 bài đầu Level 1 và 5 bài đầu Level 2. Giữ nguyên slug, video mẫu, Form và mã bài. Không thêm danh sách khóa học hoặc liên kết sang bài khác.
 
 ## Phạm vi truy cập
 
