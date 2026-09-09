@@ -29,9 +29,13 @@ Mỗi bài mới cần `id` và `slug` riêng. Không dùng lại slug của bà
 
 `config.json` chứa IELTS 45–53, FIGHTER 5–10 và địa chỉ Form cùng entry ID. Nút Nộp bài điền sẵn tên, lớp và mã bài. Học viên kiểm tra các giá trị, tải một video quay màn hình kèm micro lên rồi bấm Gửi trong Form.
 
-Các bài có `dubbingVideoId` dùng luồng nghe mẫu → shadow → lồng tiếng theo bản xử lý → quay và nộp. Khi quay, dừng bản nghe mẫu, giữ hình và tiếng nền của bản luyện, bật cả âm thanh thiết bị và micro, quay thử 10 giây rồi kiểm tra trước khi quay trọn bài. Không cần camera. Bài chưa có bản xử lý tiếp tục dùng hướng dẫn ghi hình với lời thoại hiện có.
+Tất cả bài dùng luồng nghe mẫu → luyện theo giọng mẫu → bắt buộc lồng tiếng bằng video đã tách giọng → quay màn hình kèm giọng học sinh → nộp cho cô. Khi quay, dừng bản nghe mẫu, giữ tiếng nền của bản luyện, thu cả tiếng video và micro, quay thử 10 giây rồi kiểm tra. Không cần quay mặt. Bài chưa có `dubbingVideoId` hiển thị thông báo video lồng tiếng chưa sẵn sàng; phần nghe và luyện vẫn mở. Không hướng dẫn nộp bản đọc lời thoại thay cho lồng tiếng.
 
-Đợt thử nghiệm ngày 09/09/2026 chỉ áp dụng cho 5 bài đầu Level 1 và 5 bài đầu Level 2. Giữ nguyên slug, video mẫu, Form và mã bài. Không thêm danh sách khóa học hoặc liên kết sang bài khác.
+Hướng dẫn học sinh xưng “cô – em”, ngắn gọn và tập trung vào yêu cầu bài nộp. Không đưa giải thích về xử lý âm thanh, triển khai hay trạng thái YouTube vào bài học.
+
+Level 2 phải gắn phụ đề tiếng Anh trực tiếp vào hình của video lồng tiếng. Ưu tiên phụ đề gốc do nguồn phát hành cung cấp và giữ đúng thời gian; không dùng phụ đề tự nhận dạng từ bản đã tách giọng. Chỉ thay `dubbingVideoId` sau khi bản có phụ đề đã đăng Công khai và kiểm tra phát được. Giữ nguyên slug, video nghe mẫu, Form và mã bài; không thêm danh sách khóa học hoặc liên kết sang bài khác.
+
+Chỉ dọn file media cục bộ sau khi đúng bản cuối đã đăng và kiểm tra xong. Giữ thông tin nguồn, phụ đề, mã video và biên bản kiểm tra để tiếp tục công việc; không xóa bản còn chờ đăng.
 
 ## Phạm vi truy cập
 
