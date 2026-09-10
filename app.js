@@ -1,4 +1,4 @@
-import {hasDubbing, dubbingEntrySteps, renderDubbingStage} from './dubbing.js?v=teacher-20260909';
+import {hasDubbing, dubbingEntrySteps, renderDubbingStage} from './dubbing.js?v=teacher-20260910-drive';
 const main = document.querySelector('#main');
 const header = document.querySelector('#header-actions');
 const SESSION_KEY = 'chuot.practice.student.v1';
@@ -106,7 +106,7 @@ async function init(){
     if(!Array.isArray(config.classes)||!Array.isArray(lessons)||!config.form?.entries?.classCode)throw new Error('Cấu hình bài học chưa hoàn chỉnh.');
     const slugs=lessons.map(l=>l.slug);
     if(slugs.some(s=>typeof s!=='string'||!/^[a-f0-9]{24}$/.test(s))||new Set(slugs).size!==slugs.length)throw new Error('Đường dẫn bài học cần được kiểm tra.');
-    const ids=new Set();for(const lesson of lessons){if(ids.has(lesson.id)||!/^[-a-zA-Z0-9]+$/.test(lesson.id)||!/^[-\w]{11}$/.test(lesson.videoId)||lesson.durationSeconds>360||(lesson.dubbingVideoId!==undefined&&!hasDubbing(lesson)))throw new Error('Dữ liệu bài học cần được kiểm tra.');ids.add(lesson.id);}
+    const ids=new Set();for(const lesson of lessons){const hasDubbingRef=lesson.dubbingVideoId!==undefined||lesson.dubbingDriveId!==undefined;if(ids.has(lesson.id)||!/^[-a-zA-Z0-9]+$/.test(lesson.id)||!/^[-\w]{11}$/.test(lesson.videoId)||lesson.durationSeconds>360||(hasDubbingRef&&!hasDubbing(lesson)))throw new Error('Dữ liệu bài học cần được kiểm tra.');ids.add(lesson.id);}
     try{const saved=JSON.parse(sessionStorage.getItem(SESSION_KEY)||'null');if(validStudent(saved))student=saved;}catch{}
     render();
 

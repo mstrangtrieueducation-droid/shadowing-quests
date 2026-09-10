@@ -1,5 +1,22 @@
 const escape = (value = '') => String(value).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-export const hasDubbing = lesson => /^[-\w]{11}$/.test(lesson.dubbingVideoId || '');
+const youtubeId = lesson => /^[-\w]{11}$/.test(lesson.dubbingVideoId || '') ? lesson.dubbingVideoId : '';
+const driveId = lesson => /^[A-Za-z0-9_-]{20,}$/.test(lesson.dubbingDriveId || '') ? lesson.dubbingDriveId : '';
+export const hasDubbing = lesson => Boolean(driveId(lesson) || youtubeId(lesson));
+
+function dubbingVideo(lesson, externalLink) {
+  const fileId = driveId(lesson);
+  if (fileId) {
+    return {
+      embedUrl: `https://drive.google.com/file/d/${fileId}/preview`,
+      sourceLink: externalLink(`https://drive.google.com/file/d/${fileId}/view`, 'Mở bản luyện trong cửa sổ riêng'),
+    };
+  }
+  const videoId = youtubeId(lesson);
+  return {
+    embedUrl: `https://www.youtube-nocookie.com/embed/${videoId}?rel=0`,
+    sourceLink: externalLink(`https://www.youtube.com/watch?v=${videoId}`, 'Mở bản luyện trong cửa sổ riêng'),
+  };
+}
 
 export function dubbingEntrySteps() {
   return [
@@ -15,14 +32,15 @@ export function renderDubbingStage(target, lesson, {externalLink, submissionUrl}
     target.innerHTML = `<section class="content-card"><h2 id="record-title" tabindex="-1">Lồng tiếng và quay màn hình</h2><p class="record-rule"><strong>Cô yêu cầu em lồng tiếng bằng video đã tách giọng của bài và quay màn hình kèm giọng em.</strong></p><p>Video lồng tiếng của bài này chưa sẵn sàng. Em luyện phần Nghe & luyện trước.</p></section>`;
     return;
   }
+  const video = dubbingVideo(lesson, externalLink);
   target.innerHTML = `<section class="content-card">
     <p class="eyebrow">BẢN LUYỆN LỒNG TIẾNG</p>
     <h2 id="record-title" tabindex="-1">Lồng tiếng và quay màn hình</h2>
     <p class="record-rule"><strong>Cô yêu cầu em dùng đúng video đã tách giọng bên dưới để lồng tiếng và quay màn hình kèm giọng của em.</strong></p>
     <p>Em lồng đủ lời theo nhịp video, giữ phát âm, ngữ điệu và cảm xúc đã luyện. Bài nộp phải có hình video này và nghe rõ giọng em.</p>
   </section>
-  <div class="video-shell"><iframe src="https://www.youtube-nocookie.com/embed/${lesson.dubbingVideoId}?rel=0" title="${escape(lesson.title)} — bản luyện đã tách giọng mẫu" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
-  <div class="source-links">${externalLink(`https://www.youtube.com/watch?v=${lesson.dubbingVideoId}`, 'Mở bản luyện trên YouTube')}${externalLink(lesson.transcriptUrl, 'Mở bản lời thoại')}</div>
+  <div class="video-shell"><iframe src="${video.embedUrl}" title="${escape(lesson.title)} — bản luyện đã tách giọng mẫu" loading="lazy" allow="autoplay; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+  <div class="source-links">${video.sourceLink}${externalLink(lesson.transcriptUrl, 'Mở bản lời thoại')}</div>
   <section class="content-card">
     <h3>Cách làm bài</h3>
     <ol class="instruction-list">

@@ -19,7 +19,7 @@ Sửa đúng tệp `lesson-data/<slug>.json` rồi commit để GitHub Pages c�
 - `level`: độ khó của bài.
 - `title`, `topic`, `description`: nội dung giới thiệu bài.
 - `videoId`, `durationSeconds`: video YouTube và thời lượng thật.
-- `dubbingVideoId` (tùy chọn): video đã tách giọng để lồng tiếng. Chỉ thêm khi bản xử lý đã được đăng và kiểm tra; `videoId` vẫn là bản nghe mẫu gốc.
+- `dubbingDriveId` (ưu tiên) hoặc `dubbingVideoId` (dự phòng): video đã tách giọng để lồng tiếng. Chỉ thêm ID Drive sau khi tệp đã tải xong, cấp quyền xem theo liên kết và kiểm tra phát được; `videoId` vẫn là bản nghe mẫu gốc.
 - `transcriptUrl`, `transcriptInstructions`, `submissionScope`: nguồn lời thoại và phạm vi đọc trọn bài.
 - `goals`, `phrases`, `pronunciation`, `extraPractice`: mục tiêu, cụm từ và hướng dẫn luyện.
 
@@ -33,7 +33,7 @@ Tất cả bài dùng luồng nghe mẫu → luyện theo giọng mẫu → bắ
 
 Hướng dẫn học sinh xưng “cô – em”, ngắn gọn và tập trung vào yêu cầu bài nộp. Không đưa giải thích về xử lý âm thanh, triển khai hay trạng thái YouTube vào bài học.
 
-Level 2 phải gắn phụ đề tiếng Anh trực tiếp vào hình của video lồng tiếng. Ưu tiên phụ đề gốc do nguồn phát hành cung cấp và giữ đúng thời gian; không dùng phụ đề tự nhận dạng từ bản đã tách giọng. Chỉ thay `dubbingVideoId` sau khi bản có phụ đề đã đăng Công khai và kiểm tra phát được. Giữ nguyên slug, video nghe mẫu, Form và mã bài; không thêm danh sách khóa học hoặc liên kết sang bài khác.
+Level 2 phải gắn phụ đề tiếng Anh trực tiếp vào hình của video lồng tiếng. Ưu tiên phụ đề gốc do nguồn phát hành cung cấp và giữ đúng thời gian; không dùng phụ đề tự nhận dạng từ bản đã tách giọng. Chỉ thêm `dubbingDriveId` sau khi bản có phụ đề đã tải lên Drive, cấp quyền xem theo liên kết và kiểm tra phát được. Mỗi tệp có tên ngẫu nhiên, mỗi bài chỉ nhúng đúng tệp của bài đó; không chia sẻ thư mục chứa cả kho. Giữ nguyên slug, video nghe mẫu, Form và mã bài; không thêm danh sách khóa học hoặc liên kết sang bài khác.
 
 Chỉ dọn file media cục bộ sau khi đúng bản cuối đã đăng và kiểm tra xong. Giữ thông tin nguồn, phụ đề, mã video và biên bản kiểm tra để tiếp tục công việc; không xóa bản còn chờ đăng.
 
